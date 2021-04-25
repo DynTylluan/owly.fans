@@ -1,0 +1,63 @@
+body {
+	max-width: 800px ;
+	margin: auto ;
+	background: #00181E url(bricks.png);
+	color:#7F92FF;
+}
+
+h1 {
+	text-align: left ;
+}
+
+/* unvisited link */
+a:link {
+    color: #A17FFF;
+}
+
+/* visited link */
+a:visited {
+    color: #D67FFF;
+}
+
+/* mouse over link */
+a:hover {
+    color: #FF7FED;
+}
+
+/* selected link */
+a:active {
+    color: #FF7FB6;
+}
+
+ .blackstar {
+ position:fixed;
+ bottom:151;
+ left:15%;
+}
+
+/* This removed the underline for links */
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:active { text-decoration: underline; }
+
+/* What font to use */
+h1, h2, h3, a, th {
+	font-family: Ubuntu, "Noto Sans", "Liberation Sans", Helvetica, Arial, sans-serif;
+}
+
+pre, tt, xmp {
+	font-family: Ubuntu, "Ubuntu Monospace", Courier;
+}
+
+p {
+	font-family: Ubuntu, "Noto Sans", "Liberation Sans", Helvetica, Arial, sans-serif;
+}
+
+a {
+	text-decoration: underline;
+}
+
+a:hover {
+	text-decoration: none;
+}
