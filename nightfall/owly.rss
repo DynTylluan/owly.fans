@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+  <channel>
+    <title>Nightfall</title>
+    <description>Follow the rubbish blog of Cass of owly.fans
+	</description>
+    <webfeeds:logo>https://neozones.club/~owly/rss/img/floppy.png</webfeeds:logo>
+    <webfeeds:accentColor>2b90d9</webfeeds:accentColor>
+    <image>
+      <url>https://neozones.club/~owly/rss/img/floppy.png</url>
+      <title></title>
+      <link></link>
+    </image>
+    <webfeeds:icon>https://neozones.club/~owly/rss/img/floppy.png</webfeeds:icon>
+
+	<item>
+      <title>A Bad Review of: Space Jam: A New Legacy (2021)</title>
+      <description>
+		  Well, if you wanted to see LeBron James and Buggs Bunny together for some reasons, go crazy with this flick. Dated 2021-07-31.
+	  &lt;/p&gt;&lt;p&gt;
+  		  https://owly.fans/nightfall/002
+	  </description>
+    </item>
+
+	<item>
+      <title>A Bad Review of: The Plague Dogs (1982)</title>
+      <description>
+		  Remember Watership Down? No, uh, well this is a movie. Dated 2021-07-17.
+	  &lt;/p&gt;&lt;p&gt;
+  		  https://owly.fans/nightfall/002
+	  </description>
+    </item>
+
+	<item>
+      <title>A Bad Review of: Chickens Scared by Torpedo (1887)</title>
+      <description>
+		  Review of some 1800 short that no-one cares about. Dated 2021-07-31.
+	  &lt;/p&gt;&lt;p&gt;
+		  https://owly.fans/nightfall/003
+	  </description>
+    </item>
+	  
+	  
+  </channel>
+</rss>

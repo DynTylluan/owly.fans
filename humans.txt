@@ -1,0 +1,52 @@
+/* TEAM */
+    Pendragon: Cass "Owly" Python
+    Website: owly.fans
+    Contact: owlman@protonmail.com
+    Masto: @Owly@digipres.club
+    From: England-Cymru, UK
+
+/* THANKS */
+    Name: Pizza Squeeze
+    Website: squeeze.pizza
+    Contact: pizza (at) squeeze (dot) pizza
+    Masto: @pizzasqueeze@mastodon.social
+    From: Canada
+
+    Name: Job
+    Website: joppiesaus.neocities.org
+    Contact: N/A
+    Masto: N/A
+    From: The Netherlands
+
+    Name: vantablack
+    Website: vantaa.black
+    Contact: N/A
+    Masto: @vantablack@cybre.space
+    From: The USA
+
+    Name: a
+    Website: trwnh.com
+    Contact: N/A
+    Masto: @trwnh@mastodon.social
+    From: Jordan
+
+    Name: Randy "I'm not a furry" Lynch
+    Website: randartz.cf
+    Contact: N/A
+    Masto: @tehleroy@radical.town
+    From: Venezuela
+
+    Name: numbers
+    Website: noombers.neocities.org
+    Contact: N/A
+    Masto: @numbers@is.nota.live
+    From: The USA
+
+/* SITE */
+    Last update: 1970-01-01
+    Language: en_US
+    Doctype: Some version of HTML and CSS lmao
+    IDE used on Windows (former): Windows 8.1, Notepad++, FileZilla, paint.NET
+    IDE used on Linux (current): Manjaro Xfce, GitHub's Atom, FileZilla, Notepadqq
+    Host: Cloudflare
+    Emojies: Mutant Standard (mutant.tech) and Twemoji (twemoji.twitter.com)

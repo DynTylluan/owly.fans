@@ -1,0 +1,43 @@
+FOPL-ZERO v1
+                                 {O,O}   {O,O}
+                                 /)_)    (__(\
+                                  ""      " "
+                        THE FREEDOM OWL PUBLIC LICENSE.
+                          Version I, dated 2021-04-27
+
+                               owly.fans/license
+
+------------------------------------------------------------------------------
+
+> INTRO
+    The Freedom Owl Public License is not apart nore are we a law firm - it does not privide legal services. Distribution of this document does not create an attorney-client relationship. The The Freedom Owl Public License privides this information on an "as-is" basis.
+
+    We at The Freedom Owl Public License take no warranties regarding the use of this document or the information or works PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED HEREUNDER.
+
+> THE LICENSE ITSELF
+The use of this license in this git, website, artwork, audio, video, or anyother project by the rightful owner here by concent that you, the reader, may use a this project, meaning that you are free to:-
+
+> DO ANYTHING
+Anyone is permitted to copy and distribute or edit this work in anyway that they please with zero restrictions, meaning that you - the reader - are free to:
+
+> USE WORK FOR COMMERCIAL USE
+You may use this project to make money off of it. You are free to sell this project for money or any goods and/or sevaces, even if you have not made modafacations to it.
+
+> NOT USE THE SAME LICENSE
+As there are no restrictions to this project, you do not have to use the same license as the one the creator(s) have used.
+
+> NOT CREDIT THE CREATOR(S)
+You do not need to give credit to whomever made the origial project, althought do keep in mind, giving some kind of credit (even the original URL where you found said work) can be rather helpful to other people besides yourself, althoguth this is not required.
+
+> USE THE PROJECT FOR PRIVATE USE
+You may own a copy of this project for personal use, such as downloading it onto your personal computer if, say, the project is softwear, an image, a song, etc. If thw work is somethign that is phisical (a statue, a terditinal painting, etc) then you are free to take a photo, video, etc of it at the cost of only your time.
+
+> MAKE DISTRIBUTION
+You are free to share this project with friends, your fellow peers, or total strangers via any means you desire (CD, mail (incuding eletronic mail), print, etc, etc.) without any restrictions from the original creator(s). You are also free to mirror this project at no charge from the owner on the Internet if this is a non-phisical ownership, this incuides, but is no way limated to, serivces that use the Intetnet such as the World Wide Web, Gofher, Telnet, etc, etc.
+
+As long as you:-
+
+> EXCEPT NO WARRANTY
+This softwear, image, audio, etc comes as-is and the owner is not required or may not aid you in assesting you with it, meaning, for example, if the project that you use is some softwear, the creator(s) do not have to help you with installing it, truble shooting, or anything else that may cause you to need assistance. In other words, you are on your own.
+
+The use of this license cannot be undone or changed unless a more libral version is made.

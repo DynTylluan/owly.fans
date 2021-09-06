@@ -1,3 +1,5 @@
+/* See humans.txt for full thanks */
+
 body {
 	max-width: 800px ;
 	margin: auto ;
@@ -47,7 +49,7 @@ h1, h2, h3, a, th {
 }
 
 pre, tt, xmp {
-	font-family: Ubuntu, "Ubuntu Monospace", Courier;
+font-family: monospace, "Ubuntu Monospace", Courier;
 }
 
 p {
@@ -61,3 +63,29 @@ a {
 a:hover {
 	text-decoration: none;
 }
+
+/* Thnak you to Job of joppiesaus.neocities.org for not only writing the following CSS, but also allowing me to use it */
+/* Job has been a friend of mine for a few years now, and it would really make me happy if you checked out their website */
+figure {
+	display: block;
+	margin: 0 auto;
+	max-width: 95vw;
+	border: 1px solid #999;
+	background: #000;
+	background: rgba(0, 0, 0, 0.5);
+	width: min-content;
+	border-radius: 2px;
+}
+figure {
+	float: right;
+	max-width: 33vw;
+	margin: 3px;
+	margin-left: 5px;
+	margin-right: 0;
+}
+
+/* The Following code has been written by Randy and has given his consent for me to use it */
+/* I am unsure if the following code *can* even be copyrighted due to how generic it is */
+blockquote {
+	border-left: 0.1em solid #cc66ff; 
+	padding-left: 0.3em; }

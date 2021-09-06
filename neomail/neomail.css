@@ -1,0 +1,38 @@
+body {
+background-color:#000000;
+color:#86C351;
+font-family: "Courier New";
+}
+
+/* unvisited link */
+a:link {
+    color: #F7ED00;
+}
+
+/* visited link */
+a:visited {
+    color: #F7ED00;
+}
+
+/* mouse over link */
+a:hover {
+    color: #F7ED00;
+}
+
+/* selected link */
+a:active {
+    color: #F7ED00;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #7A0000;
+}

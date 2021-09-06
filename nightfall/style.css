@@ -1,0 +1,91 @@
+/* See humans.txt for full thanks */
+
+body {
+	max-width: 800px ;
+	margin: auto ;
+	background: #0d2b45 url(background.png);
+	color:#ffd4a3;
+}
+
+h1 {
+	text-align: left ;
+}
+
+/* unvisited link */
+a:link {
+    color: #544e68;
+}
+
+/* visited link */
+a:visited {
+    color: #8d697a;
+}
+
+/* mouse over link */
+a:hover {
+    color: #d08159;
+}
+
+/* selected link */
+a:active {
+    color: #ffaa5e;
+}
+
+ .blackstar {
+ position:fixed;
+ bottom:151;
+ left:15%;
+}
+
+/* This removed the underline for links */
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:active { text-decoration: underline; }
+
+/* What font to use */
+h1, h2, h3, a, th {
+	font-family: Ubuntu, "Noto Sans", "Liberation Sans", Helvetica, Arial, sans-serif;
+}
+
+pre, tt, xmp {
+font-family: monospace, "Ubuntu Monospace", Courier;
+}
+
+p {
+	font-family: Ubuntu, "Noto Sans", "Liberation Sans", Helvetica, Arial, sans-serif;
+}
+
+a {
+	text-decoration: underline;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+/* Thnak you to Job of joppiesaus.neocities.org for not only writing the following CSS, but also allowing me to use it */
+/* Job has been a friend of mine for a few years now, and it would really make me happy if you checked out their website */
+figure {
+	display: block;
+	margin: 0 auto;
+	max-width: 95vw;
+	border: 1px solid #999;
+	background: #000;
+	background: rgba(0, 0, 0, 0.5);
+	width: min-content;
+	border-radius: 2px;
+}
+figure {
+	float: right;
+	max-width: 33vw;
+	margin: 3px;
+	margin-left: 5px;
+	margin-right: 0;
+}
+
+/* The Following code has been written by Randy and has given his consent for me to use it */
+/* I am unsure if the following code *can* even be copyrighted due to how generic it is */
+blockquote {
+	border-left: 0.1em solid #cc66ff; 
+	padding-left: 0.3em; }

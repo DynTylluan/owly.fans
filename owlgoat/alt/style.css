@@ -1,0 +1,27 @@
+body {
+background-color:#D0B7DF;
+background-image: url("bricks.png");
+color:#7F92FF;
+font-family: Liberation Sans, sans-serif;
+font-size:12pt;
+}
+
+/* unvisited link */
+a:link {
+    color: #A17FFF;
+}
+
+/* visited link */
+a:visited {
+    color: #D67FFF;
+}
+
+/* mouse over link */
+a:hover {
+    color: #FF7FED;
+}
+
+/* selected link */
+a:active {
+    color: #FF7FB6;
+}
