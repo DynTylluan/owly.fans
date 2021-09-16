@@ -42,11 +42,18 @@
     Masto: @numbers@is.nota.live
     From: The USA
 
+    Name: Bruno
+    Website: arremeer.neocities.org
+    Contact: N/A
+    Masto: @foureleven@mastodon.social
+    From: Portugal
+
 /* SITE */
     Last update: 1970-01-01
     Language: en_US
     Doctype: Some version of HTML and CSS lmao
     IDE used on Windows (former): Windows 8.1, Notepad++, FileZilla, paint.NET
-    IDE used on Linux (current): Manjaro Xfce, GitHub's Atom, FileZilla, Notepadqq
+    IDE used on Linux (current): Manjaro Xfce, GitHub's Atom (former), FileZilla, Notepadqq
     Host: Cloudflare
+	OS: Ubuntu 20.04 x64
     Emojies: Mutant Standard (mutant.tech) and Twemoji (twemoji.twitter.com)
