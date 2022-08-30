@@ -43,8 +43,8 @@
     Masto: @numbers@is.nota.live
     From: United States of America
 
-    Name: Bruno «OnlineDevil» A.
-    Website: onlinedevil.neocities.org
+    Name: Bruno A.
+    Website: gamerboypee.neocities.org
     Contact: N/A
     Masto: @onlinedevil@goblin.camp 
     From: Portugal
@@ -56,6 +56,6 @@
     IDE used on Windows (former): Windows 8.1, Notepad++, FileZilla, paint.NET
     IDE used on Linux (current): Arch Xfce, GitHub's Atom, FileZilla, Notepadqq
     Host: Cloudflare
-	OS: Arch Linux
-	Former OS: Ubuntu 20.04 x64, Manjaro, Windows 10
+    OS: Arch Linux
+    Former OS: Ubuntu 20.04 x64, Manjaro, Windows 10
     Emojies: Mutant Standard (mutant.tech) and Twemoji (twemoji.twitter.com)
