@@ -1,0 +1,18 @@
+@echo off
+:MENU
+TITLE Cass' Tiny Game
+ECHO Welcome to Cass' Tiny Game, a really small game!
+ECHO.
+ECHO Pess ANY KEY to begin
+PAUSE
+cls
+ECHO You are on a train track and a train is about to hit you. To not die, press 1, to die and lose the game, press 2.
+if %1% == 0 goto 1
+if %2% == 0 goto 2
+cls
+:1
+ECHO Good job, you have won the game
+cls
+:2
+ECHO You have died, press 1 to retun to the main menu
+if %1% == 0 goto MENU

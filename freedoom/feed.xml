@@ -1,0 +1,30 @@
+<rss version="2.0">
+    <channel>
+    <title>Freedoom Feed</title>
+    <link>https://freedoom.github.io</link>
+    <description>The latest news from Freedoom</description>
+    <language>en-us</language>
+    <image>
+    <url>
+        https://freedoom.github.io/favicon.ico
+    </url>
+    </image>
+        <item>
+        <title>New RSS!</title>
+        <pubDate>2022-07-25</pubDate>
+        <description>
+        We now have an RSS feed that you can follow for all of the latest updates to Freedoom
+        
+        New line!
+        </description> 
+    </item>
+    
+    <item>
+        <title>New RSS!</title>
+        <pubDate>25 Jul 2022</pubDate>
+        <description>
+        We now have an RSS feed that you can follow for all of the latest updates to Freedoom
+        </description> 
+    </item>
+    </channel>
+</rss>

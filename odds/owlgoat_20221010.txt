@@ -1,0 +1,205 @@
+<!-- Panel 2 -->
+<!-- GOAT: Hey, checkout my telepoter device -->
+
+<!-- Panel 3 -->
+<!-- [OWL AND GOAT ARE BOTH IN HELL] GOAT: Well this is new -->
+<!-- GOAT: Man, that was a really funny comic, I'm going to screencap it and send it to all of my friends, haha -->
+<!-- [AS MLP:FIM PONYS] OWL: What on Earth... -->
+<!-- Change a02.png to OWL GANG FOR LIFE -->
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Owl and Goat</title>
+	<meta charset="utf-8">
+    <meta itemprop="name"           content="Owl and Goat">
+    <meta property="og:title"       content="Owl and Goat">
+    <meta itemprop="description"    content="Owl and Goat, a randomly generated comic about a goat and an owl">
+    <meta name="description"        content="Owl and Goat, a randomly generated comic about a goat and an owl">
+    <meta property="og:description" content="Owl and Goat, a randomly generated comic about a goat and an owl">
+    <meta name="keywords"           content="owl, man, owlman, neocities, brit, uk, archive, site ran by a stud, england, wales, twat">
+    <meta property="og:site_name"   content="Owl and Goat | owlman.neocities.org">
+    <meta property="og:type"        content="website">
+    <meta property="og:image"       content="http://owly.fans/floppy.png">
+    <meta property="og:url"         content="http://owly.fans/">
+    <meta name="referrer"           content="no-referrer-when-downgrade">
+	<a class="account-link" rel="me" href="https://digipres.club/@Owly"></a>
+	<link href="http://owly.fans/favicon.ico" rel="icon" type="image/png">
+	<link href="style.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body>
+<p></p>
+<center>
+<script type="text/javascript">
+var images = [
+'<img src="title.png" alt="Title" title="The title card for Owl and Goat" width="877" height="115">',
+]
+document.write(images[Math.floor(Math.random() * images.length)]);
+</script>
+
+<p></p>
+<script type="text/javascript">
+var images = [
+'<img src="a/a01.png" title="Owl is saying &#xAB;I&#x27;m your parent&#xBB;." width="363" height="314">',
+'<img src="a/a02.png" title="With closed eyes, Owl is saying &#xAB;OWL GANG FOR LIFE!&#xBB;." width="363" height="314">',
+'<img src="a/a03.png" title="With closed eyes, Owl is saying &#xAB;Kill me&#xBB;." width="363" height="314">',
+'<img src="a/a04.png" title="Both Owl and Goat are not saying or doing anything." width="363" height="314">',
+'<img src="a/a05.png" title="Goat is saying to Owl &#xAB;Eww, you watch cartoons?&#xBB;." width="363" height="314">',
+'<img src="a/a06.png" title="&#xAB;Wanna hear a joke?&#xBB;, Owl says to Goat." width="363" height="314">',
+'<img src="a/a07.png" title="Owl is saying &#xAB;SAY SOMETHING FUNNY, WE ONLY HAVE THREE PANNELS!&#xBB;, Goat has three exclamation marks over their head." width="363" height="314">',
+'<img src="a/a08.png" title="Owl is saying &#xAB;Saluton, mi estas Owl&#xBB; to Goat who is confused." width="363" height="314">',
+'<img src="a/a09.png" title="While holding a bottle of vodka and red cheeks, Owl says &#xAB;Hey kid, want some cheap booze?&#xBB;." width="363" height="314">',
+'<img src="a/a10.png" title="Goat is upside-down with their legs in the air, with a concerned look, Owl says &#xAB;Um, are you alright?&#xBB;." width="363" height="314">',
+'<img src="a/a11.png" title="Goat says &#xAB;Hey, wanna see my impression of you?&#xBB;." width="363" height="314">',
+'<img src="a/a12.png" title="Goat is holding a brick phone while saying &#xAB;Have you seen my new mobile phone?&#xBB;." width="363" height="314">',
+'<img src="a/a13.png" title="Owl is holding up a record; &#xAB;Hey, checkout my new record!&#xBB; they say." width="363" height="314">',
+'<img src="a/a14.png" title="Owl has a bong, Goat asks &#xAB;What&#x27;s that?&#xBB;." width="363" height="314">',
+'<img src="a/a15.png" title="Holding up a bra, Goat says &#xAB;Who&#x27;s bra is this..?&#xBB;; Owl is blushing." width="363" height="314">',
+'<img src="a/a16.png" title="Goat says to Owl &#xAB;Tell me again what the first worlds you said to your crush were&#xBB;." width="363" height="314">',
+'<img src="a/a17.png" title="Owl is saying &#xAB;How many goats does it take to screw in a light bulb?&#xBB;." width="363" height="314">',
+'<img src="a/a18.png" title="Owl has a phone in their hand, they are saying &#xAB;What&#x27;s your @? I&#x27;ll add you&#xBB; to Goat, however, Goat clearly does not understand what this means at all and has a question mark icon above their head." width="363" height="314">',
+'<img src="a/a19.png" title="Owl is holding up a selection of ties; &#xAB;Okay, so what tie should I wear today?&#xBB; they say to Goat." width="363" height="314">',
+'<img src="a/a20.png" title="While they have the Forth Doctor&#x27;s scarf on, Goat says &#xAB;Sorry I&#x27;m late to the geek meetup!&#xBB; to Owl, who has a H on their head from Red Dwarf." width="363" height="314">',
+'<img src="a/a21.png" title="Goat says to Owl &#xAB;What&#x27;s your favourite cheesy pick-up line?&#xBB;." width="363" height="314">',
+'<img src="a/a22.png" title="Goat says to a confused Owl &#xAB;&#x3053;&#x3093;&#x306B;&#x3061;&#x306F;&#x3001;&#x79C1;&#x306E;&#x53CB;&#x9054;&#xBB;." width="363" height="314">',
+'<img src="a/a23.png" title="Owl not knowing that Goat has a skateboard (or even what one is), they ask &#xAB;What have you got there?&#xBB; with a confused look on their face." width="363" height="314">',
+'<img src="a/a24.png" title="A dream bubble is coming from Goat, implying to the reader that the following panels never took place in Owl and Goat&#x27;s reality." width="363" height="314">',
+'<img src="a/a25.png" title="Owl says, quite correctly, &#xAB;I may be stupid&#xBB;." width="363" height="314">',
+'<img src="a/a26.png" title="Goat is holding up a butterfly knife while Owl looks scared, &#xAB;What&#x27;s that?&#xBB; they say." width="363" height="314">',
+'<img src="a/a27.png" title="Owl is rolling their eyes while saying &#xAB;Okay, let&#x27;s get this over with...&#xBB;." width="363" height="314">',
+'<img src="a/a28.png" title="Owl says to Goat &#xAB;I think you should talk first&#xBB;." width="363" height="314">',
+'<img src="a/a29.png" title="Owl has on the Groucho glasses and has a passport plus a suitcase while looking to be in a panic - &#xAB;You gotta help me, the law is after me!&#xBB; they say to Goat." width="363" height="314">',
+'<img src="a/a30.png" title="Owl says to Goat &#xAB;Did you know that a group of owls is called a parliament?&#xBB; (this is indeed correct)." width="363" height="314">',
+'<img src="a/a31.png" title="Goat is reading a newspaper. Owl is giving them the eye while saying &#xAB;So, um...&#xBB;." width="363" height="314">',
+'<img src="a/a32.png" title="Goat is on their own and says to no-one &#xAB;I&#x27;m glad that I can enjoy my free time without any stupid people aroun-&#xBB;." width="363" height="314">',
+'<img src="a/a33.png" title="With an evil look on their face, Goat says &#xAB;I&#x27;m feeling evil&#xBB;." width="363" height="314">',
+'<img src="a/a34.png" title="A mock title card that says &#xAB;Tonight on Owl and Goat, the role of Owl will be played by Tom Hanks&#xBB;." width="363" height="314">',
+'<img src="a/a35.png" title="With an evil look on their face, Goat says &#xAB;I&#x27;m feeling evil&#xBB;." width="363" height="314">',
+]
+document.write(images[Math.floor(Math.random() * images.length)]);
+</script>
+
+<script type="text/javascript">
+var images = [
+'<img src="b/b01.png" title="Both Owl and Goat are saying nothing." width="363" height="314">',
+'<img src="b/b02.png" title="With an angry expression, Goat says to Owl &#xAB;WHY WOULD YOU SAY THAT?&#xBB;." width="363" height="314">',
+'<img src="b/b03.png" title="Goat is nearly falling over with laughter." width="363" height="314">',
+'<img src="b/b04.png" title="&#xAB;I really hate you&#xBB;, says Goat." width="363" height="314">',
+'<img src="b/b05.png" title="Goat says &#xAB;So, umm...&#xBB;." width="363" height="314">',
+'<img src="b/b06.png" title="&#xAB;I see dead people&#xBB; says Goat while Owl has a scared look on their face." width="363" height="314">',
+'<img src="b/b07.png" title="Owl says to Goat &#xAB;Uh, have we met before?&#xBB; while looking confused." width="363" height="314">',
+'<img src="b/b08.png" title="With an angry look on their face, Owl says &#xAB;WHY WOULD YOU SAY THAT?&#xBB;." width="363" height="314">',
+'<img src="b/b09.png" title="There is a love heart between Owl and Goat, Owl is blushing while Goat has closed eyes." width="363" height="314">',
+'<img src="b/b10.png" title="With an angry face, Goat says to Owl &#xAB;Be quiet, I&#x27;m trying to think!&#xBB;." width="363" height="314">',
+'<img src="b/b11.png" title="A title card that says &#xAB;Later...&#xBB;." width="363" height="314">',
+'<img src="b/b12.png" title="Owl says &#xAB;Wanna go to space?&#xBB;." width="363" height="314">',
+'<img src="b/b13.png" title="Owl is holing up a cassette tape and a player for it, they say &#xAB;That&#x27;s cool, but play my mixtape&#xBB;." width="363" height="314">',
+'<img src="b/b14.png" title="Goat says &#xAB;Hell yes&#xBB; while having an angry look on their face." width="363" height="314">',
+'<img src="b/b15.png" title="With closed eyes and excitement, Owl says &#xAB;Hell yes!&#xBB;." width="363" height="314">',
+'<img src="b/b16.png" title="Owl is really angry and is shouting &#xAB;SHUT UP OR I WILL KILL YOU&#xBB; towards Goat." width="363" height="314">',
+'<img src="b/b17.png" title="Goat has an angry look on their face while Owl looks upset, Goat says &#xAB;&#x27;Look at me, I&#x27;m Owl&#x27; - yeah, shut up&#xBB;." width="363" height="314">',
+'<img src="b/b18.png" title="Goat has a wand; &#xAB;Is that a magic wand?&#xBB; says Owl to them." width="363" height="314">',
+'<img src="b/b19.png" title="Goat says to Owl &#xAB;You&#x27;re my best friend!&#xBB; - this makes them very happy that they are blushing." width="363" height="314">',
+'<img src="b/b20.png" title="Owl is confused and says &#xAB;..W-What?&#xBB;." width="363" height="314">',
+'<img src="b/b21.png" title="Goat is not happy at all and says to Owl &#xAB;You are the worse.&#xBB;." width="363" height="314">',
+'<img src="b/b22.png" title="Goat says &#xAB;Sorry, say that again, I wasn&#x27;t paying attention&#xBB;." width="363" height="314">',
+'<img src="b/b23.png" title="Title card that reads &#xAB;One Day Later...&#xBB;." width="363" height="314">',
+'<img src="b/b24.png" title="Goat says &#xAB;Did you know that you suck?&#xBB;." width="363" height="314">',
+'<img src="b/b25.png" title="Title card that says &#xAB;One hour later&#xBB;." width="363" height="314">',
+'<img src="b/b26.png" title="Goat is in a panic as their whole world is zooming in on them, they think &#xAB;Oh no, what should I say??&#xBB;." width="363" height="314">',
+'<img src="b/b27.png" title="Goat is zoomed in upon as they say &#xAB;Wow, that is vile.&#xBB;." width="363" height="314">',
+'<img src="b/b28.png" title="Owl says &#xAB;Wait, what was I saying? Oh yeah&#xBB;." width="363" height="314">',
+'<img src="b/b29.png" title="Goat says &#xAB;Unrealted, but you gotta tell me if you&#x27;re a cop&#xBB;." width="363" height="314">',
+'<img src="b/b30.png" title="A sketch of an unfished sketch of Owl and Goat, the text reads &#xAB;Owl: Let me guess, this is still a work in progress?&#xBB;" width="363" height="314">',
+'<img src="b/b31.png" title="A photo of singer Justin Bieber behind a white background. He says «Hey, I'm Justin Bieber»." width="363" height="314">',
+'<img src="b/b32.png" title="Further out, we can see that there is a person looking through a pair of binoculars at Owl and Goat." width="363" height="314">',
+'<img src="b/b33.png" title="A scene missing card." width="363" height="314">',
+'<img src="b/b34.png" title="A close-up shot of Goat's face." width="363" height="314">',
+'<img src="b/b35.png" title="Owl, Goat, and their whole world have been poorly drawn as if this is a sketch, Owl says &#xAB;Let me guess, this is still a work in progress?&#xBB;." width="363" height="314">',
+]
+document.write(images[Math.floor(Math.random() * images.length)]);
+</script>
+
+<script type="text/javascript">
+var images = [
+'<img src="c/c01.png" title="With a blank expression, Owl says to Goat &#xAB;I can&#x27;t move my body&#xBB;." width="363" height="314">',
+'<img src="c/c02.png" title="Colourful lights are in the background, both Owl and Goat are dancing and looking happy, the text &#xAB;ACID HOUSE TIME!&#xBB; is seen." width="363" height="314">',
+'<img src="c/c03.png" title="Goat says &#xAB;That&#x27;s not really funny&#xBB;." width="363" height="314">',
+'<img src="c/c04.png" title="Both Owl and Goat arnt&#x27;t saying anything." width="363" height="314">',
+'<img src="c/c05.png" title="Goat&#x27;s face is seen up-close, taking up all of the frame of the photo." width="363" height="314">',
+'<img src="c/c06.png" title="With an angry look on their face, Goat is saying &#xAB;I&#x27;m calling the police&#xBB;, Owl looks scared." width="363" height="314">',
+'<img src="c/c07.png" title="While jumping up and a happy look on their face, Goat says &#xAB;LOL, so RANDOM!&#xBB;." width="363" height="314">',
+'<img src="c/c08.png" title="Goat is very near to Owl, making them have a scared look on their face while Goat is saying &#xAB;You look cute when you sleep&#xBB;." width="363" height="314">',
+'<img src="c/c09.png" title="Owl is angry and is saying &#xAB;WHY WOULD YOU SAY THAT?&#xBB;." width="363" height="314">',
+'<img src="c/c10.png" title="Rather than seeing Owl and Goat, we instead see a gravestone &#xAB;Owl and Goat&#xBB; it says, &#xAB;They are dead&#xBB;." width="363" height="314">',
+'<img src="c/c11.png" title="Owl is up-close, filling up the frame of the image while a dream bubble is seen coming out of them, effectively meaning that they dreamt the last two panels up." width="363" height="314">',
+'<img src="c/c12.png" title="Owl and Goat are gone and all we can see is the background." width="363" height="314">',
+'<img src="c/c13.png" title="With a angry look on their face, Goat is holding up some money to Owl while saying &#xAB;Here, I&#x27;ll pay you to shut up&#xBB;." width="363" height="314">',
+'<img src="c/c14.png" title="&#xAB;What use is a tie to an owl?&#xBB; Goat says." width="363" height="314">',
+'<img src="c/c15.png" title="Instead of being their normal, real life selves, both Owl and Goat are now a cartoon sketch. With a concern look on their face, Owl says the the equally concerned Goat &#xAB;Something feels off&#xBB;." width="363" height="314">',
+'<img src="c/c16.png" title="Owl looks scared that Goat is not there in the panel with them and is gone - &#xAB;Goat, where&#x27;d you go??&#xBB; they say to only themself." width="363" height="314">',
+'<img src="c/c17.png" title="Instead of being in the real world, Owl and Goat have now been drawn poorly in MS Paint, Goat says &#xAB;This is new...&#xBB;." width="363" height="314">',
+'<img src="c/c18.png" title="Goat is holding up a phone while saying &#xAB;One sec, let me post this to my Masto&#xBB;, Owl looks concerned." width="363" height="314">',
+'<img src="c/c19.png" title="Inside of their mind, Goat is thinking &#xAB;OH NO OH NO OH NO&#xBB; a large number of times." width="363" height="314">',
+'<img src="c/c20.png" title="Mock TV credits appear on a black background with white text reading that the &#x27;show&#x27; was &#xAB;directed by Cass Python&#xBB;." width="363" height="314">',
+'<img src="c/c21.png" title="A new goat is seen on screen while Owl and Goat are in the corner, looking at their guest who says (quite correctly) &#xAB;You two are idiots&#xBB;." width="363" height="314">',
+'<img src="c/c22.png" title="Rather than being in its normal colors, the panel is now using a limited plate of only basic colors, Owl says &#xAB;Okay, what did you do now?&#xBB;." width="363" height="314">',
+'<img src="c/c23.png" title="Rather than Owl and Goat being on screen, a photo of a sticky note is seen on a calendar that says &#xAB;Reminder: Add a funny punchline to comic&#xBB;." width="363" height="314">',
+'<img src="c/c24.png" title="Both Owl and Goat are in Hell - Owl&#x27;s body has been taken over control by a demon and is now spurting out non-sensational words about Zalgo, their eyes are also bleeding. Overall, it isn&#x27;t a very good day for Owl." width="363" height="314">',
+'<img src="c/c25.png" title="Goat, quite correctly, says to Owl that &#xAB;You need to get help&#xBB; (Goat is unaware that they also need to get help)." width="363" height="314">',
+'<img src="c/c26.png" title="Owl and Goat have been effected by the Deep Dream app and look rather uncanny, Owl says &#xAB;I think I have a cold&#xBB;." width="363" height="314">',
+'<img src="c/c27.png" title="The last panel is all glitched up, with anger in their eyes, Owl says &#xAB;What did you touch now?&#xBB;." width="363" height="314">',
+'<img src="c/c28.png" title="Panel shows a newspaper clipping of Owl and Goat outside. The title of the clipping is &#xAB;Two Idiots Arrested&#xBB; and reads as &#xAB;Yesterday, two local idiots were arrested for being really, really dumb, police have said. Owl (an owl) and Goat (a goat), both idiots were caught doing some dumb act in public, because of course they were.&#xBB; / &#xAB;You would think that they would learn, but you would be wrong.&#xBB;." width="363" height="314">',
+'<img src="c/c29.png" title="Goat says to Owl, an owl, &#xAB;Why are you an owl?&#xBB;." width="363" height="314">',
+'<img src="c/c30.png" title="Owl and Goat are in an inspirational poster that has a black outline to it. Under the image of Owl and Goat the text &#xAB;Wait what?&#xBB; is seen, with &#xAB;That was awesome!&#xBB; underneath." width="363" height="314">',
+'<img src="c/c31.png" title="A screenshot of DuckDuckGo, a search engine, with the term of &#xAB;how to make a comic funny&#xBB; in the search bar." width="363" height="314">',
+'<img src="c/c32.png" title="&#xAB;Goat, I think I am in love&#xBB; says Owl while looking at you, the viewer." width="363" height="314">',
+'<img src="c/c33.png" title="Owl, Goat, and the background itself have all been poorly drawn by a child that used crayons to make them. Owl looks okay-ish, but Goat is almost a stick figure. &#xAB;Oh dear&#xBB; Owl says." width="363" height="314">',
+'<img src="c/c34.png" title="Goat is by Owl, they are both looking at two ugly watermarks that have appeared on the panel. &#xAB;A-Are those watermarks?&#xBB; says Owl." width="363" height="314">',
+'<img src="c/c35.png" title="Goat is menially looking at Owl and is starting down at them, making Owl uncertain about what is going on." width="363" height="314">',
+'<img src="c/c36.png" title="Without any joy in their voice or face, Goat says &#xAB;That was so very funny.&#xBB;." width="363" height="314">',
+'<img src="c/c37.png" title="Owl and Goat are looking up at the sky where a white banner is seen with the text saying &#xAB;Owl and Goat when they try and be funny! / &#x1F602;&#x1F602;&#x1F602;&#xBB; - Owl says to Goat &#xAB;What on Earth is going on up there?&#xBB;." width="363" height="314">',
+'<img src="c/c38.png" title="Owl and Goat look angry. Owl points a gun at you, the viewer, while saying &#xAB;Now laugh.&#xBB;." width="363" height="314">',
+'<img src="c/c39.png" title="Owl is looking at Goat with a confused look on their face. Goat is dressed in a t-shirt that has Supreme on as well as having on an ugly puffy jacket that has words written on it. Goat is mentally ill." width="363" height="314">',
+'<img src="c/c40.png" title="A screencap of a Twitter post by Goat saying &#xAB;Why does Owl have to be so dumb all of the time? / Come on!&#xBB;." width="363" height="314">',
+'<img src="c/c41.png" title="Owl has made a post on their Mastodon that says &#xAB;Why does Goat have to be so dense?&#xBB;." width="363" height="314">',
+'<img src="c/c42.png" title="&#xAB;I feel a bit ill...&#xBB; says Owl who, along with Goat, have been deepfyed and are not looking all that well right now." width="363" height="314">',
+'<img src="c/c43.png" title="Owl has their eyes crossed in a happy way, they are saying &#xAB;Ahh, how wholesome!&#xBB; with joy." width="363" height="314">',
+'<img src="c/c44.png" title="Owl and Goat, along with the rest of the world, have been turned into nothing but stock images, Owl says &#xAB;Wow, this is horrendous&#xBB;." width="363" height="314">',
+'<img src="c/c45.png" title="Owl is on their own, sitting down at a table in a greesey caf&#xE9;." width="363" height="314">',
+'<img src="c/c46.png" title="Goat says &#xAB;Damn right&#xBB;." width="363" height="314">',
+'<img src="c/c47.png" title="Owl says &#xAB;Great, now my happiness is all gone&#xBB;." width="363" height="314">',
+'<img src="c/c48.png" title="Owl and Goat are now in Hell. Goat&#x27;s boady has been taken over by a demon who is making them chant &#xAB;Kill, kill, kill, kill&#xBB;. Owl is not fully understanding this and says &#xAB;Well okay&#xBB; in the corner." width="363" height="314">',
+'<img src="c/c49.png" title="Owl and Goat are behind the source code for a website that shows off the inner workings of the site. Owl says &#xAB;I think we&#x27;re in the Matrix&#xBB;." width="363" height="314">',
+'<img src="c/c50.png" title="Goat has a pinkish tie on, Owl says &#xAB;Okay, ties DO look good on you&#xBB;." width="363" height="314">',
+'<img src="c/c51.png" title="Goat says &#xAB;This is so... Poggers...&#xBB;" width="363" height="314">',
+'<img src="c/c52.png" title="Goat says &#xAB;Wow, that was rude of me&#xBB;" width="363" height="314">',
+'<img src="c/c53.png" title="Goat says &#xAB;Remind me why I hang around with you&#xBB;" width="363" height="314">',
+'<img src="c/c54.png" title="Owl says &#xAB;Remind me why I hang around with you&#xBB;" width="363" height="314">',
+'<img src="c/c55.png" title="Rather than being in the wild, Owl is now in the house of Garfield the cat, who happens to be right next to them. Owl is just not understanding why they are even there." width="363" height="314">',
+'<img src="c/c56.png" title="While they are panicking, Owl and Goat are in the cartoon world of GachaLife, &#xAB;Ahhh, what happened??&#xBB; says Owl, now looking at their new hands as they have turned into a human, much like Goat who is just standing there in shock." width="363" height="314">',
+'<img src="c/c57.png" title="Goat thinks that they are funny by saying &#xAB;Mmm, that&#x27;s kind of sus&#xBB; - Owl has no idea that they are making a reference to Among Us and says in return &#xAB;What?&#xBB;." width="363" height="314">',
+'<img src="c/c58.png" title="Owl, Goat, and their whole world has all been turned into basic shapes; Owl is now just a circle while Goat is made up of two squares. They have been broken down into their bear elements." width="363" height="314">',
+'<img src="c/c59.png" title="Owl has been turned into a woof-like humanoid who is excited, Owl - Now Loona - says &#xAB;Oh no, I turned into Loona from Helluva Boss, ah ah haa&#xBB; while Goat is just looking, not knowing what to say or do." width="363" height="314">',
+'<img src="c/c60.png" title="Owl and Goat have changed from being real life animals into now being cartoon characters drawn by StoneToss, a far-right cartoonist. Owl says &#xAB;Oh great, now we&#x27;ve been drawn by a fascist&#xBB; to Goat, who is not having a good time at all." width="363" height="314">',
+'<img src="c/c61.png" title="Owl and Goat have been drawn onto a rock, Owl says &#xAB;You rock!&#xBB; to a drawn Goat." width="363" height="314">',
+'<img src="c/c62.png" title="An image of Dracula from Hotel Transylvania looking smug - this is the punchline." width="363" height="314">',
+'<img src="c/c63.png" title="Owl and Goat have been spray-painted onto a wall, Owl says &#xAB;This is odd&#xBB;." width="363" height="314">',
+'<img src="c/c65.png" title="A meme format with the top text saying &#xAB;Me and the bad Goat I pulled by being soofy and silly&#xBB;, showing Owl and Goat under." width="363" height="314">',
+'<img src="c/c66.png" title="The last panel shows a crying person saying &#xAB;Nooo, you can&#x27;t just end the comic with an unfunny punchline&#xBB; with a female wojak replying with &#xAB;Haha, Owl and Goat go burrr&#xBB;" width="363" height="314">',
+'<img src="c/c67.png" title="Owl and Goat have been gafiated onto a wall, &#xAB;This is odd&#xBB;, says Owl." width="363" height="314">',
+'<img src="c/c68.png" title="Text that says &#xAB;Me and the bad Goat I pulled by being goofy and silly&#xBB;." width="363" height="314">',
+'<img src="c/c69.png" title="A photo of the 1994 mugshot of O.J. Simpson." width="363" height="314">',
+]
+document.write(images[Math.floor(Math.random() * images.length)]);
+</script>
+<p></p>
+<hr>
+<p></p>
+<font color="black"><center>&#x2605;</center></center></font>
+<p></p>
+<script src="/script.js"></script>
+		<script src="/ruffle/ruffle.js"></script>
+    </body>
+</html>

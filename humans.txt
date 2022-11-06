@@ -1,7 +1,6 @@
 /* TEAM */
-    Pendragon: Cass «Owly» Python
+    Pendragon: Cass "Owly" Python
     Website: owly.fans
-    Website mirror: owlyfans.neocities.org
     Contact: owlgal69@protonmail.com
     Masto: @Owly@digipres.club
     From: England-Cymru, UK
@@ -17,13 +16,13 @@
     Website: joppiesaus.neocities.org
     Contact: N/A
     Masto: N/A
-    From: Netherlands
+    From: The Netherlands
 
     Name: vantablack
     Website: vantaa.black
     Contact: N/A
     Masto: @vantablack@cybre.space
-    From: United States of America
+    From: The USA
 
     Name: a
     Website: trwnh.com
@@ -31,7 +30,7 @@
     Masto: @trwnh@mastodon.social
     From: Jordan
 
-    Name: Randy «I'm not a furry» Lynch
+    Name: Randy "I'm not a furry" Lynch
     Website: randartz.cf
     Contact: N/A
     Masto: @tehleroy@radical.town
@@ -41,12 +40,12 @@
     Website: noombers.neocities.org
     Contact: N/A
     Masto: @numbers@is.nota.live
-    From: United States of America
+    From: The USA
 
-    Name: Bruno A.
-    Website: gamerboypee.neocities.org
+    Name: Bruno
+    Website: arremeer.neocities.org
     Contact: N/A
-    Masto: @onlinedevil@goblin.camp 
+    Masto: @foureleven@mastodon.social
     From: Portugal
 
 /* SITE */
@@ -54,8 +53,7 @@
     Language: en_US
     Doctype: Some version of HTML and CSS lmao
     IDE used on Windows (former): Windows 8.1, Notepad++, FileZilla, paint.NET
-    IDE used on Linux (current): Arch Xfce, GitHub's Atom, FileZilla, Notepadqq
+    IDE used on Linux (current): Manjaro Xfce, GitHub's Atom (former), FileZilla, Notepadqq
     Host: Cloudflare
-    OS: Arch Linux
-    Former OS: Ubuntu 20.04 x64, Manjaro, Windows 10
+	OS: Ubuntu 20.04 x64
     Emojies: Mutant Standard (mutant.tech) and Twemoji (twemoji.twitter.com)

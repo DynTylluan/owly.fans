@@ -1,0 +1,87 @@
+[cass@cass Play Doom]$ chocolate-doom -iwad doomu.wad -merge eeveemug.wad prjdoom.wad prjpluto.WAD see_easy.wad Doom_Sound_Bulb_Legacy.wad geneva.wad vsmooth.wad SINERGY.wad DoomEOGrafikoj.wad -deh vsmooth.deh all.deh eo.deh idclip.deh -warp 11
+                         Chocolate Doom 3.0.1
+Z_Init: Init zone memory allocation daemon. 
+zone memory: 0x7fb61ea86010, 1000000 allocated for zone
+Using /home/cass/.local/share/chocolate-doom/ for configuration and saves
+V_Init: allocate screens.
+M_LoadDefaults: Load system defaults.
+saving config in /home/cass/.local/share/chocolate-doom/default.cfg
+W_Init: Init WADfiles.
+ adding doomu.wad
+ loading vsmooth.deh
+ loading all.deh
+ loading eo.deh
+ loading idclip.deh
+ merging eeveemug.wad
+ merging prjdoom.wad
+ merging prjpluto.WAD
+ merging see_easy.wad
+ merging Doom_Sound_Bulb_Legacy.wad
+ merging geneva.wad
+ merging vsmooth.wad
+ merging SINERGY.wad
+ merging DoomEOGrafikoj.wad
+===========================================================================
+                           The Ultimate DOOM
+===========================================================================
+ Chocolate Doom is free software, covered by the GNU General Public
+ License.  There is NO warranty; not even for MERCHANTABILITY or FITNESS
+ FOR A PARTICULAR PURPOSE. You are welcome to change and distribute
+ copies under certain conditions. See the source for more information.
+===========================================================================
+I_Init: Setting up machine state.
+Failed to get I/O port permissions for 0x388: Operation not permitted
+	You may need to run the program as root in order
+	to acquire I/O port permissions for OPL MIDI playback.
+OPL_Init: Using driver 'SDL'.
+NET_Init: Init network subsystem.
+M_Init: Init miscellaneous info.
+R_Init: Init DOOM refresh daemon - [............................]
+P_Init: Init Playloop state.
+S_Init: Setting up sound.
+D_CheckNetGame: Checking network game status.
+startskill 2  deathmatch: 0  startmap: 1  startepisode: 1
+player 1 of 1 (1 nodes)
+Emulating the behavior of the 'Ultimate Doom' executable.
+HU_Init: Setting up heads up display.
+ST_Init: Init status bar.
+===========================================================================
+WARNING: it looks like you are using a software GL implementation.
+To improve performance, try setting force_software_renderer in your
+configuration file.
+===========================================================================
+						Bad V_DrawPatch
+
+[cass@cass Play Doom]$ 
+Display all 2873 possibilities? (y or n)
+!                                   ideviceenterrecovery                ppmmake
+./                                  ideviceimagemounter                 ppmmix
+2to3                                ideviceinfo                         ppmnorm
+2to3-2.7                            idevicename                         ppmntsc
+2to3-3.10                           idevicenotificationproxy            ppmpat
+411toppm                            idevicepair                         ppmquant
+4channels                           ideviceprovision                    ppmquantall
+:                                   idevicescreenshot                   ppmrainbow
+Magick++-config                     idevicesetlocation                  ppmrelief
+MagickCore-config                   idevicesyslog                       ppmrough
+MagickWand-config                   idiag-socket-details                ppmshadow
+NetworkManager                      idle                                ppmshift
+ShowInstallerIsoInfo                idle2                               ppmspread
+SvtAv1DecApp                        idle3                               ppmtoacad
+SvtAv1EncApp                        idle3.10                            ppmtoapplevol
+Thunar                              idn                                 ppmtoarbtxt
+X                                   idn2                                ppmtoascii
+Xorg                                if                                  ppmtobmp
+Xvfb                                ifnames                             ppmtoeyuv
+Xwayland                            ifstat                              ppmtogif
+[                                   ijs-config                          ppmtoicr
+[[                                  ijs_client_example                  ppmtoilbm
+]]                                  ijs_server_example                  ppmtojpeg
+_open_files_for_editing             ilbmtoppm                           ppmtoleaf
+a2x                                 img2txt                             ppmtolj
+a52dec                              img2webp                            ppmtomap
+aafire                              imgcmp                              ppmtomitsu
+aainfo                              imginfo                             ppmtompeg
+aalib-config                        imgtoppm                            ppmtoneo
+aasavefont                          imlib2_bumpmap                      ppmtopcx
+[cass@cass Play Doom]$ 
