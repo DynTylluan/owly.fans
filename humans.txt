@@ -21,7 +21,7 @@
     Name: vantablack
     Website: vantaa.black
     Contact: N/A
-    Masto: @vantablack@cybre.space
+    Masto: @vantablack@beach.city
     From: The USA
 
     Name: a
@@ -31,7 +31,7 @@
     From: Jordan
 
     Name: Randy "I'm not a furry" Lynch
-    Website: randartz.cf
+    Website: randartz.ml
     Contact: N/A
     Masto: @tehleroy@radical.town
     From: Venezuela
@@ -42,10 +42,10 @@
     Masto: @numbers@is.nota.live
     From: The USA
 
-    Name: Bruno
-    Website: arremeer.neocities.org
+    Name: devils
+    Website: yourdevilfriends.art
     Contact: N/A
-    Masto: @foureleven@mastodon.social
+    Masto: @yourdevilfriends@blorbo.social
     From: Portugal
 
 /* SITE */
@@ -53,7 +53,7 @@
     Language: en_US
     Doctype: Some version of HTML and CSS lmao
     IDE used on Windows (former): Windows 8.1, Notepad++, FileZilla, paint.NET
-    IDE used on Linux (current): Manjaro Xfce, GitHub's Atom (former), FileZilla, Notepadqq
+    IDE used on Linux (current): Manjaro Xfce, GitHub's Atom, FileZilla (former), Notepadqq
     Host: Cloudflare
-	OS: Ubuntu 20.04 x64
+    OS: Arch Linux x86_64
     Emojies: Mutant Standard (mutant.tech) and Twemoji (twemoji.twitter.com)
