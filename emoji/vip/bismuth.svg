@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc = "http://purl.org/dc/elements/1.1/"
+         >
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji VIP 2018-04</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Dzuk</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+<rect id="bismuth" x="0" y="0" width="32" height="32" style="fill:none;"/><clipPath id="_clip1"><rect x="0" y="0" width="32" height="32"/></clipPath><g clip-path="url(#_clip1)"><g id="outline"><path d="M32,8.764l0,6.472l-4,2l0,5l-6,3l0,3l-6,3l-8,-4l0,-2l-2,-1l0,-4l-6,-3l0,-8.472l16,-8l16,8Z" style="fill-rule:nonzero;"/></g><g id="emoji"><path d="M30,10l0,4l-4,2l0,5l-6,3l0,3l-4,2l-6,-3l0,-2l-2,-1l0,-4l-6,-3l0,-6l14,-7l14,7Z" style="fill:#a54eed;"/><clipPath id="_clip2"><path d="M30,10l0,4l-4,2l0,5l-6,3l0,3l-4,2l-6,-3l0,-2l-2,-1l0,-4l-6,-3l0,-6l14,-7l14,7Z"/></clipPath><g clip-path="url(#_clip2)"><path d="M28,16l0,9l-24,0l0,-5l10,-5l8,4l6,-3Z" style="fill:#4e96e4;"/><path d="M30,25l-4,2l-14,-7l5,-2l13,7Z" style="fill:#7cf3b0;"/><path d="M16,22l-10,5l10,5l10,-5l-10,-5Z" style="fill:#90f37c;"/><path d="M16,21l8,4l0,2l-8,-4l-2,-2l2,0Z" style="fill:#33b261;"/><path d="M16,23l-8,4l0,-2l6,-3l-4,-2l8,-4l9,4.5l0,4l-11,-5.5l-2,1l2,1l0,2Z" style="fill:#156d81;"/><path d="M16,25l8,4l0,2l-16,0l0,-2l8,-4Z" style="fill:#82b311;"/><path id="_-Curve-" serif:id="(Curve)" d="M16,27l-4,2l4,2l4,-2l-4,-2Z" style="fill:#f2e772;"/><path d="M8,6l8,-4l15,7.5l0,5.5l-9,4l0,-5l-7,-3.5l4,-2l-4,-2l-3,1.5l-4,-2Z" style="fill:#d844f9;"/><path d="M0,11.5l7,3.5l0,5.5l-7,-3.5l0,-5.5Z" style="fill:#6454cb;"/><path d="M6.5,13.75l1.5,-0.75l0.339,0l0,1.609l-0.339,0.391l0,2l8,-4l0,2l-8,4l-2,2l0,-5.5l-7,-3.5l0,-2l7.5,3.75Z" style="fill:#2438b9;"/><path d="M26,11l-2,1l-5,-2.5l-3,1.5l0,4l6,3l4,-2l4,0l-8,4l-8,-4l0,-6l3,-1.5l-2,-1l-5,2.5l2,1l0,2l-4,2l0,-2l2,-1l-4,-2l9,-4.5l11,5.5Z" style="fill:#4b229c;"/></g></g></g></svg>

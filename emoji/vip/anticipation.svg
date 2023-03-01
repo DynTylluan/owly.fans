@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc = "http://purl.org/dc/elements/1.1/"
+         >
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji VIP 2018-04</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Dzuk</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+<rect id="anticipation" x="0" y="0" width="32" height="32" style="fill:none;"/><clipPath id="_clip1"><rect x="0" y="0" width="32" height="32"/></clipPath><g clip-path="url(#_clip1)"><g id="outline"><path d="M2,16l5,0l4,-2l10,0l4,2l5,0c0,0 -4.242,-4.242 -6.121,-6.121c-0.563,-0.563 -1.326,-0.879 -2.122,-0.879c-0.961,0 -2.257,0 -3.049,0c-0.466,0 -0.925,0.108 -1.341,0.317c-0.586,0.293 -1.367,0.683 -1.367,0.683c0,0 -0.781,-0.39 -1.367,-0.683c-0.416,-0.209 -0.875,-0.317 -1.341,-0.317c-0.792,0 -2.088,0 -3.049,0c-0.796,0 -1.559,0.316 -2.122,0.879c-1.879,1.879 -6.121,6.121 -6.121,6.121Z" style="fill:none;stroke:#000;stroke-width:4px;"/><path d="M2,16c0,0 3.078,-0.385 5.416,-0.677c1.648,-0.206 3.308,0.281 4.585,1.344c1.078,0.898 2.349,1.958 3.165,2.638c0.539,0.449 1.218,0.695 1.92,0.695c0.849,0 2.022,0 2.862,0c0.681,0 1.342,-0.232 1.874,-0.657c1.419,-1.136 4.178,-3.343 4.178,-3.343l4,0c0,0 -3.854,3.854 -5.843,5.843c-0.752,0.752 -1.724,1.244 -2.775,1.406c-1.585,0.244 -4.085,0.628 -6.339,0.975c-3.005,0.462 -5.965,-1.068 -7.325,-3.788c-0.24,-0.48 -0.475,-0.949 -0.69,-1.379c-0.652,-1.306 -1.843,-2.261 -3.259,-2.615c-0.917,-0.229 -1.769,-0.442 -1.769,-0.442Z" style="fill:none;stroke:#000;stroke-width:4px;"/></g><g id="emoji"><path d="M26,15l-18,0l0,5.5l15,0l4,-3.5l-1,-2Z" style="fill:#ebebeb;"/><path d="M30,16l-1,-1l-3,0l0,2l2,0l2,-1Z" style="fill:#e3131e;"/><rect x="7" y="16" width="19" height="1" style="fill:#6d6d6d;"/><path d="M2,16c0,0 3.078,-0.385 5.416,-0.677c1.648,-0.206 3.308,0.281 4.585,1.344c1.078,0.898 2.349,1.958 3.165,2.638c0.539,0.449 1.218,0.695 1.92,0.695c0.849,0 2.022,0 2.862,0c0.681,0 1.342,-0.232 1.874,-0.657c1.419,-1.136 4.178,-3.343 4.178,-3.343l4,0c0,0 -3.854,3.854 -5.843,5.843c-0.752,0.752 -1.724,1.244 -2.775,1.406c-1.585,0.244 -4.085,0.628 -6.339,0.975c-3.005,0.462 -5.965,-1.068 -7.325,-3.788c-0.24,-0.48 -0.475,-0.949 -0.69,-1.379c-0.652,-1.306 -1.843,-2.261 -3.259,-2.615c-0.917,-0.229 -1.769,-0.442 -1.769,-0.442Z" style="fill:#e3131e;"/><rect x="7" y="12" width="19" height="4" style="fill:#ebebeb;"/><path d="M2,16l5,0c0,0 0.774,-0.774 1.536,-1.536c0.937,-0.937 2.209,-1.464 3.535,-1.464c2.34,0 6.103,0 8.262,0c1.082,0 2.135,0.351 3,1c1.164,0.873 2.667,2 2.667,2l4,0c0,0 -4.242,-4.242 -6.121,-6.121c-0.563,-0.563 -1.326,-0.879 -2.122,-0.879c-0.961,0 -2.257,0 -3.049,0c-0.466,0 -0.925,0.108 -1.341,0.317c-0.586,0.293 -1.367,0.683 -1.367,0.683c0,0 -0.781,-0.39 -1.367,-0.683c-0.416,-0.209 -0.875,-0.317 -1.341,-0.317c-0.792,0 -2.088,0 -3.049,0c-0.796,0 -1.559,0.316 -2.122,0.879c-1.879,1.879 -6.121,6.121 -6.121,6.121Z" style="fill:#e3131e;"/></g></g></svg>
