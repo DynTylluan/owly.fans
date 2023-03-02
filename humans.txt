@@ -22,7 +22,7 @@
     Website: vantaa.black
     Contact: N/A
     Masto: @vantablack@beach.city
-    From: The USA
+    From: United States of America
 
     Name: a
     Website: trwnh.com
@@ -40,13 +40,19 @@
     Website: noombers.neocities.org
     Contact: N/A
     Masto: @numbers@is.nota.live
-    From: The USA
+    From: United States of America
 
     Name: devils
     Website: yourdevilfriends.art
     Contact: N/A
     Masto: @yourdevilfriends@blorbo.social
     From: Portugal
+
+    Name: Patrick 
+    Website: digitalangel.neocities.org
+    Contact: N/A
+    Masto: N/A
+    From: United States of America
 
 /* SITE */
     Last update: 1970-01-01
