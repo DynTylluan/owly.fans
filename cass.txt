@@ -26,7 +26,7 @@ pacstrap /mnt \
   nano git zip unzip unrar networkmanager nm-connection-editor \
   xorg-server wayland gdm xfce4 xfce4-goodies gvfs gvfs-mtp file-roller \
   pipewire pipewire-pulse pipewire-jack pipewire-alsa qpwgraph pavucontrol \
-  firefox mpv vlc youtube-dl gimp notepadqq pinta \
+  firefox vlc youtube-dl notepadqq pinta \
   flatpak gnome-software polkit-gnome xdg-desktop-portal-gtk
 
 genstab -L /mnt > /mnt/etc/fstab
