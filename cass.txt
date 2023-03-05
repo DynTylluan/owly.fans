@@ -6,6 +6,15 @@
 # Thank you to a of trwnh.com for writing the original script, as seen below
 # https://gist.github.com/trwnh/8e9647c8dd0344546bb031eb7680d541
 
+# The git for this script is seen below
+# https://github.com/DynTylluan/owly.fans/blob/main/cass.txt
+# https://notabug.org/DynTylluan/owly.fans/src/main/cass.txt (mirror)
+
+# And a copy of it on Owly.Fans that is automatically updated whenever the git is, is found here:
+# https://owly.fans/cass.txt
+
+# Remember to always review scripts before you run them!
+
 # Remakes your system partitions and mounts them
 echo "Making new fiwesystems... ^w^"
 mkfs.fat -L "EFI" -F 32 /dev/sda1
@@ -27,7 +36,8 @@ pacstrap /mnt \
   xorg-server wayland gdm xfce4 xfce4-goodies gvfs gvfs-mtp file-roller \
   pipewire pipewire-pulse pipewire-jack pipewire-alsa qpwgraph pavucontrol \
   firefox vlc youtube-dl notepadqq pinta \
-  flatpak gnome-software polkit-gnome xdg-desktop-portal-gtk
+  flatpak gnome-software polkit-gnome xdg-desktop-portal-gtk \
+  gnome-contacts nextcloud-client --noconfirm discord
 
 genstab -L /mnt > /mnt/etc/fstab
 
