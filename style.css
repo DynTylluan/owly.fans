@@ -3,7 +3,7 @@
 body {
 	max-width: 800px ;
 	margin: auto ;
-	background: #00181E url(bricks.png);
+	background: url(bricks.png);
 	color:#7F92FF;
 }
 
@@ -64,7 +64,7 @@ a:hover {
 	text-decoration: none;
 }
 
-/* Thnak you to Job of joppiesaus.neocities.org for not only writing the following CSS, but also allowing me to use it */
+/* Thank you to Job of joppiesaus.neocities.org for not only writing the following CSS, but also allowing me to use it */
 /* Job has been a friend of mine for a few years now, and it would really make me happy if you checked out their website */
 figure {
 	display: block;
@@ -88,4 +88,10 @@ figure {
 /* I am unsure if the following code *can* even be copyrighted due to how generic it is */
 blockquote {
 	border-left: 0.1em solid #cc66ff; 
-	padding-left: 0.3em; }
+	padding-left: 0.3em;
+}
+
+/* The following was written by yourdevilfriends.art - thank you */
+uppercase {
+	text-transform: uppercase;
+}
