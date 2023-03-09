@@ -37,7 +37,8 @@ pacstrap /mnt \
   pipewire pipewire-pulse pipewire-jack pipewire-alsa qpwgraph pavucontrol \
   firefox vlc youtube-dl notepadqq pinta \
   flatpak gnome-software polkit-gnome xdg-desktop-portal-gtk \
-  gnome-contacts nextcloud-client --noconfirm discord
+  gnome-contacts nextcloud-client --noconfirm discord \
+  ntfs-3g
 
 genstab -L /mnt > /mnt/etc/fstab
 
