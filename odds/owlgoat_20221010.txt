@@ -18,8 +18,8 @@
     <meta itemprop="description"    content="Owl and Goat, a randomly generated comic about a goat and an owl">
     <meta name="description"        content="Owl and Goat, a randomly generated comic about a goat and an owl">
     <meta property="og:description" content="Owl and Goat, a randomly generated comic about a goat and an owl">
-    <meta name="keywords"           content="owl, man, owlman, neocities, brit, uk, archive, site ran by a stud, england, wales, twat">
-    <meta property="og:site_name"   content="Owl and Goat | owlman.neocities.org">
+    <meta name="keywords"           content="owly, cass python, neocities, neozones, brit, uk, archive, site ran by a stud, england, wales">
+    <meta property="og:site_name"   content="Owl and Goat | owly.fans">
     <meta property="og:type"        content="website">
     <meta property="og:image"       content="http://owly.fans/floppy.png">
     <meta property="og:url"         content="http://owly.fans/">
