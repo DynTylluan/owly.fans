@@ -6,41 +6,11 @@
     From: England-Cymru, UK
 
 /* THANKS */
-    Name: Pizza Squeeze
-    Website: squeeze.pizza
-    Contact: pizza (at) squeeze (dot) pizza
-    Masto: @pizzasqueeze@mastodon.social
-    From: Canada
-
-    Name: Job
-    Website: joppiesaus.neocities.org
-    Contact: N/A
-    Masto: N/A
-    From: The Netherlands
-
-    Name: vantablack
-    Website: vantaa.black
-    Contact: N/A
-    Masto: @vantablack@beach.city
-    From: United States of America
-
     Name: a
     Website: trwnh.com
     Contact: N/A
     Masto: @trwnh@mastodon.social
     From: Jordan
-
-    Name: Randy "I'm not a furry" Lynch
-    Website: randartz.ml
-    Contact: N/A
-    Masto: @tehleroy@radical.town
-    From: Venezuela
-
-    Name: numbers
-    Website: noombers.neocities.org
-    Contact: N/A
-    Masto: @numbers@is.nota.live
-    From: United States of America
 
     Name: devils
     Website: yourdevilfriends.art
@@ -48,13 +18,43 @@
     Masto: @yourdevilfriends@blorbo.social
     From: Portugal
 
+    Name: Job
+    Website: joppiesaus.neocities.org
+    Contact: N/A
+    Masto: N/A
+    From: The Netherlands
+
+    Name: numbers
+    Website: noombers.neocities.org
+    Contact: N/A
+    Masto: @numbers@is.nota.live
+    From: United States of America
+
     Name: Patrick 
     Website: digitalangel.neocities.org
     Contact: N/A
     Masto: N/A
     From: United States of America
 
-    Name: VoltBun 
+    Name: Pizza Squeeze
+    Website: squeeze.pizza
+    Contact: pizza (at) squeeze (dot) pizza
+    Masto: @pizzasqueeze@mastodon.social
+    From: Canada
+
+    Name: Randy "I'm not a furry" Lynch
+    Website: randartz.ml
+    Contact: N/A
+    Masto: @tehleroy@radical.town
+    From: Venezuela
+
+    Name: vantablack
+    Website: vantaa.black
+    Contact: N/A
+    Masto: @vantablack@beach.city
+    From: United States of America
+
+    Name: VoltBun
     Website: voltbun.neocities.org
     Contact: N/A
     Masto: @voltbun@meow.social 
@@ -64,8 +64,7 @@
     Last update: 1970-01-01
     Language: en_US
     Doctype: Some version of HTML and CSS lmao
-    IDE used on Windows (former): Windows 8.1, Notepad++, FileZilla, paint.NET
-    IDE used on Linux (current): Manjaro Xfce, GitHub's Atom, FileZilla (former), Notepadqq
-    Host: Cloudflare
-    OS: Arch Linux x86_64
-    Emojies: Mutant Standard (mutant.tech) and Twemoji (twemoji.twitter.com)
+    IDE used on Windows 8.1 (former): Notepad++, FileZilla, paint.NET
+    IDE used on Linux: Arch Xfce (used to use Manjaro Xfce), GitHub's Atom, FileZilla (former), Notepadqq
+    Host: Cloudflare and GitHub Pages
+    Emojies: Mutant Standard's Cass Version (https://github.com/DynTylluan/emojis)
