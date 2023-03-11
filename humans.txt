@@ -45,7 +45,7 @@
     Name: Randy "I'm not a furry" Lynch
     Website: randartz.ml
     Contact: N/A
-    Masto: @tehleroy@radical.town
+    Masto: @RandArtz@uwu.social
     From: Venezuela
 
     Name: vantablack
