@@ -3,6 +3,8 @@
     #     pacman -Sy
     #     curl <url of raw text> | bash
     
+# Remember to always review scripts before you run them!
+
 # Thank you to a of trwnh.com for writing the original script, as seen below
 # https://gist.github.com/trwnh/8e9647c8dd0344546bb031eb7680d541
 
@@ -13,7 +15,8 @@
 # And a copy of it on Owly.Fans that is automatically updated whenever the git is, is found here:
 # https://owly.fans/cass.txt
 
-# Remember to always review scripts before you run them!
+# If you want to look for packages, the Arch AUG is located here:
+# https://aur.archlinux.org
 
 # Remakes your system partitions and mounts them
 echo "Making new fiwesystems... ^w^"
