@@ -17,27 +17,27 @@
 
 # Remakes your system partitions and mounts them
 echo "Making new fiwesystems... ^w^"
-mkfs.fat -L "EFI" -F 32 /dev/sda1
+mkfs.fat -L "ESP" -F 32 /dev/sda1
 mkfs.ext4 -L "Arch" -F /dev/sda2
-echo "Done mwaking fiwesystems...."
+echo "Done mwaking fiwesystems..."
 
 echo "Mounting filesystems..."
 mount /dev/disk/by-label/Arch /mnt
 mkdir /mnt/home
-mkdir -p /mnt/boot/efi
+mkdir -p /mnt/boot
 mount /dev/disk/by-label/home /mnt/home
-mount /dev/disk/by-label/EFI /mnt/boot/efi
+mount /dev/disk/by-label/ESP /mnt/boot
 echo "Done mwounting fiwesystems. ;)"
 
 # Installs a base system with some useful packages
-pacstrap /mnt \
-  base base-devel linux linux-firmware linux-headers amd-ucode \
+pacstrap /mnt --noconfirm \
+  base base-devel linux linux-firmware linux-headers amd-ucode kernel-modules-hook \
   nano git zip unzip unrar networkmanager nm-connection-editor \
   xorg-server wayland gdm xfce4 xfce4-goodies gvfs gvfs-mtp file-roller \
   pipewire pipewire-pulse pipewire-jack pipewire-alsa qpwgraph pavucontrol \
   firefox vlc youtube-dl notepadqq pinta \
   flatpak gnome-software polkit-gnome xdg-desktop-portal-gtk \
-  gnome-contacts nextcloud-client --noconfirm discord \
+  gnome-contacts nextcloud-client discord \
   ntfs-3g
 
 genstab -L /mnt > /mnt/etc/fstab
@@ -90,6 +90,8 @@ arch-chroot /mnt /bin/bash <<EOF
 systemctl enable NetworkManager
 systemctl enable systemd-timesyncd
 systemctl enable gdm
+systemctl enable systemd-boot-update
+systemctl enable linux-modules-cleanup
 EOF
 echo "Done enabwing sewvices. ^_^ u should play 100gecs XP"
 
