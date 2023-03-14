@@ -1,3 +1,5 @@
+/* See humans.txt for full thanks */
+
 body {
 	max-width: 800px ;
 	margin: auto ;
@@ -92,4 +94,20 @@ blockquote {
 /* The following was written by yourdevilfriends.art - thank you */
 uppercase {
 	text-transform: uppercase;
+}
+
+/* The following has been taken from the below URL */
+/* https://learn2dev.com/articles/css-shorts/spoilers */
+.spoiler-text {
+  background: black;
+  color: transparent;
+  cursor: help;
+  user-select: none;
+  transition: background 0.3s ease 0.2s, color 0.2s ease 0.25s;
+}
+
+.spoiler-text:hover,
+.spoiler-text:focus {
+  background: #e8e8e8;
+  color: inherit;
 }
