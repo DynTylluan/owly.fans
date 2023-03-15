@@ -4,21 +4,20 @@ FOPL-MDP v1
                                   ""      " "
                         THE FREEDOM OWL PUBLIC LICENSE.
                           Version I, dated 2021-04-27
-
-                               owly.fans/license
+                           https://owly.fans/license
 
 ------------------------------------------------------------------------------
 
-> INTRODUCTION
-    The Freedom Owl Public License is not apart, nor are we, a law firm - it
-	does not provide legal services. Distribution of this document does not
-	create an attorney-client relationship. The The Freedom Owl Public License
-	provides this information on an "as-is" basis.
+> INTRO
+   The Freedom Owl Public License is not apart, nor are we, a law firm - it
+   does not provide legal services. Distribution of this document does not
+   create an attorney-client relationship. The The Freedom Owl Public License
+   provides this information on an "as-is" basis.
 
-    WE AT THE FREEDOM OWL PUBLIC LICENSE TAKE NO WARRANTIES REGARDING THE USE
-	OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED HEREUNDER, AND
-	DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM THE USE OF THIS DOCUMENT OR
-	THE INFORMATION OR WORKS PROVIDED HEREUNDER.
+   WE AT THE FREEDOM OWL PUBLIC LICENSE TAKE NO WARRANTIES REGARDING THE USE
+   OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED HEREUNDER, AND
+   DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM THE USE OF THIS DOCUMENT OR
+   THE INFORMATION OR WORKS PROVIDED HEREUNDER.
 
 > THE LICENSE ITSELF
 The use of this license in this git, website, artwork, audio, video, or
