@@ -41,7 +41,7 @@ pacstrap /mnt --noconfirm \
   firefox vlc youtube-dl notepadqq pinta \
   flatpak gnome-software polkit-gnome xdg-desktop-portal-gtk \
   gnome-contacts nextcloud-client discord \
-  ntfs-3g ttf-ubuntu-font-family adobe-source-han-sans-jp-fonts
+  ntfs-3g ttf-ubuntu-font-family adobe-source-han-sans-jp-fonts pacman-contrib
 
 genstab -L /mnt > /mnt/etc/fstab
 
