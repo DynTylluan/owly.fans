@@ -1,0 +1,63 @@
+{
+    "additional-repositories": [
+        "multilib"
+    ],
+    "audio": "pipewire",
+    "config_version": "2.5.6",
+    "debug": false,
+    "desktop-environment": "xfce4",
+    "gfx_driver": "AMD / ATI (open-source)",
+    "harddrives": [
+        "/dev/sda"
+    ],
+    "hostname": "nover",
+    "kernels": [
+        "linux",
+        "linux-lts"
+    ],
+    "keyboard-layout": "uk",
+    "mirror-region": {
+        "United Kingdom": {
+            "http://archlinux.uk.mirror.allworldit.com/archlinux/$repo/os/$arch": true,
+            "http://lon.mirror.rackspace.com/archlinux/$repo/os/$arch": true,
+            "http://mirror.bytemark.co.uk/archlinux/$repo/os/$arch": true,
+            "http://mirror.infernocomms.net/archlinux/$repo/os/$arch": true,
+            "http://mirror.netweaver.uk/archlinux/$repo/os/$arch": true,
+            "http://mirrors.melbourne.co.uk/archlinux/$repo/os/$arch": true,
+            "http://mirrors.ukfast.co.uk/sites/archlinux.org/$repo/os/$arch": true,
+            "http://www.mirrorservice.org/sites/ftp.archlinux.org/$repo/os/$arch": true,
+            "https://archlinux.uk.mirror.allworldit.com/archlinux/$repo/os/$arch": true,
+            "https://europe2.mirror.pkgbuild.com/$repo/os/$arch": true,
+            "https://lon.mirror.rackspace.com/archlinux/$repo/os/$arch": true,
+            "https://mirror.bytemark.co.uk/archlinux/$repo/os/$arch": true,
+            "https://mirror.infernocomms.net/archlinux/$repo/os/$arch": true,
+            "https://mirror.netweaver.uk/archlinux/$repo/os/$arch": true,
+            "https://mirrors.melbourne.co.uk/archlinux/$repo/os/$arch": true,
+            "https://mirrors.ukfast.co.uk/sites/archlinux.org/$repo/os/$arch": true,
+            "https://repo.slithery.uk/$repo/os/$arch": true,
+            "https://www.mirrorservice.org/sites/ftp.archlinux.org/$repo/os/$arch": true
+        }
+    },
+    "nic": {
+        "dhcp": true,
+        "dns": null,
+        "gateway": null,
+        "iface": null,
+        "ip": null,
+        "type": "nm"
+    },
+    "no_pkg_lookups": false,
+    "offline": false,
+    "packages": [
+        "firefox"
+    ],
+    "profile": {
+        "path": "/usr/lib/python3.11/site-packages/archinstall/profiles/desktop.py"
+    },
+    "script": "guided",
+    "silent": false,
+    "sys-encoding": "utf-8",
+    "sys-language": "en_US",
+    "timezone": "Europe/London",
+    "version": "2.5.6"
+}
