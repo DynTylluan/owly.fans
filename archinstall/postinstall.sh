@@ -16,7 +16,7 @@ yay -Y --devel --nodiffmenu --save
 
 yay -S --noconfirm \
   xfce4-goodies xfce4-docklike-plugin catfish mugshot polkit-gnome xdg-desktop-portal-gtk network-manager-applet xdg-user-dirs \
-  ntfsprogs-ntfs3 linux-headers linux-lts-headers \
+  linux-headers linux-lts-headers ntfsprogs-ntfs3 btrfs-assistant snapper \
   jre8-openjdk jre17-openjdk prismlauncher-qt5-bin \
   fastfetch-bin notepadqq pinta \
   hexchat discord \
