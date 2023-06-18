@@ -8,8 +8,8 @@ git clone https://aur.archlinux.org/yay-bin.git
 cd yay-bin
 makepkg -sic
 cd ~
-yay --gendb
-yay --devel --nodiffmenu --save
+yay -Y --gendb
+yay -Y --devel --nodiffmenu --save
 
 
 ## install more desktop stuff
