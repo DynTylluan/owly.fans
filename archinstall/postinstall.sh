@@ -16,7 +16,7 @@ yay -Y --devel --nodiffmenu --save
 ### note: https://github.com/PrismLauncher/PrismLauncher/issues/991 so we use the qt5 version for now
 
 yay -S --noconfirm \
-  xfce4-goodies xfce4-docklike-plugin catfish mugshot polkit-gnome xdg-desktop-portal-gtk \
+  xfce4-goodies xfce4-docklike-plugin catfish mugshot polkit-gnome xdg-desktop-portal-gtk network-manager-applet \
   ntfsprogs-ntfs3 linux-headers linux-lts-headers \
   jre8-openjdk jre17-openjdk prismlauncher-qt5-bin \
   fastfetch-bin notepadqq pinta \
