@@ -29,13 +29,13 @@ yay -S --noconfirm \
 
 yay -S --noconfirm flatpak gnome-software
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
-flatpak install flathub com.spotify.desktop
-flatpak install flathub io.github.shiftey.Desktop  # github desktop
-flatpak install flathub org.audacityteam.Audacity
-flatpak install flathub com.obsproject.Studio
-flatpak install flathub com.github.huluti.Curtail
-flatpak install flathub org.zdoom.GZDoom
-flatpak install flathub org.chocolate_doom.ChocolateDoom
+flatpak install -y flathub com.spotify.desktop
+flatpak install -y flathub io.github.shiftey.Desktop  # github desktop
+flatpak install -y flathub org.audacityteam.Audacity
+flatpak install -y flathub com.obsproject.Studio
+flatpak install -y flathub com.github.huluti.Curtail
+flatpak install -y flathub org.zdoom.GZDoom
+flatpak install -y flathub org.chocolate_doom.ChocolateDoom
 
 ## system config
 
