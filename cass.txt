@@ -20,15 +20,16 @@
 
 # Remakes your system partitions and mounts them
 echo "Making new fiwesystems... ^w^"
-mkfs.fat -L "ESP" -F 32 /dev/sda1
+mkfs.fat -n "ESP" -F 32 /dev/sda1
 mkfs.ext4 -L "Arch" -F /dev/sda2
+mkswap -L "Swap" /dev/sda3
 echo "Done mwaking fiwesystems..."
 
 echo "Mounting filesystems..."
 mount /dev/disk/by-label/Arch /mnt
 mkdir /mnt/home
 mkdir -p /mnt/boot
-mount /dev/disk/by-label/home /mnt/home
+mount /dev/disk/by-label/HOME /mnt/home
 mount /dev/disk/by-label/ESP /mnt/boot
 echo "Done mwounting fiwesystems. ;)"
 
