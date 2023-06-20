@@ -1,0 +1,63 @@
+<!-- This page kind of looks like a mess, but that's only as I used https://markdowntohtml.com to convert MD to HTML -->
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <title>README.md | OWLY.FANS</title>
+	<meta charset="utf-8">
+    <meta itemprop="name"           content="OWLY.FANS">
+    <meta property="og:title"       content="OWLY.FANS">
+    <meta itemprop="description"    content="OWLY.FANS">
+    <meta name="description"        content="OWLY.FANS">
+    <meta property="og:description" content="OWLY.FANS">
+    <meta name="keywords"           content="owly, cass python, neocities, neozones, brit, uk, archive, site ran by a stud, england, wales">
+    <meta property="og:site_name"   content="README.md | OWLY.FANS">
+    <meta property="og:type"        content="website">
+    <meta property="og:image"       content="https://owly.fans/floppy.png">
+    <meta property="og:url"         content="https://owly.fans">
+    <meta name="referrer"           content="no-referrer-when-downgrade">
+	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+	<a class="account-link" rel="me" href="https://digipres.club/@Owly"></a>
+    <link rel="stylesheet" href="../style_nobg.css">
+    </head>
+    <body><h1 id="ruffle-selfhosted">ruffle-selfhosted</h1>
+<p>ruffle-selfhosted is the intended way to get Ruffle onto your website.</p>
+<p>You may either include it and forget about it, and we will polyfill existing Flash content,
+or use our APIs for custom configurations or more advanced usages of the Ruffle player.</p>
+<h2 id="using-ruffle-selfhosted">Using ruffle-selfhosted</h2>
+<p>For more examples and in-depth documentation on how to use Ruffle on your website, please
+<a href="https://github.com/ruffle-rs/ruffle/wiki/Using-Ruffle#web">check out our wiki</a>.</p>
+<h3 id="host-ruffle">Host Ruffle</h3>
+<p>The <code>selfhosted</code> package is configured for websites that do not use bundlers or npm and just want
+to get up and running. If you&#39;d prefer to use Ruffle through npm and a bundler, please 
+<a href="https://github.com/ruffle-rs/ruffle/tree/master/web/packages/core">refer to ruffle core</a>.</p>
+<p>Before you can get started with using Ruffle on your website, you must host its files yourself.
+Either take the <a href="https://github.com/ruffle-rs/ruffle/releases">latest build</a>
+or <a href="https://github.com/ruffle-rs/ruffle/blob/master/web/README.md">build it yourself</a>, and make these files accessible by your web server.</p>
+<p>Please note that the <code>.wasm</code> file must be served properly, and some web servers may not do that
+correctly out of the box. Please see <a href="https://github.com/ruffle-rs/ruffle/wiki/Using-Ruffle#configure-wasm-mime-type">our wiki</a>
+for instructions on how to configure this, if you encounter a <code>Incorrect response MIME type</code> error.</p>
+<h3 id="-plug-and-play-">&quot;Plug and Play&quot;</h3>
+<p>If you have an existing website with flash content, you can simply include Ruffle as a script and
+our polyfill magic will replace everything for you. No fuss, no mess.</p>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">script</span> <span class="hljs-attr">src</span>=<span class="hljs-string">"path/to/ruffle/ruffle.js"</span>&gt;</span><span class="undefined"></span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
+</code></pre>
+<h3 id="javascript-api">Javascript API</h3>
+<p>If you want to control the Ruffle player, you may use our Javascript API.</p>
+<pre><code class="lang-html"><span class="hljs-tag">&lt;<span class="hljs-name">script</span>&gt;</span><span class="javascript">
+    <span class="hljs-built_in">window</span>.RufflePlayer = <span class="hljs-built_in">window</span>.RufflePlayer || {};
+
+    <span class="hljs-built_in">window</span>.addEventListener(<span class="hljs-string">"DOMContentLoaded"</span>, () =&gt; {
+        <span class="hljs-keyword">let</span> ruffle = <span class="hljs-built_in">window</span>.RufflePlayer.newest();
+        <span class="hljs-keyword">let</span> player = ruffle.createPlayer();
+        <span class="hljs-keyword">let</span> container = <span class="hljs-built_in">document</span>.getElementById(<span class="hljs-string">"container"</span>);
+        container.appendChild(player);
+        player.load(<span class="hljs-string">"movie.swf"</span>);
+    });
+</span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
+<span class="hljs-tag">&lt;<span class="hljs-name">script</span> <span class="hljs-attr">src</span>=<span class="hljs-string">"path/to/ruffle/ruffle.js"</span>&gt;</span><span class="undefined"></span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
+</code></pre>
+<h2 id="building-testing-or-contributing">Building, testing or contributing</h2>
+<p>Please see <a href="https://github.com/ruffle-rs/ruffle/blob/master/web/README.md">the ruffle-web README</a>.</p>
+    </body>
+</html>

@@ -1,4 +1,4 @@
-/* See humans.txt for full thanks */
+/* See humans.html for full thanks */
 
 body {
 	max-width: 800px ;
@@ -37,11 +37,11 @@ a:active {
  left:15%;
 }
 
-/* This removed the underline for links */
+/* While this part was cool, I decided to remove it due to accessibility reasons, but what it did was remove the underlines for links
 a:link { text-decoration: none; }
 a:visited { text-decoration: none; }
 a:hover { text-decoration: underline; }
-a:active { text-decoration: underline; }
+a:active { text-decoration: underline; } */
 
 /* What font to use */
 h1, h2, h3, a, th {

@@ -1,10 +1,11 @@
-/* See humans.txt for full thanks */
+/* See humans.html for full thanks */
+/* Colors taken from this page: https://lospec.com/palette-list/vieilles-cartes */
 
 body {
 	max-width: 800px ;
 	margin: auto ;
-	background: #0d2b45 url(background.png);
-	color:#ffd4a3;
+	background: #170f1f url(background.png);
+	color:#c7212b;
 }
 
 h1 {
@@ -13,22 +14,22 @@ h1 {
 
 /* unvisited link */
 a:link {
-    color: #544e68;
+    color: #257181;
 }
 
 /* visited link */
 a:visited {
-    color: #8d697a;
+    color: #c38165;
 }
 
 /* mouse over link */
 a:hover {
-    color: #d08159;
+    color: #859d93;
 }
 
 /* selected link */
 a:active {
-    color: #ffaa5e;
+    color: #ffab43;
 }
 
  .blackstar {
@@ -37,11 +38,11 @@ a:active {
  left:15%;
 }
 
-/* This removed the underline for links */
+/* While this part was cool, I decided to remove it due to accessibility reasons, but what it did was remove the underlines for links
 a:link { text-decoration: none; }
 a:visited { text-decoration: none; }
 a:hover { text-decoration: underline; }
-a:active { text-decoration: underline; }
+a:active { text-decoration: underline; } */
 
 /* What font to use */
 h1, h2, h3, a, th {
@@ -109,4 +110,15 @@ uppercase {
 .spoiler-text:focus {
   background: #e8e8e8;
   color: inherit;
+}
+
+/* Following taken from /accessibility/#autoplay part of the website */
+.flashing {
+    -webkit-filter: blur(5px); /* For Safari 6.0 - 9.0 */
+    filter: blur(5px);
+}
+
+.flashing:hover {
+    -webkit-filter: none;
+    filter: none;
 }

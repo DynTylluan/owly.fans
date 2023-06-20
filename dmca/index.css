@@ -37,11 +37,11 @@ tr:nth-child(even) {
 }
 
 
-/* This removed the underline for links */
+/* While this part was cool, I decided to remove it due to accessibility reasons, but what it did was remove the underlines for links
 a:link { text-decoration: none; }
 a:visited { text-decoration: none; }
 a:hover { text-decoration: underline; }
-a:active { text-decoration: underline; }
+a:active { text-decoration: underline; } */
 
 /* What font to use */
 h1, h2, h3, a, th {
@@ -52,7 +52,7 @@ pre, tt, xmp {
 font-family: monospace, "Ubuntu Monospace", Courier;
 }
 
-p {
+p, td {
 	font-family: Ubuntu, "Noto Sans", "Liberation Sans", Helvetica, Arial, sans-serif;
 }
 
@@ -90,7 +90,6 @@ blockquote {
 	border-left: 0.1em solid #cc66ff; 
 	padding-left: 0.3em; }
 
-
 /* The following has been taken from the below URL */
 /* https://learn2dev.com/articles/css-shorts/spoilers */
 .spoiler-text {
@@ -105,4 +104,15 @@ blockquote {
 .spoiler-text:focus {
   background: #e8e8e8;
   color: inherit;
+}
+
+/* Following taken from /accessibility/#autoplay part of the website */
+.flashing {
+    -webkit-filter: blur(5px); /* For Safari 6.0 - 9.0 */
+    filter: blur(5px);
+}
+
+.flashing:hover {
+    -webkit-filter: none;
+    filter: none;
 }

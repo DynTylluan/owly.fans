@@ -1,9 +1,10 @@
-/* See humans.txt for full thanks */
+/* See humans.html for full thanks */
 
 body {
 	max-width: 800px ;
 	margin: auto ;
 	background: url(bricks.png);
+	/* background-color:hsl(270, 35%, 20%); */
 	color:#7F92FF;
 }
 
@@ -31,29 +32,25 @@ a:active {
     color: #FF7FB6;
 }
 
- .blackstar {
+.blackstar {
  position:fixed;
  bottom:151;
  left:15%;
 }
 
-/* This removed the underline for links */
+/* While this part was cool, I decided to get rid of it due to accessibility reasons, but what it did was remove the underlines for links
 a:link { text-decoration: none; }
 a:visited { text-decoration: none; }
 a:hover { text-decoration: underline; }
-a:active { text-decoration: underline; }
+a:active { text-decoration: underline; } */
 
 /* What font to use */
-h1, h2, h3, a, li, th {
+h1, h2, h3, a, li, th, br, ubuntu, p {
 	font-family: Ubuntu, "Noto Sans", "Liberation Sans", Helvetica, Arial, sans-serif;
 }
 
-pre, tt, xmp {
+pre, tt, xmp, ubuntu-mono {
 font-family: monospace, "Ubuntu Monospace", Courier;
-}
-
-p {
-	font-family: Ubuntu, "Noto Sans", "Liberation Sans", Helvetica, Arial, sans-serif;
 }
 
 a {
@@ -92,7 +89,7 @@ blockquote {
 }
 
 /* The following was written by yourdevilfriends.art - thank you */
-uppercase {
+uppercase,yell {
 	text-transform: uppercase;
 }
 
@@ -110,4 +107,26 @@ uppercase {
 .spoiler-text:focus {
   background: #e8e8e8;
   color: inherit;
+}
+
+/* Following taken from /accessibility/#autoplay part of the website */
+.flashing {
+    -webkit-filter: blur(5px); /* For Safari 6.0 - 9.0 */
+    filter: blur(5px);
+}
+
+.flashing:hover {
+    -webkit-filter: none;
+    filter: none;
+}
+
+/* Following taken from /accessibility/#autoplay part of the website */
+.flashing {
+    -webkit-filter: blur(5px); /* For Safari 6.0 - 9.0 */
+    filter: blur(5px);
+}
+
+.flashing:hover {
+    -webkit-filter: none;
+    filter: none;
 }

@@ -78,6 +78,8 @@ Hi, this part of my site is a work in progress, but I wanted to give credit to t
 
 `flag.png`: [Taken from Wikimedia](https://commons.wikimedia.org/wiki/File:A_blank_flag.png).
 
+`knights_templar.png`: The flag of the Knights Templar, as made by me, Cass Python, as based on a flag I saw in real life and wanted to identify.
+
 `lincoln.png`: Found via the [City of Lincoln Council](https://webmicrosites.hays.co.uk/web/city-of-lincoln-council) website.
 
 `lincolnshire.png`: Made by [Hogweard](https://commons.wikimedia.org/wiki/File:Lincolnshire_flag.svg).
@@ -91,5 +93,7 @@ Hi, this part of my site is a work in progress, but I wanted to give credit to t
 `tywyn.png`: Made by [Hogweard](https://commons.wikimedia.org/wiki/File:Flag_of_Tywyn,_Wales.svg).
 
 `uk_westandwithukraine.png`: Made by me, Cass Python, as based on a flag I saw in real life.
+
+`unknown_ukflag.png`: Made by me, Cass Python, as based on a flag I saw in real life and wanted to identify. I still do not know what this flag is, but [the lion part was taken from here](https://commons.wikimedia.org/wiki/File:Flag_of_the_British_Army.svg)
 
 `wales.png`: [Taken from Wikimedia](https://commons.wikimedia.org/wiki/File:Flag_of_Wales.svg).

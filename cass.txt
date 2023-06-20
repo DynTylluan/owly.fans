@@ -9,27 +9,29 @@
 # https://gist.github.com/trwnh/8e9647c8dd0344546bb031eb7680d541
 
 # The git for this script is seen below
-# https://github.com/DynTylluan/owly.fans/blob/main/cass.txt
+# https://github.com/DynTylluan/owly.fans/blob/main/cass.txt (main)
 # https://notabug.org/DynTylluan/owly.fans/src/main/cass.txt (mirror)
+# https://tildegit.org/cass/owly.fans/src/branch/main/cass.txt (mirror)
 
-# And a copy of it on Owly.Fans that is automatically updated whenever the git is, is found here:
+# And the copy of it on Owly.Fans that is automatically updated whenever the git is, is found here:
 # https://owly.fans/cass.txt
 
 # If you want to look for packages, the Arch AUG is located here:
 # https://aur.archlinux.org
 
+# Also see: https://owly.fans/archinstall
+
 # Remakes your system partitions and mounts them
 echo "Making new fiwesystems... ^w^"
-mkfs.fat -n "ESP" -F 32 /dev/sda1
+mkfs.fat -L "ESP" -F 32 /dev/sda1
 mkfs.ext4 -L "Arch" -F /dev/sda2
-mkswap -L "Swap" /dev/sda3
 echo "Done mwaking fiwesystems..."
 
 echo "Mounting filesystems..."
 mount /dev/disk/by-label/Arch /mnt
 mkdir /mnt/home
 mkdir -p /mnt/boot
-mount /dev/disk/by-label/HOME /mnt/home
+mount /dev/disk/by-label/home /mnt/home
 mount /dev/disk/by-label/ESP /mnt/boot
 echo "Done mwounting fiwesystems. ;)"
 

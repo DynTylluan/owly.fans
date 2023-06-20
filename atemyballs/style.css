@@ -1,0 +1,56 @@
+/* See humans.html for full thanks */
+
+/* What font to use */
+h1, h2, h3, a, li, th, br, p, ubuntu {
+	font-family: Ubuntu, "Noto Sans", "Liberation Sans", Helvetica, Arial, sans-serif;
+}
+
+pre, tt, xmp {
+font-family: monospace, "Ubuntu Monospace", Courier;
+}
+
+p {
+	font-family: Ubuntu, "Noto Sans", "Liberation Sans", Helvetica, Arial, sans-serif;
+}
+
+a {
+	text-decoration: underline;
+}
+
+a:hover {
+	text-decoration: none;
+}
+/* The following was written by yourdevilfriends.art - thank you */
+uppercase,yell {
+	text-transform: uppercase;
+}
+
+uppercase {
+text-transform: uppercase;
+}
+
+body {
+margin: auto ;
+background-color: red;
+color:#000;
+}
+
+/* unvisited link */
+a:link {
+    color: #000;
+}
+
+/* visited link */
+a:visited {
+    color: #000;
+}
+
+/* mouse over link */
+a:hover {
+    color: #000;
+}
+
+/* selected link */
+a:active {
+    color: #000;
+}
