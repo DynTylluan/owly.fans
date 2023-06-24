@@ -37,14 +37,14 @@ echo "Done mwounting fiwesystems. ;)"
 
 # Installs a base system with some useful packages
 pacstrap /mnt --noconfirm \
-  base base-devel linux linux-firmware linux-headers amd-ucode kernel-modules-hook \
-  nano git zip unzip unrar networkmanager nm-connection-editor \
-  xorg-server wayland gdm xfce4 xfce4-goodies gvfs gvfs-mtp file-roller \
-  pipewire pipewire-pulse pipewire-jack pipewire-alsa qpwgraph pavucontrol \
-  firefox vlc youtube-dl notepadqq pinta \
-  flatpak gnome-software polkit-gnome xdg-desktop-portal-gtk \
-  gnome-contacts nextcloud-client discord \
-  ntfs-3g ttf-ubuntu-font-family adobe-source-han-sans-jp-fonts pacman-contrib
+  adobe-source-han-sans-jp-fonts amd-ucode base base-devel discord etworkmanager /
+  file-roller firefox flatpak gdm git gnome-contacts gnome-software gogh gvfs gvfs-mtp /
+  kernel-modules-hook linux linux-firmware linux-headers nano nextcloud-client/ 
+  nm-connection-editor notepadqq noto-fonts-cjk ntfs-3g pacman-contrib pamac-aur /
+  papirus-icon-theme-git pavucontrol phinger-cursors pinta pipewire pipewire-alsa /
+  pipewire-jack pipewire-pulse polkit-gnome qpwgraph ttf-ubuntu-font-family unrar /
+  unzip vlc wayland xdg-desktop-portal-gtk xfce4 xfce4-goodies xorg-server youtube-dl /
+  zip
 
 genstab -L /mnt > /mnt/etc/fstab
 
