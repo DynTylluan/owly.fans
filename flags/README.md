@@ -32,6 +32,8 @@ Hi, this part of my site is a work in progress, but I wanted to give credit to t
 
 `birmingham.png`: Made by [Hogweard](https://commons.wikimedia.org/wiki/File:Flag_of_Birmingham,_United_Kingdom.svg).
 
+`bisexual_progress.png`: Made by me, Cass Python, as based on [this flag](https://twitter.com/GCBiphobia/status/1670064079006834688) that I saw. The flag uses assets from [the bisexual flag](https://commons.wikimedia.org/wiki/File:Bisexual_Pride_Flag.svg) and [this](https://www.consortium.lgbt/intersex-inclusive-flag).
+
 `british_antarctic_territory1.png`: Made by [Taken from Wikipedia](https://commons.wikimedia.org/wiki/File:Flag_of_the_British_Antarctic_Territory.svg).
 
 `british_antarctic_territory2.png`: Made by [Taken from Wikipedia](uhttps://commons.wikimedia.org/wiki/File:Government_Ensign_of_the_British_Antarctic_Territory.svgrl).
@@ -64,7 +66,7 @@ Hi, this part of my site is a work in progress, but I wanted to give credit to t
 
 `derbyshire.png`: Made by [Dyfsunctional](https://commons.wikimedia.org/wiki/File:Derbyshire_flag.svg).
 
-`devon1.png` and `devon2.png`: Made by [Greentubing](https://commons.wikimedia.org/wiki/File:Flag_of_Devon.svg) and edited by me, Cass Python, as based on a flag that I own.
+`devon.png`, `devon1.png`, and `devon2.png`: Made by [Greentubing](https://commons.wikimedia.org/wiki/File:Flag_of_Devon.svg) and edited by me, Cass Python, as based on a flag that I own.
 
 `digbeth.png`: Made by [Hogweard](https://commons.wikimedia.org/wiki/File:Digbeth_village_flag.svg).
 
