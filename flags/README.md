@@ -16,17 +16,17 @@ Hi, this part of my site is a work in progress, but I wanted to give credit to t
 
 `appleby-in-westmorland.png`: Made by [Hogweard](https://commons.wikimedia.org/wiki/File:Appleby-in-Westmorland_town_flag.svg).
 
-`ascension_island.png`: [Taken from Wikipedia](https://commons.wikimedia.org/wiki/File:Flag_of_Ascension_Island.svg).
+`ascension_island.png`: [Taken from Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Ascension_Island.svg).
 
 `bedfordshire.png`: Made by [Hogweard](https://commons.wikimedia.org/wiki/File:Bedfordshire_County_Flag.svg).
 
-`belfast.png`: [Taken from Wikipedia](https://commons.wikimedia.org/wiki/File:Flag_of_Belfast.svg).
+`belfast.png`: [Taken from Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Belfast.svg).
 
 `berkshire.png`: Made by [The Flag Institute, Vexilo, and Hogweard](https://commons.wikimedia.org/wiki/File:Flag_of_Berkshire.svg).
 
-`bermuda1.png`: [Taken from Wikipedia](https://commons.wikimedia.org/wiki/File:Flag_of_Bermuda.svg).
+`bermuda1.png`: [Taken from Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Bermuda.svg).
 
-`bermuda2.png`: [Taken from Wikipedia](https://commons.wikimedia.org/wiki/File:Government_Ensign_of_Bermuda.svg).
+`bermuda2.png`: [Taken from Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Government_Ensign_of_Bermuda.svg).
 
 `bexhill.png`: Made by [Hogweard](https://commons.wikimedia.org/wiki/File:Bexhill_town_flag.svg).
 
@@ -34,9 +34,9 @@ Hi, this part of my site is a work in progress, but I wanted to give credit to t
 
 `bisexual_progress.png`: Made by me, Cass Python, as based on [this flag](https://twitter.com/GCBiphobia/status/1670064079006834688) that I saw. The flag uses assets from [the bisexual flag](https://commons.wikimedia.org/wiki/File:Bisexual_Pride_Flag.svg) and [this](https://www.consortium.lgbt/intersex-inclusive-flag).
 
-`british_antarctic_territory1.png`: Made by [Taken from Wikipedia](https://commons.wikimedia.org/wiki/File:Flag_of_the_British_Antarctic_Territory.svg).
+`british_antarctic_territory1.png`: Made by [Taken from Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_the_British_Antarctic_Territory.svg).
 
-`british_antarctic_territory2.png`: Made by [Taken from Wikipedia](uhttps://commons.wikimedia.org/wiki/File:Government_Ensign_of_the_British_Antarctic_Territory.svgrl).
+`british_antarctic_territory2.png`: Made by [Taken from Wikimedia Commons](uhttps://commons.wikimedia.org/wiki/File:Government_Ensign_of_the_British_Antarctic_Territory.svgrl).
 
 `british_virgin_islands1.png`: Made by [Dbenbenn](https://commons.wikimedia.org/wiki/File:Flag_of_the_British_Virgin_Islands.svg).
 
@@ -54,11 +54,11 @@ Hi, this part of my site is a work in progress, but I wanted to give credit to t
 
 `cayman_islands1.png`: As taken from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Flag_of_the_Cayman_Islands.svg).
 
-`cayman_islands2.png`: [Taken from Wikipedia](https://commons.wikimedia.org/wiki/File:Civil_Ensign_of_the_Cayman_Islands.svg).
+`cayman_islands2.png`: [Taken from Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Civil_Ensign_of_the_Cayman_Islands.svg).
 
 `cheshire.png`: Made by [Vexilo](https://commons.wikimedia.org/wiki/File:Flag_of_Cheshire.svg).
 
-`coop_respect.png`: Made by me, Cass Python, after seeing the same flag in real life.
+`coop_respect.png`, `coop_respect_2.png`, and `coop_respect_bg.png`: Made by me, Cass Python, after seeing the same flag in real life.
 
 `county_durham.png`: Made by [Martin23230](https://commons.wikimedia.org/wiki/File:Flag_of_County_Durham.svg).
 
@@ -99,3 +99,5 @@ Hi, this part of my site is a work in progress, but I wanted to give credit to t
 `unknown_ukflag.png`: Made by me, Cass Python, as based on a flag I saw in real life and wanted to identify. I still do not know what this flag is, but [the lion part was taken from here](https://commons.wikimedia.org/wiki/File:Flag_of_the_British_Army.svg)
 
 `wales.png`: [Taken from Wikimedia](https://commons.wikimedia.org/wiki/File:Flag_of_Wales.svg).
+
+`worcestershire.png`: [Taken from Wikimedia](https://commons.wikimedia.org/wiki/File:Worcestershire_flag.svg).
