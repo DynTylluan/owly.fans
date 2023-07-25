@@ -78,6 +78,8 @@ Hi, this part of my site is a work in progress, but I wanted to give credit to t
 
 `england.png`: [Taken from Wikimedia](https://commons.wikimedia.org/wiki/File:Flag_of_England.svg).
 
+`england_football.png`: Made by Cass Python, using assets from the English flag, as well [the English football crest](https://en.wikipedia.org/wiki/File:England_national_football_team_crest.svg)
+
 `flag.png`: [Taken from Wikimedia](https://commons.wikimedia.org/wiki/File:A_blank_flag.png).
 
 `knights_templar.png`: The flag of the Knights Templar, as made by me, Cass Python, as based on a flag I saw in real life and wanted to identify.

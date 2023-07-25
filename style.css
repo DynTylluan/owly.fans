@@ -4,7 +4,7 @@ body {
 	max-width: 800px ;
 	margin: auto ;
 	background: url(bricks.png);
-	/* background-color:hsl(270, 35%, 20%); */
+	background-color:hsl(270, 35%, 20%);
 	color:#7F92FF;
 }
 
@@ -45,7 +45,7 @@ a:hover { text-decoration: underline; }
 a:active { text-decoration: underline; } */
 
 /* What font to use */
-h1, h2, h3, a, li, th, br, ubuntu, p {
+h1, h2, h3, a, li, th, br, ubuntu, p, blockquote {
 	font-family: Ubuntu, "Noto Sans", "Liberation Sans", Helvetica, Arial, sans-serif;
 }
 

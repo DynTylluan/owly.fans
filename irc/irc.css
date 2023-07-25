@@ -11,12 +11,12 @@ a:link {
 
 /* visited link */
 a:visited {
-    color: #F7ED00;
+    color: #FA00F8;
 }
 
 /* mouse over link */
 a:hover {
-    color: #F7ED00;
+    color: #B500FA;
 }
 
 pre,tt,br { margin:0 }
