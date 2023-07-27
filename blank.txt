@@ -26,19 +26,19 @@
 <p></p>
 <hr>
 <p>
-Copyright 2021 - <script type="text/javascript">
+<p><strong>Want to support OwlyFans? <a href="/nft/">See our NFTs</a>!</strong></p> <p>Copyright 2021 - <script type="text/javascript">
 var today = new Date()
 var year = today.getFullYear()
 document.write(year)
-</script> by Cass "Owly" Python, licensed under the <a href="/license/mdp">FOPL-MDP</a>. Please see <a href="/humans.txt">humans.txt</a> for full credit and thanks.
-<p></p>
-<font color="black"><center>&#x2605;</center></font>
+</script> by Cass &#xAB;Owly&#xBB; Python, licensed under the <a href="/license/mdp" title="The Freedom Owl Public License: Modifications, Distributions, and Private Use" alt="The Freedom Owl Public License: Modifications, Distributions, and Private Use">FOPL-MDP</a>. Please see <a href="/humans.html">humans.html</a> for full credit and thanks. Peace and lover.</p>
+<p><font color="black"><center>&#x2605;</center></font></p>
 <p>
 <div style="text-align:right">
-<a href="//cd5k.net/tau/">&tau;</a>
+<a href="http://bytemoth.nfshost.com/cd5k-net/tau">&tau;</a>
+</p>
 </div>
 <p></p>
-	<script src="/script.js"></script>
-	<script src="/ruffle/ruffle.js"></script>
+	<script src="script.js"></script>
+<script src="/ruffle/ruffle.js"></script>
     </body>
 </html>
