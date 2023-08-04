@@ -157,7 +157,7 @@ Fun fact: The idea of carrots helping your eyes was Allie propaganda that was ma
 var today = new Date()
 var year = today.getFullYear()
 document.write(year)
-</script> by NeoZones, licensed under <a href="//creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a>. Please see <a href="/humans.txt">humans.txt</a> for full credit and thanks. Peace and lover.
+</script> by NeoZones, licensed under <a href="//creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a>. Please see <a href="/humans.txt">humans.txt</a> for full credit and thanks. Peace and love.
 </p>
 <p><font color="black"><center>&#x2605;</center></font></p>
 <p>
