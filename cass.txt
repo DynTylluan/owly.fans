@@ -2,8 +2,16 @@
     # connect to internet, then run the following:
     #     pacman -Sy
     #     curl <url of raw text> | bash
-    
-# Remember to always review scripts before you run them!
+
+# !! REMEMBER TO ALWAYS REVIEW SCRIPTS BEFORE YOU RUN THEM !! #
+# Or not... I'm not your mom...
+
+# Before running this script, you should make sure the following has been done:
+# Get a USB that you are going to be okay with placing an ISO on
+# Download a copy of Arch here: https://archlinux.org/download
+# If on Windows, download and run this: https://rufus.ie
+# If on Linux, download and run "gnome-disk-utility"
+# Now boot, baby!
 
 # Thank you to a of trwnh.com for writing the original script, as seen below
 # https://gist.github.com/trwnh/8e9647c8dd0344546bb031eb7680d541
@@ -13,7 +21,7 @@
 # https://notabug.org/DynTylluan/owly.fans/src/main/cass.txt (mirror)
 # https://tildegit.org/cass/owly.fans/src/branch/main/cass.txt (mirror)
 
-# And the copy of it on Owly.Fans that is automatically updated whenever the git is, is found here:
+# And the copy of it on OwlyFans that is automatically updated whenever the git is, is found here:
 # https://owly.fans/cass.txt
 
 # If you want to look for packages, the Arch AUG is located here:
