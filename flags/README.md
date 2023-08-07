@@ -78,7 +78,9 @@ Hi, this part of my site is a work in progress, but I wanted to give credit to t
 
 `england.png`: [Taken from Wikimedia](https://commons.wikimedia.org/wiki/File:Flag_of_England.svg).
 
-`england_football.png`: Made by Cass Python, using assets from the English flag, as well [the English football crest](https://en.wikipedia.org/wiki/File:England_national_football_team_crest.svg)
+`england_football.png`: Made by Cass Python, using assets from the English flag, as well [the English football crest](https://en.wikipedia.org/wiki/File:England_national_football_team_crest.svg).
+
+`england_football_2.png`: Made by Cass Python, using assets from the English flag, as well [the English football crest](https://en.wikipedia.org/wiki/File:England_national_football_team_crest.svg).
 
 `flag.png`: [Taken from Wikimedia](https://commons.wikimedia.org/wiki/File:A_blank_flag.png).
 
@@ -98,7 +100,7 @@ Hi, this part of my site is a work in progress, but I wanted to give credit to t
 
 `uk_westandwithukraine.png`: Made by me, Cass Python, as based on a flag I saw in real life.
 
-`unknown_ukflag.png`: Made by me, Cass Python, as based on a flag I saw in real life and wanted to identify. I still do not know what this flag is, but [the lion part was taken from here](https://commons.wikimedia.org/wiki/File:Flag_of_the_British_Army.svg)
+`unknown_ukflag.png`: Made by me, Cass Python, as based on a flag I saw in real life and wanted to identify. I still do not know what this flag is, but [the lion part was taken from here](https://commons.wikimedia.org/wiki/File:Flag_of_the_British_Army.svg).
 
 `wales.png`: [Taken from Wikimedia](https://commons.wikimedia.org/wiki/File:Flag_of_Wales.svg).
 
