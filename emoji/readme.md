@@ -77,4 +77,7 @@ All of the [Blahaj SVGs were made by Heatherhorns](https://heatherhorns.com/emoj
 ### RSS
 The `rss.svg` icon was found [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Feed-icon.svg)
 
+### Blobhaj
+The Blahaj emojis were made by [Heatherhorns](https://heatherhorns.com) and are [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+
 > Cass Python of [OwlyFans](https://owly.fans)
