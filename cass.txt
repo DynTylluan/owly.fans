@@ -21,7 +21,8 @@
 # https://notabug.org/DynTylluan/owly.fans/src/main/cass.txt (mirror)
 # https://tildegit.org/cass/owly.fans/src/branch/main/cass.txt (mirror)
 
-# And the copy of it on OwlyFans that is automatically updated whenever the git is, is found here:
+# And the copy of it on OwlyFans that is automatically updated whenever the git
+# is can be found here:
 # https://owly.fans/cass.txt
 
 # If you want to look for packages, the Arch AUG is located here:
@@ -46,13 +47,13 @@ echo "Done mwounting fiwesystems. ;)"
 # Installs a base system with some useful packages
 pacstrap /mnt --noconfirm \
   adobe-source-han-sans-jp-fonts amd-ucode base base-devel discord etworkmanager /
-  file-roller firefox flatpak gdm git gnome-contacts gnome-software gogh gvfs gvfs-mtp /
-  kernel-modules-hook linux linux-firmware linux-headers nano nextcloud-client/ 
-  nm-connection-editor notepadqq noto-fonts-cjk ntfs-3g pacman-contrib pamac-aur /
-  papirus-icon-theme-git pavucontrol phinger-cursors pinta pipewire pipewire-alsa /
-  pipewire-jack pipewire-pulse polkit-gnome qpwgraph ttf-ubuntu-font-family unrar /
-  unzip vlc wayland xdg-desktop-portal-gtk xfce4 xfce4-goodies xorg-server youtube-dl /
-  zip jre8-openjdk
+  file-roller firefox flatpak gdm git gnome-contacts gnome-software gogh gvfs /
+  gvfs-mtp kernel-modules-hook linux linux-firmware linux-headers nano /
+  nextcloud-client nm-connection-editor notepadqq noto-fonts-cjk ntfs-3g /
+  pacman-contrib pamac-aur papirus-icon-theme-git pavucontrol phinger-cursors pinta /
+  pipewire pipewire-alsa pipewire-jack pipewire-pulse polkit-gnome qpwgraph /
+  ttf-ubuntu-font-family unrar unzip vlc wayland xdg-desktop-portal-gtk xfce4
+  xfce4-goodies xorg-server youtube-dl zip jre8-openjdk
 
 genstab -L /mnt > /mnt/etc/fstab
 
