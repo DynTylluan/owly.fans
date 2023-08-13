@@ -26,6 +26,15 @@ Here are all of the mascots I have used, when I place them on the webpage, I use
 * Xenia of Linux
 * Xue of Xfce
 
+### Quick Round: Other Wikimedia Related Mascots
+
+* Hydra
+* Miwiki
+* Puzzly
+* Sun Wiki (孙维基)
+* Wikimedia beetle
+* WikipediaWolf
+
 ## Mascots I won't fight
 
 While I know that this whole webpage is very strange and the idea of me rejecting a mascot might seem odd, but here is a breakdown of the ones I won't do and why.
