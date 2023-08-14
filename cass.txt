@@ -26,7 +26,7 @@
 # https://owly.fans/cass.txt
 
 # If you want to look for packages, the Arch AUG is located here:
-# https://aur.archlinux.org
+# https://archlinux.org/packages
 
 # Also see: https://owly.fans/archinstall
 
