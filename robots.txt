@@ -1,0 +1,7 @@
+# robots.txt
+
+# GPTBot is OpenAI's web crawler. I do not want it to use my content as it does
+# not cite its sources.
+# https://platform.openai.com/docs/gptbot
+User-agent: GPTBot
+Disallow: /

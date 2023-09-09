@@ -48,6 +48,8 @@ Hi, this part of my site is a work in progress, but I wanted to give credit to t
 
 `calne.png`: Made by [Hogweard](https://commons.wikimedia.org/wiki/File:Calne_town_flag.svg).
 
+`calne_town.png`: [Made by Hogweard](https://commons.wikimedia.org/wiki/File:Calne_town_flag.svg).
+
 `cambridgeshire.png`: Made by [Hogweard](https://commons.wikimedia.org/wiki/File:Cambridgeshire_Flag.svg).
 
 `cardiff.png`: Made by [The College of Arms / The Flag Institute](https://commons.wikimedia.org/wiki/File:Flag_of_Cardiff.svg).

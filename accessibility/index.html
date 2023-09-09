@@ -2,25 +2,32 @@
 <html lang="en">
 <meta charset="UTF-8">
     <head>
-    <title>Web Design Accessibility | OWLY.FANS</title>
+    <title>Web Design Accessibility</title>
 	<meta charset="utf-8">
-    <meta itemprop="name"           content="OWLY.FANS">
-    <meta property="og:title"       content="OWLY.FANS">
-    <meta itemprop="description"    content="OWLY.FANS">
-    <meta name="description"        content="OWLY.FANS">
-    <meta property="og:description" content="OWLY.FANS">
+    <meta itemprop="name"           content="Web Design Accessibility">
+    <meta property="og:title"       content="Web Design Accessibility">
+    <meta itemprop="description"    content="Making the Web a better place for everyone">
+    <meta name="description"        content="Making the Web a better place for everyone">
+    <meta property="og:description" content="Making the Web a better place for everyone">
     <meta name="keywords"           content="owly, cass python, neocities, neozones, brit, uk, archive, site ran by a stud, england, wales">
-    <meta property="og:site_name"   content="Web Design Accessibility | OWLY.FANS">
+    <meta property="og:site_name"   content="Web Design Accessibility">
     <meta property="og:type"        content="website">
     <meta property="og:image"       content="https://owly.fans/floppy.png">
     <meta property="og:url"         content="https://owly.fans">
     <meta name="referrer"           content="no-referrer-when-downgrade">
 	<a class="account-link" rel="me" href="https://digipres.club/@Owly"></a>
+	<a class="account-link" rel="me" href="https://blorbo.social/@yourdevilfriends"></a>
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
     <link rel="stylesheet" href="../style.css">
+		<style>.emoji {
+            width: 1rem;
+            display: inline-block;
+			}</style>
     </head>
     <body>
 <h1>Web Design Accessibility</h1>
+		<hr>
+		<p><em><font color="#837FFF">Written by Cass &#xAB;Owly&#xBB; Python and Bruno &#xAB;devils&#xBB; A.</font></em></p>
 		<p>One great thing about using the Internet and World Wide Web is that anyone, regardless of their walk of life, is able to use it, so because of this, it also means that people will sometimes struggle with viewing and interacting with the way that the webmaster has made a website, this can sometimes be down to the site using something that is no longer supported (such as Flash), or the website creator did not include an accessibility tool.</p>
 
 <p>In this guide, we will break down the ways where a web designer can better help their website become more accessible for everyone. While this page was written for webmasters, anyone can read it and make notes.</p>
@@ -36,6 +43,7 @@
             <li><a href="#transcripts">Transcripts and Subtitles</a></li>
             <li><a href="#fonts">Fonts</a></li>
 	        <li><a href="#flashing">Flashing GIFs</a></li>
+	        <li><a href="#spoilers">Spoilers and sensitive content</a></li>
 	        <li><a href="#dates">Dates and Time</a></li>
     	    <li><a href="#conclusion">Final thoughts</a></li>
         </ul>
@@ -55,12 +63,13 @@
         <p>If you want to write in all caps or all lowercase, the CSS <tt><font color="#81FF7F">text-transform</font></tt> property is recommended instead. For example, let's say we want all major headings to be in all lowercase. The CSS code we'd use would go as follows:</p>
         <p><blockquote><pre><font color="#81FF7F">h1 {
     text-transform: lowercase;
-}</font></pre></blockquote></p></p></blockquote>
+}</font></pre></blockquote></p>
+	<p>This will make all the text that is in-between the <font color="#81FF7F"><tt>&#x3C;h1&#x3E;</tt></font> tag <yell>in all caps</yell>.
         <p>Alternitavely, if we wanted to write only certain parts of our text to be in all caps, we'd make a CSS class to use with the <tt><font color="#81FF7F">&lt;span&gt;</font></tt> or <tt><font color="#81FF7F">&lt;p&gt;</font></tt> tag:</p>
         <p><blockquote><pre><font color="#81FF7F">.yell {
     text-transform: uppercase;
 }</font></pre></blockquote></p>
-<p>To use this one, place it in your CSS file that is linked on the page, and when you use <tt><font color="#81FF7F">&lt;yell&gt;</font></tt> all of the words inside of it will be in block letters. An example is seen below:</p>
+<p>To use this one, use the above code it in your CSS file that is linked on the page and when you use <tt><font color="#81FF7F">&lt;yell&gt;</font></tt>, all of the words inside of it will be in block letters. An example is seen below:</p>
 
 <p><blockquote><tt><font color="#81FF7F">When I saw what was written on the mirror, my heart missed a beat. In red writing, the words &#x3C;yell&#x3E;I know what you are&#x3C;/yell&#x3E; were scratched in with blood.</font></tt></blockquote></p>
 
@@ -68,7 +77,7 @@
 
 <blockquote><p>When I saw what was written on the mirror, my heart missed a beat. In red writing, the words <yell>I know what you are</yell> were scratched in with blood.</p></blockquote>
 
-<p>Useful - right?</p>
+<p>Useful, <em>right?</em></p>
 
 		<hr>
 
@@ -93,7 +102,7 @@
         <p>One of the first things that you will learn if you ever want to start to build a website is how you can use the <tt><font color="#81FF7F">img</font></tt> tag, this allows you to add images to a webpage, for example, a basic use of this would be the follows:</p>
         <p><tt><blockquote><font color="#81FF7F">&#x3C;img src=&#x22;cat.png&#x22;&#x3E;</font></blockquote></tt></p>
         <p>When putting images on your site, think about whether they're merely decorative or not. If not, make sure to add descriptive alt text so people who use screen readers can have context for what is being shown.</p>
-        <p>With more complex images, the description will have to be bigger, because the point of alt text is to give all the necessary information about the image, but at the same time, avoid details in the image that aren't relevant to whatever is being talked about.</p>
+        <p>With more complex images, the description will have to be bigger, because the point of alt text is to give all the necessary information about the image, but at the same time, avoid details in the image that aren't relevant to whatever is being talked about or shown.</p>
         <p>Adding alt text to an image is quite easy to do and all that is needed is to add a <tt><font color="#81FF7F">alt</font></tt> tag, changing what is seen above to something that looks like this:</p>
 <p><tt><blockquote><font color="#81FF7F">&#x3C;img src=&#x22;cat.png&#x22; alt=&#x22;Image of a cat&#x22;&#x3E;</font></blockquote></tt></p>
         <p>Between the quotations of <tt><font color="#81FF7F">alt=&#x22;&#x22;</font></tt> comes the hardest part: having to describe the image! It may seem hard to think of something to write, but say what you see, by doing this, not only will you be helping people who might find it hard to see, but you can also help other people who might see fine have a better understanding of the image that they are looking at. An example of alt text in action is shown below. We added the <tt><font color="#81FF7F">title</font></tt> tag with the same text, so even if you don't have a screen reader, you can still hover over the image with your mouse (or if you're on a mobile device, simply just hold your finger on the image) and you should see a pop up appear with the text for it.</p>
@@ -105,7 +114,7 @@
 		<p><tt><blockquote><font color="#81FF7F">&#x3C;img src=&#x22;cat.png&#x22; alt=&#x22;Untitled artwork by Louis Wain showing a blue cat looking at the viewer, smiling. They have deep purple eyes with flowers around them.&#x22; title=&#x22;Untitled artwork by Louis Wain showing a blue cat looking at the viewer, smiling. They have deep purple eyes with flowers around them.&#x22;&#x3E;</font></blockquote></tt></p>
 
 		
-        <p>Besides using alt text on your website, a number of social media websites also make it possible for you to use alt text on their services, websites like Twitter, Instagram, Mastodon, etc., allow for this. You should make sure to add alt text when possible!</p>
+        <p>Besides using alt text on your website, a number of social media websites also make it possible for you to use alt text on their services, websites like Twitter, Instagram, Mastodon, etc., allow for this. <strong>You should make sure to add alt text when possible!</strong></p>
         
 		<p>Twitter also <a href="https://help.twitter.com/en/using-twitter/set-image-description-reminder">has what it calls an image description reminder</a> where if you try and post an image or a GIF without alt text, it will remind you to add alt text.</p>
 		
@@ -138,7 +147,7 @@
         <p>Let's face it - not everyone will have good Internet speeds, you will know this all too well if you live in an area like farmland or even in a country that has not fully developed yet. But, what makes the Web special is the ability to show images embedded on the webpage itself, because of this, living in areas with slow Wi-Fi can mean that loading an image, especially a larger one, can take a long time, compared to say, someone living in the middle of a major city.</p>
         <p>What's the middle ground? How can a website owner make their site use images but also allow it to be loaded quickly by people with slower Internet speeds?</p>
         <p>There are programs that have been made to help shave off the file size of images - one such program is <a href="https://pnggauntlet.com">PNGGauntlet</a> for Windows, a free tool where you drag and drop images into the window, then compress your images down in size to ones that will not only save some space on your own website file size but will also help images load faster at the end of other people's devices.</p>
-        <p>If you are on Linux, you can install <a href="https://github.com/Huluti/Curtail">Curtail</a> to compress your images - it is available <a href="https://security.archlinux.org/package/curtail">on your app store</a> and <a href="https://flathub.org/apps/details/com.github.huluti.Curtail">on Flathub</a>.</p>
+        <p>If you are on Linux, you can install <a href="https://github.com/Huluti/Curtail">Curtail</a> to compress your images - it is available <a href="https://security.archlinux.org/package/curtail">on your app store</a> and <a href="https://flathub.org/apps/details/com.github.huluti.Curtail">on Flathub</a><!-- We're not Flathub haters here! -->.</p>
         <p>For macOS users, there are <a href="https://www.idownloadblog.com/2022/01/04/how-to-compress-image-mac">a number of programs that you can use</a>, although none of them have been personally tested by the writers of this guide.</p>
         <p>On browser, you can also use <a href="https://squoosh.app">Squoosh</a>, the online app that makes &#xAB;images smaller using best-in-class codecs, right in the browser&#xBB;
 . Also on browser, it's possible to compress GIF files using <a href="https://ezgif.com">EZGIF</a>.</p>
@@ -146,18 +155,28 @@
 		<hr>
 		
 		<a href="#emojis"><h2>Emojis</h2></a><a name="emojis"></a>
-        <p>First being made in Japan during the late 1990s, emojis have started to become a regular part of our day-to-day life online. It is hard to view social media without seeing the recognizable little icons. Because more and more emojis are being added all of the time, some computers, tablets, and phones are slow to catch up - that is why it might be worth to consider to use your own emojis or perhaps use Twitter's <a href="https://twemoji.twitter.com">Twemoji</a> or even <a href="https://mutant.tech">Mutant Standard</a> due to both being open-source, although the former follows the guideline set out by Unicode.</p>
-        <p>But why is this? Well, simply put, as stated at the start, not all devices support the most current emoji versions, so using an image instead of an actual emoji might be worthwhile, what might also be good is to mix in <a href="#screenreaders">alt text</a>.</p>
-        <p>Here's an example:</p>
-        <p><blockquote><tt><font color="#81FF7F">&#x3C;img src="/full_moon_face.svg" alt="The Mutant Standard version of the full moon face emoji (&#x26;#x1F31D;)" style="width: 150px;"&#x3E;</font></tt></blockquote></p>
+        <p>First being made in Japan during the late 1990s, emojis have started to become a regular part of our day-to-day life online. It is hard to view social media without seeing the recognizable little icons. Because more and more emojis are being added all of the time, some computers, tablets, and phones are slow to catch up - that is why it might be worth to consider to use your own emojis or perhaps use Twitter's <a href="https://twemoji.twitter.com">Twemoji</a><!-- We are very aware that it is no longer officially called «Twitter», but now «X». We don't care and won't be fixing this. Elon renaming his site that is full of hate is not going to change the fact that the only people who will call it by its new terrible-to-search-up name are techbros, news websites, and Elon himself - sorry Elon, but hey, if you pay me I'll change it! --> or even <a href="https://mutant.tech">Mutant Standard</a> due to both being open-source, although the former follows the guideline set out by Unicode.</p>
+        <p>But why is this? Well, simply put, as stated at the start, not all devices support the most current emoji versions, so using an image instead of an actual emoji might be worthwhile, what might also be good is to mix in <a href="#screenreaders">alt text</a>. The idea of a website having its own emojis isn't a strange thing. Sites like Twitter use their own emojis.</p>
+<p>While it's really not the end of the world, there can be unforeseen issues with someone not using their own emojis, such as the emoji showing up as a rectangle or the replacement character (&#xFFFD;), there are also issues like two users on two different devices might not see the exact same emojis, now that <em>would</em> be terrible.</p>
+
+        <p>Here's an example of how to use an emoji on your website:</p>
+        <p><blockquote><tt><font color="#81FF7F">&#x3C;img src="full_moon_face.svg" alt="The Mutant Standard version of the full moon face emoji (&#x26;#x1F31D;)" style="width: 150px;"&#x3E;</font></tt></blockquote></p>
         <p>The result should look like this:</p>
         <p><center><img src="../emoji/nature_effects/moon/full_moon_face.svg" class="center" alt="The Mutant Standard version of the full moon face emoji (&#x1F31D;)" title="The Mutant Standard version of the full moon face emoji (&#x1F31D;)" style="width: 150px;"></center></p>
-        
+        <p>You might want to define the width of the emojis if you're using SVG files, as they're originally quite large. Here's what it will look like in CSS:</p>
+        <blockquote><pre><font color="#81FF7F">.emoji {
+width: 1rem;
+}</font></pre></blockquote>
+
+        <p>The result will look similar to this: <img src="../emoji/nature_effects/moon/full_moon_face.svg" alt="Moon emoji" title="Moon emoji" class="emoji"></p>
+
+<p>With the code looking something like this: <font color="#81FF7F"><tt>&#x3C;img src=&#x22;demon.svg&#x22; alt=&#x22;Moon emoji&#x22; title=&#x22;Moon emoji&#x22; class=&#x22;emoji&#x22;&#x3E;</tt></font>
+
 		<hr>
 		
 <a href="#transcripts"><h2>Transcripts and Subtitles</h2></a><a name="transcripts"></a>
 		
-        <p>Much like how some people cannot see the images on your website, many people are unable to hear the audio on your site or video. There are a wide number of reasons why someone may not be able to hear something; they may have a hearing loss issue, their audio might be broken, or they just might not be in an area where playing audio would be okay to do, like in public. This is why it is important for not only things such as television stations to show subtitles but also your own website (and also stuff like YouTube videos). Adding subtitles <strong>will not only benefit people who are hard-of-hearing</strong>, but <strong>also people who may wish to read along with what is being said</strong>.</p>
+        <p>Much like how some people cannot see the images on your website, many people are unable to hear the audio on your site or video. There are a wide number of reasons why someone may not be able to hear something; they may have a hearing loss issue, their audio on their device might be broken, or they just might not be in an area where playing audio would be okay to do, like in public. This is why it is important for not only things such as television stations to show subtitles but also your own website (and also stuff like YouTube videos). Adding subtitles <strong>will not only benefit people who are hard-of-hearing</strong>, but <strong>also people who may wish to read along with what is being said</strong>.</p>
 
 <p>		<figure>
         <center><img src="living_dead.png" alt="A still from Night of the Living Dead that shows Johnny talking to his sister, Barbra, he has his arms around her and they are both looking at something off-screen. «He'll hear you!» says Barbra to her brother, «Here he comes!» Johnny says in return to his scared sister." title="A still from Night of the Living Dead that shows Johnny talking to his sister, Barbra, he has his arms around her and they are both looking at something off-screen. «He'll hear you!» says Barbra to her brother, «Here he comes!» Johnny says in return to his scared sister." width="289" height="219"></center>
@@ -222,12 +241,11 @@ I'm only using my First Amendment right
 You know I won't go down without a fight, without a fight">
 	</audio></center></p>
 
+<p>Song: Lemon Demon - Gonna Dig Up Alec Guinness (2005)</p>
+
 <p>Sometimes it might not be possible to add just a simple alt text to an audio file, but there are other ways to show the transcript on a website. You could have a popup appear, you could link to another page, anything really.</p>
 
 <p>Writing subtitles is not hard. For subtitles, they should be accurate as possible to what is being said in the video or audio and well timed so it is not desynced. There are some other things to remember, such as to also include text for the sound effects that may be in the video or audio so that people who might not be able to hear the audio can still have the context of what is going on.</p>
-
-
-
 
 		<hr>
 		
@@ -237,10 +255,13 @@ You know I won't go down without a fight, without a fight">
         var year = today.getFullYear()
         document.write(year)
         </script>
-        without making use of text on the site, and because of this, it means that you will have to make use of a font- even if it is just your browser's default option. There are fonts that you can use that people with dyslexia can read well, one well-known one is the self-described «world's favourite font», <em>Comic Sans</em>, however, this font is not considered to be all that well-liked.</p>
+        without making use of text on the site, and because of this, it means that you will have to make use of a font - even if it is just your browser's default option, you as a webdev will have to decide how the viewer will see your website (no pressure!). There are fonts you can pick that people with dyslexia can better help read with, one well-known one is the self-described &#xAB;world&#x27;s favourite font&#xBB;, Comic Sans, however, this font is not considered to be all that well-liked.</p>
         <p>Because of this, there are other fonts that you can use; <a href="https://opendyslexic.org">OpenDyslexic</a> might be the best-known font by people who have dyslexia.</p>
-        <p>Despite of all of this, sadly <em>not everyone with dyslexia will benefit from a change in font</em>, as dyslexia is a bit of a spectrum- no dyslexic person has the same experience- so, because of this, if you do have dyslexia yourself, using an add-on such as <a href="https://addons.mozilla.org/en-US/firefox/addon/web-font-changer">Font Changer</a> or <a href="https://addons.mozilla.org/en-US/firefox/addon/theme-font-size-changer">Theme Font &#x26; Size Changer</a> for Firefox. If you're a Chrome user, then <a href="https://chrome.google.com/webstore/detail/font-customizer/doddgdldnhlnnhodbjlbpokfljjddboe">Font Customizer</a> might be a bigger benefit.</p>
-		
+        <p>Despite of all of this, sadly <em>not everyone with dyslexia will benefit from a change in font</em>, as dyslexia is a bit of a spectrum- no dyslexic person has the same experience:- so, because of this, if you do have dyslexia yourself, using an add-on such as <a href="https://addons.mozilla.org/en-US/firefox/addon/web-font-changer">Font Changer</a> or <a href="https://addons.mozilla.org/en-US/firefox/addon/theme-font-size-changer">Theme Font &#x26; Size Changer</a> for Firefox might help you. If you're a Chrome user, then <a href="https://chrome.google.com/webstore/detail/font-customizer/doddgdldnhlnnhodbjlbpokfljjddboe">Font Customizer</a> might be a bigger benefit.</p>
+		<p>Fonts are obviously very important if you want to have text on a website. It's important to consider certain things when implementing font styling though.</p>
+        <p>Secondly, make sure the size isn't too small - 1em (which is the standard font size) is quite good, co-author Bruno recommends not going under .8em as the text might be too small for users to read. Remember, just because <em>you</em> can read small text, that doesn't mean everyone can - even users that aren't visually impaired might have trouble reading tiny text.</p>
+        <p>Color is equally important. The colors must contrast against each other in a way that doesn't cause eye-strain. So, we recommend avoiding bright text on bright backgrounds, pastel text on pastel backgrounds, et cetera.</p>
+        <p>Finally, to make things easier for dyslexic users, there are many things you can change to make the text easier to read, such as word/letter spacing, avoiding justified text... This is covered in-depth by <a href="https://solaria.neocities.org">solaria</a>'s <a href="https://solaria.neocities.org/readability">readability guide</a>, I highly recommend checking it out!</p>
 
 <hr>
 
@@ -253,7 +274,7 @@ You know I won't go down without a fight, without a fight">
         <ul>
             <li>Make sure not to include flashing GIFs where they are not needed, or at least avoid putting them in large numbers in the same page.</li>
             <li>Slow down GIFs using your preferred GIF editor. A good one is the browser-based <a href="https://ezgif.com">EZGIF</a>.</li>
-            <li>Always include warnings when linking to a page with seizure-inducing GIFs.</li>
+            <li>Always include warnings when linking to a page with seizure-inducing GIFs or video.</li>
             <li>Make sure your GIF is not between 3-30 hertz (flashes per second), as those are the most common rates to trigger seizures.</li>
         </ul>
         <p>There's also a way to blur an image before it's hovered with CSS, which can come in handy for many flashing GIFs.</p>
@@ -268,7 +289,29 @@ You know I won't go down without a fight, without a fight">
 }</font></pre></blockquote></p>
         <p>Below is a blinkie taken from <a href="https://blinkies.cafe">blinkies.cafe</a> that is friendly to most users with epilepsy. We applied this tip to it, so it'll only be fully visible when hovered.</p>
         <center><p><img src="blinkie.gif" class="Center flashing" alt="Blinkie with a small animation of an alligator walking with text reading «Cya later alligator!» next to them." title="Blinkie with a small animation of an alligator walking with text reading «Cya later alligator!» next to them."></p></center>
- <hr>
+<p>The code for this is quite simple, and looks like the following:</p>
+
+<p><blockquote><tt><font color="#81FF7F">&#x3C;img src=&#x22;blinkie.gif&#x22; class=&#x22;Center flashing&#x22;&#x3E;</font></tt></blockquote></p>
+
+        <p>Other than that, you can also use <a href="https://github.com/ctrl-freaks/freezeframe.js">Freezeframe.js</a> to freeze GIFs, letting the user see them in action by hovering or clicking the image. <a href="https://bechnokid.neocities.org/resources/tut_freezeframe">This tutorial</a> by BechnoKid explains how to use it in personal websites!</p>
+
+<hr>
+
+	<a href="#spoilers"><h2>Spoilers and sensitive content</h2></a><a name="spoilers"></a>
+
+<p>When writing about sensitive topics or even trivial things such as movie spoilers, you might be tempted to use the details tag to hide the offending text. However, here's a way to do so without having to click anything to showcase hidden text...</p>
+        <p>Using the span tag and some CSS, we can create text that will only be shown when it's hovered over. The background color should be the same as the text color.</p>
+        <blockquote><font color="#81FF7F"><pre>.spoiler {
+    background-color: #fff;
+}
+    
+.spoiler:hover {
+    background-color: transparent;
+}</pre></font></blockquote>
+        <p>The result will look like this: <span class="spoiler-text">you just lost the game.</span></p>
+<p>For this, the code used a <tt>span</tt> tag, so like this: <tt><font color="#81FF7F">&#x3C;span class=&#x22;spoiler-text&#x22;&#x3E;This text will be hidden!&#x3C;/span&#x3E;</font></tt>. With that being said, this isn't 100% useful as screen readers will sometimes not read it and also it's not easy to copy and paste text, <em>sooo...</em></p>
+
+<hr>
  
 		<a href="#dates"><h2>Dates and Time</h2></a><a name="dates"></a>
 		
@@ -337,7 +380,7 @@ The following formats are therefore discouraged:
 - 2053112674378
 - [A black cat with 2-27-13 scrawled across their body in dripping white paint.]
 
-The cat hisses" width="348" height="406"></center>
+The cat hisses" width="307" height="360"></center>
         <figcaption><p>What this segment is trying to say, but as <a href="https://www.explainxkcd.com/wiki/index.php/1179">an XKCD comic</a>.</p>
 		</figcaption>
     </figure></p>
@@ -350,7 +393,7 @@ The cat hisses" width="348" height="406"></center>
 		
 		<p>This is perhaps the most accessible and clear way of writing dates, but there is also another way, that being <strong>ISO 8601</strong>! Instead of putting something that can be interpreted in more than one way, ISO 8601 makes it so there is zero confusion. <strong>Dates will be written as YYYY-MM-DD</strong>, for example, 1993-12-10.</p>
 		
-		<p>At first, this may be confusing, but once you understand it, this format is very easy to get the hang of (but with that said, perhaps only use this on an audience who will not be confused).</p>
+		<p>At first, this may be confusing, but once you understand it, this format is very easy to get the hang of (but with that said, perhaps only use this on an audience who will not be confused (we're talking nerds)).</p>
 		
 		<p>There are, of course, other ways to write dates so as to not confuse people. 10/Dec/1993 is quick to understand, for example.</p>
   <hr>
