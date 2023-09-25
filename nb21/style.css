@@ -121,3 +121,10 @@ blockquote {
     -webkit-filter: none;
     filter: none;
 }
+
+.tag {
+	padding: 10px;
+	border: 5px solid gray;
+	margin: 0;
+	background-color: #0D253D;
+}
