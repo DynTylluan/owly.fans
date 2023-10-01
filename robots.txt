@@ -16,6 +16,7 @@ Disallow: /
 # Quote: https://datadome.co/threat-research/how-chatgpt-openai-might-use-your-content-now-in-the-future
 # https://commoncrawl.org/faq
 User-agent: CCBot
+Disallow: /
 
 # Google's AI training bot.
 # I also don't want to have my content used without giving me credit.
