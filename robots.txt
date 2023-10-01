@@ -38,3 +38,8 @@ Disallow: /
 # Apple's bot.
 User-Agent: AppleNewsBot
 Disallow: /
+
+# Kitty
+# This bot is cool - go wild, queen
+User-Agent: digikitty_x86
+Allow: /
