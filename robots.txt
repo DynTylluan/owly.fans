@@ -1,7 +1,7 @@
 # robots.txt
 
-# GPTBot is OpenAI's web crawler. I do not want it to use my content as it does
-# not cite its sources.
+# GPTBot is OpenAI's web crawler.
+# I do not want it to use my content as it does not cite its sources.
 # https://platform.openai.com/docs/gptbot
 User-agent: GPTBot
 Disallow: /
@@ -17,8 +17,24 @@ Disallow: /
 # https://commoncrawl.org/faq
 User-agent: CCBot
 
-# Google's AI training bot. I also don't want to have my content used without
-# giving me credit.
+# Google's AI training bot.
+# I also don't want to have my content used without giving me credit.
 # https://blog.google/technology/ai/an-update-on-web-publisher-controls
 User-agent: Google-Extended
+Disallow: /
+
+# Amazon
+# Used for Alexa - does not cite sources.
+# https://developer.amazon.com/support/amazonbot
+User-Agent: Amazonbot
+Disallow: /
+
+# Apple's bot.
+# Used for Siri and Spotlight Suggestions. Does not cite its sources.
+# https://support.apple.com/en-us/HT204683
+User-Agent: Applebot
+Disallow: /
+
+# Apple's bot.
+User-Agent: AppleNewsBot
 Disallow: /
