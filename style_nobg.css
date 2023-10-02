@@ -111,3 +111,10 @@ uppercase,yell {
   background: #e8e8e8;
   color: inherit;
 }
+
+.tag {
+	padding: 10px;
+	border: 5px solid gray;
+	margin: 0;
+	background-color: #4D4A7C;
+}
