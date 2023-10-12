@@ -128,3 +128,7 @@ blockquote {
 	margin: 0;
 	background-color: #0D253D;
 }
+
+.emoji {
+width: 1rem;
+}
