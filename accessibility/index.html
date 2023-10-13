@@ -45,11 +45,12 @@
 	        <li><a href="#flashing">Flashing GIFs</a></li>
 	        <li><a href="#spoilers">Spoilers and sensitive content</a></li>
 	        <li><a href="#dates">Dates and Time</a></li>
+		<li><a href="text-art">Displaying text art</a></li>
     	    <li><a href="#conclusion">Final thoughts</a></li>
         </ul>
 
 				<hr>
-<!-- SCREENREADERS (WRITTEN BY DEVILS) -->
+	    
 	<a href="#screenreaders"><h2>Designing with screen readers in mind</h2></a><a name="screenreaders"></a>
         <p>Screen readers are a form of assistive technology that reads text and image content set in a website out loud. They are essential for blind users and important for people with reading issues, such as those with dyslexia. They are useful for those who are visually impaired or have difficulty reading for whatever reason.</p>
         <p>Common desktop screen readers include:</p>
@@ -81,7 +82,6 @@
 
 		<hr>
 
-<!-- LINKS (WRITTEN BY DEVILS) -->
 	<a href="#links"><h2>Links must look like links</h2></a><a name="links"></a>
         <p>Links must look visually different from regular text, so people know what is and isn't a link.</p>
         <p>However, for truly accessible design, make sure they are distinct - we underline our links, for example. This is so people who are colorblind can also recognize them without any issues. Making links different colors isn't enough.</p>
@@ -119,8 +119,7 @@
 		<p>Twitter also <a href="https://help.twitter.com/en/using-twitter/set-image-description-reminder">has what it calls an image description reminder</a> where if you try and post an image or a GIF without alt text, it will remind you to add alt text.</p>
 		
 			<hr>
-
- <!-- AUTOPLAY (WRITTEN BY DEVILS) -->
+	    
 		<a href="#autoplay"><h2>Autoplay sounds and music</h2></a><a name="autoplay"></a>
 
         <p>In regards to accessibility, autoplay is often frowned upon. Why is that? Well...</p>
@@ -264,8 +263,6 @@ You know I won't go down without a fight, without a fight">
         <p>Finally, to make things easier for dyslexic users, there are many things you can change to make the text easier to read, such as word/letter spacing, avoiding justified text... This is covered in-depth by <a href="https://solaria.neocities.org">solaria</a>'s <a href="https://solaria.neocities.org/readability">readability guide</a>, I highly recommend checking it out!</p>
 
 <hr>
-
- <!-- FLASHING GIFS (WRITTEN BY DEVILS) -->
 		<a href="#flashing"><h2>Flashing GIFs</h2></a><a name="flashing"></a>
 
         <p>Photosensitive epilepsy is a condition where seizures are triggered by flashing lights or contrasting light and dark patterns. These kinds of patterns can also affect epileptic folk whose epilepsy isn't photosensitive, making them feel unwell, disorientated, or uncomfortable.</p>
@@ -312,7 +309,6 @@ You know I won't go down without a fight, without a fight">
 <p>For this, the code used a <tt>span</tt> tag, so like this: <tt><font color="#81FF7F">&#x3C;span class=&#x22;spoiler-text&#x22;&#x3E;This text will be hidden!&#x3C;/span&#x3E;</font></tt>.</p>
 
 <hr>
- 
 		<a href="#dates"><h2>Dates and Time</h2></a><a name="dates"></a>
 		
 		<p>		<figure>
@@ -397,11 +393,17 @@ The cat hisses" width="307" height="360"></center>
 		
 		<p>There are, of course, other ways to write dates so as to not confuse people. 10/Dec/1993 is quick to understand, for example.</p>
   <hr>
+	    
+	    <a href="text-art"><h2>Displaying text art</</h2></a><a name="text-art"></a>
 
+	<p>Text art is notoriously cumbersome for those who use screen-readers. This is because, as text art is mostly based around symbols and letters organized in a way to create an image rather than, well, text.</p>
 
+	<p>When publishing text art online, people usually use the <tt>pre</tt> tag. By adding a simple <tt>aria-hidden="true"</tt> to a tag such as <tt>pre</tt> or <tt>span</tt> (example below), the content it contains will not be read by screen-readers (as described in <a href="http://www.w3.org/TR/wai-aria/states_and_properties#aria-hidden">WAI-ARIA 1.0</a></p>
 
+	    <p><blockquote><pre><font color="#81FF7F"><span aria-hidden="true">Imagine the coolest-looking text art here!</span></font></pre></blockquote></p>
 
-        <!-- FINAL THOUGHTS (WRITTEN BY DEVILS) -->
+	<p>Of course, it will be still necessary to describe the art if it relevant to the topic at hand. A possible solution to this issue is describing the «image» afterwards with regular text tags. If the text art is meant to be purely decorative, you can probably skip this step though.</p>
+	    
 		<a href="#conclusion"><h2>Final thoughts</h2></a><a name="conclusion"></a>
 
         <p>These aren't strict rules you absolutely need to follow. At the end of the day, one must take into consideration both accessibilty and their own vision and arrive at a compromise.</p>
