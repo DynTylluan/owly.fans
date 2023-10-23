@@ -55,7 +55,7 @@ Here are all of the mascots I have used, when I place them on the webpage, I use
 
 While I know that this whole webpage is very strange and the idea of me rejecting a mascot might seem odd, but here is a breakdown of the ones I won't do and why.
 
-* Most waifu mascots: I feel like any mascot that's just something like an anime girl is kind of hard to write about. I kind of don't like what I wrote for Pleroma-tan and Ai as it's kind of just the same thing. I was going to add Sanny and Tess («Futanari girls») from Wikipedia,I don't think I can say much for them.
+* Most waifu mascots: I feel like any mascot that's just something like an anime girl is kind of hard to write about. I kind of don't like what I wrote for Pleroma-tan and Ai as it's kind of just the same thing. I was going to add Sanny and Tess («Futanari girls») from Wikipedia, but I don't think I can say much for them.
 * elePHPant: I can't really say much apart from «I'm going to get stepped on and not in a hot way».
 * Duke of Java: I don't know what this is meant to be and I don't think I can come up with anything good - I feel like the fight would be exactly like the one with Whales of Funkwhale.
 * Mozilla's dinosaur head thing: I really don't think there would be much to say about this apart from «Cass would be eaten in seconds».
@@ -65,3 +65,5 @@ While I know that this whole webpage is very strange and the idea of me rejectin
 * Wilber (GIMP): I don't know what Wilber is meant to be and the only official art of them is just a headshop, so we never see the rest of their body. IDK.
 * Firefish: The mascot for this project seems to be [this abstract fish-thing](https://git.joinfirefish.org/firefish/joinfirefish/-/blob/main/public/branding/title.svg?ref_type=heads)... I'm really not sure what I could ever say about them.
 * Friday Night Funkin': I really don't know the lore of the game - sorry!
+
+Hopefully, this will be useful to people before they ask about a mascot that I have ruled out. Of course, if you want to make your own version of my mascot page, you are more than welcome to add the mascots that I will not do.
