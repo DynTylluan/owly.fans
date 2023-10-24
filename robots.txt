@@ -44,3 +44,24 @@ Disallow: /
 # This bot is cool - go wild, queen
 User-Agent: digikitty_x86
 Allow: /
+
+# This is where I copy Bytemoth
+# I am taking it in good faith that Bytemoth knows what he's doing and that
+# the following bots are for marketers - so I am blocking them.
+# As taken from the following URL: http://bytemoth.nfshost.com/robots.txt
+User-agent: adsbot
+User-agent: AhrefsBot
+User-agent: BLEXBot
+User-agent: dotbot
+User agent: MTRobot
+User-agent: SemrushBot
+User-agent: SemrushBot-SA
+User-agent: SemrushBot-BA
+User-agent: SemrushBot-SI
+User-agent: SemrushBot-SWA
+User-agent: SemrushBot-CT
+User-agent: SemrushBot-BM
+User-agent: serpstatbot
+User-agent: Pandalytics
+User-agent: PageThing
+Disallow: /
