@@ -15,7 +15,7 @@
     <meta property="og:url"         content="https://owly.fans">
     <meta name="referrer"           content="no-referrer-when-downgrade">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-	<a class="account-link" rel="me" href="https://digipres.club/@Owly"></a>
+	<a class="account-link" rel="me" href="https://digipres.club/@Owly"></a><link rel="me" href="https://github.com/DynTylluan"><link rel="me" href="https://github.com/NeoZones"><link rel="me" href="mailto:owlgal69@protonmail.com"><link rel="me" href="https://owly.fans"><link rel="me" href="https://owlyfans.neocities.org">
 	<link href="https://owlyfans.neocities.org/nb21/style.css" rel="stylesheet" type="text/css" media="all"></head><center>
 <p></p>
 <TABLE WIDTH="750"><TD VALIGN="TOP">
