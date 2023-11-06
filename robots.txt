@@ -1,4 +1,6 @@
 # robots.txt
+# Page is under the FOPL-ZERO license
+# https://owly.fans/license/fopl-zero
 
 # GPTBot is OpenAI's web crawler.
 # I do not want it to use my content as it does not cite its sources.

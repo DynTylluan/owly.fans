@@ -98,6 +98,10 @@ Hi, this part of my site is a work in progress, but I wanted to give credit to t
 
 `scotland.png`: [Taken from Wikimedia](https://commons.wikimedia.org/wiki/File:Flag_of_Scotland.svg).
 
+`stand_with_ukraine.png`: Based upon a flag that Cass saw flying by a church.
+
+`stand_with_ukraine_phone.png`: A sketch Cass made to remember what the Stand With Ukraine looked like before recreating it.
+
 `tywyn.png`: Made by [Hogweard](https://commons.wikimedia.org/wiki/File:Flag_of_Tywyn,_Wales.svg).
 
 `uk_westandwithukraine.png`: Made by me, Cass Python, as based on a flag I saw in real life.
