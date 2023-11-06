@@ -1,4 +1,4 @@
-# owly.fans
+# OwlyFans
 
 > You might be looking for [this git](https://github.com/dynTylluan/owlyfans.neocities.org), as this one is for the .fans version.
 
@@ -6,4 +6,4 @@ Due to the way that my website is set up, it means that whenever I edit [this gi
 
 If you have spotted an error, [please feel free to contact me](https://github.com/DynTylluan/DynTylluan) about it, or simply fork this git and send a pull request.
 
-> Cass «Owly» Python of [owly.fans](https://owly.fans), [et al](humans.html)
+> Cass «Owly» Python of [OwlyFans](https://owly.fans), [et al](humans.html)
