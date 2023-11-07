@@ -2,13 +2,16 @@
 # Page is under the FOPL-ZERO license
 # https://owly.fans/license/fopl-zero
 
+# This page is also on git:
+# Please feel free to suggest a change to this file
+# https://github.com/DynTylluan/owly.fans/blob/main/robots.txt (main)
+# https://notabug.org/DynTylluan/owly.fans/src/main/robots.txt (mirror)
+# https://tildegit.org/cass/owly.fans/src/branch/main/robots.txt (mirror)
+
 # GPTBot is OpenAI's web crawler.
 # I do not want it to use my content as it does not cite its sources.
 # https://platform.openai.com/docs/gptbot
 User-agent: GPTBot
-Disallow: /
-
-# Also an OpenAI bot
 User-agent: ChatGPT-User
 Disallow: /
 
@@ -36,9 +39,6 @@ Disallow: /
 # Used for Siri and Spotlight Suggestions. Does not cite its sources.
 # https://support.apple.com/en-us/HT204683
 User-Agent: Applebot
-Disallow: /
-
-# Apple's bot.
 User-Agent: AppleNewsBot
 Disallow: /
 
