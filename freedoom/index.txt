@@ -1,0 +1,172 @@
+= Home
+// See COPYING.adoc for license terms of this file.
+
+image::img/screenshots/th_phase2-0.12_04.png[alt="Freedoom Screenshot",link="screenshots.html",float="right"]
+
+The Freedoom project aims to create a complete
+https://www.gnu.org/philosophy/free-sw.html[free content] game based
+on the _Doom_ engine.
+
+Combined with the engine, _Freedoom_ is also compatible with game
+modifications (``mods'') made for the original _Doom_ games, made by
+_Doom_ fans and artists over the decades.
+
+For more information, see the link:about.html[What is Freedoom?] page.
+
+== Project News
+
+=== link:#freedoom-0.12.1[2019-10-22: Freedoom 0.12.1 released][[freedoom-0.12.1]]
+==== General
+  * The HTML documentation (eg, +NEWS+ and +README+ files) are
+    generated with a style based on _Freedoom_’s own website, rather
+    than the default AsciiDoc styling.
+  * _Phase 2_’s internal DEMO1 has been replaced, thanks to some odd
+    vanilla quirks that could cause it to desync in some (but not all)
+    conditions.
+
+==== Levels
+  * The sailor monster type is formally banished from _Freedoom_’s own
+    levels, and remaining uses of it were removed.
+
+==== Manual
+  * Incongruities between the actual game and manual have been fixed.
+
+==== Build system
+  * The `make install` targets have been consolidated to behave more
+    similarly to how the pre-built zip distributions are: a split
+    between _FreeDM_ and _Phase 1+2_, rather than installing each of
+    the tree IWADs independently (and thus getting their own
+    +/usr/share/doc+ directories, for instance).
+
+=== link:#freedoom-0.12.0[2019-10-10: Freedoom 0.12.0 released][[freedoom-0.12.0]]
+==== General
+  * We now have a manual rendered to beautiful PDF format.  Thanks to
+    Simon Howard, the project’s founder.
+  * A strong focus on vanilla compatibility has been sought for this
+    release.  Most, if not all, levels should work now.
+  * _Final Doom_ compatibility de-emphasized.  Where it creates
+    conflicts with _Doom II_ mods or texture definitions, we prefer
+    the _Doom II_ side of things.  _Final Doom_-specific maps and mods
+    may never look completely right in _Freedoom_, as a result.
+
+==== Levels
+  * _FreeDM_ has seen a major overhaul, with most maps being modified,
+    with new additions and removals of the weaker levels.  It now
+    benefits from the use of Aquatex and Egyptian textures in some of
+    its levels, giving a more vibrant feel than before.
+  * _Phase 1_ gets a lot of mapping love in this round, fleshing out
+    the levels and tweaking difficulty levels so easy, normal, and
+    hard are all accounted for.  There is a new C3M5 by Mortrixs.
+  * _Phase 2_ MAP01 saw an overhaul, simplifying its design in
+    significant ways to improve the flow around the level.
+  * Two maps in _Phase 2_ were replaced due to being recreations of
+    _Doom II_ maps.  Jayexetee and GooseJelly get credits for the new
+    ones, in MAP06 and MAP26.
+  * Maps in _Phase 2_ in general have had some slight re-arrangement
+    based on difficulty levels and themes.  A new MAP06 by Jayexetee
+    is included, the old one taking the MAP18 slot.
+  * All levels are now guaranteed to have co-op and deathmatch starts.
+
+==== Graphics
+  * New power-up (stealth, overdrive, and ultra-overdrive) sprites.
+  * New necromancer (arch-vile) sprites by Urric.
+  * Some weapon and ammo sprites have been tweaked and improved.
+  * Completed and enhanced set of _Evilution_ and _Plutonia_ textures.
+  * New skull-switches by MissLav.
+  * New SKY4 based on an astronomy photograph.
+  * Tweaked player sprites and HUD face by Ferk.
+
+==== Music
+  * New tracks in C1M2, C2M3, C2M8, MAP03, MAP12, MAP22, MAP25, MAP26,
+    MAP27, DM03, DM06, DM09, DM17, DM24, DM31, and DM32.
+  * All files in-tree have been renamed from *.mus to *.mid.  The file
+    format must always be MIDI.  This makes it easy on music composers
+    to actually work with the files.
+
+==== Unix script and metadata
+  * Metainfo (formerly appdata) and desktop files have been brought up
+    to the latest standard specifications and recommendations, using
+    reverse-DNS for the project identifier, and a self-evaluated
+    content rating.
+  * The launch shell-script changed the `PORT` environment variable to
+    `DOOMPORT` to avoid conflicts with the genericly-named `PORT`.  It
+    also builds a sensible default `DOOMWADPATH` environment variable
+    to assist ports that do not have a hard-coded fallback.
+  * The script no longer tries to look for `boom`, `zdoom`, nor
+    `prboom` by default, as these are ports no longer maintained.
+
+==== Build system
+  * Freedoom’s build system now has a hard dependency on Python 3, in
+    anticipation of Python 2’s end-of-life.
+  * We have moved from ImageMagick to Pillow, a Python library for
+    graphics manipulation.  It provides faster build times as well as
+    API stability.
+  * GIF files have been replaced with PNG files.  True PNG file format
+    transparency is used instead of a cyan background.
+  * `ASCIIDOC` and `ASCIIDOC_MAN` variables have been added to the
+    Makefile to control the AsciiDoc implementation used to generate
+    HTML and man page files.
+
+=== link:#freedoom-0.11.3[2017-07-18: Freedoom 0.11.3 released][[freedoom-0.11.3]]
+
+This point release is only to allow building from source with
+https://github.com/Doom-Utils/deutex[DeuTex] 5.0, and thus is
+considered unnecessary for any purpose other than distribution
+packaging.  There are no level, sprite, sound, music, or other asset
+changes from 0.11.2.
+
+=== link:#freedoom-0.11.2[2017-03-15: Freedoom 0.11.2 released][[freedoom-0.11.2]]
+
+Solving a few more issues found in the previous release, this point
+release is more dry than the last one, but we hope that it just
+refines the game to make it better than before.
+
+  * Missing multiplayer starts have been added to several levels.
+    No map should be lacking anymore.
+  * A few mapping errors were repaired by changing sector heights.
+    Speedrunners can better appreciate smooth flow through the levels.
+  * Easy and normal difficulty levels have been tweaked.
+  * Par times for _Phase 1_ have been added.
+  * Cleaned up title screen using the _Freedoom_ font for _Phase 1_ and
+    _Phase 2_ on screen.
+
+=== link:#freedoom-0.11.1[2017-02-22: Freedoom 0.11.1 released][[freedoom-0.11.1]]
+
+We've had quite a good reception for 0.11 and are thankful to everyone
+sending feedback, both praise and criticism, we use it all for
+improving Freedoom further!  This point release repairs a few
+deficiencies found in the 0.11 release, and adds new resources.
+
+  * 1% armor bonus pickups are recolored from red to green.  They were
+    too easily confused for health pickups.
+  * New _TNT: Evilution_-compatible textures.
+  * New pain bringer and pain lord sprites, replacing old concept
+    art-derived ones.
+  * A few map errors are fixed, including misaligned textures,
+    leftover Boom specials, and it should no longer be possible to get
+    stuck between a rock and a tree in _Phase 1_ C1M1.
+  * Brand new _Phase 1_ C3M1, replacing an old _Doom_-inspired
+    level.
+  * Widescreen statusbar for ZDoom was removed.  This created
+    incompatibility with some mods, and mod compatibility is prefered
+    over visual enhancements.
+  * Fixed intermission text after using the secret exit in _Phase 2_
+    MAP31, where obituary texts were incorrectly displayed instead.
+  * More new music tracks, providing better vanilla compatibility.
+
+=== link:#freedoom-0.11[2017-02-16: Freedoom 0.11 released][[freedoom-0.11]]
+
+Another year, and one of _Freedoom_'s biggest updates has arrived!
+One of the major developments we've had is the elimination of Boom as
+the target engine for game support.  While we are aiming for an
+eventual compatibility with Vanilla _Doom_, _Freedoom_ should
+presently run on any limit-removing engine, which is nearly all of
+them.
+
+  * Lots of new music.
+  * New levels, including C1M1 kicking off _Phase 1_.
+  * Aquatex: over 200 new textures for mappers to use.
+  * New intermission screens.
+  * Some new weapon sprites: new pistol, new pickups.
+  * New medkit and armor pickup sprites.
+  * New project logo. 😀

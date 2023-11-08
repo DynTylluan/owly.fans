@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>Freedoom news feed</title>
-  <link href="https://freedoom.github.io/"/>
-  <link href="https://freedoom.github.io/" rel="self"/>
+  <link href="https://freedoom.github.io/" />
+  <link href="https://freedoom.github.io/" rel="self" />
   <id>https://freedoom.github.io/atom.xml</id>
   <author><name>Freedoom Project</name></author>
   <updated>2019-10-10T01:22:22Z</updated>
@@ -244,7 +244,7 @@
     <id>https://freedoom.github.io/#_2017_02_22_freedoom_0_11_1_released</id>
     <updated>2017-02-22T02:45:13Z</updated>
     <content type="html">
-      &lt;p&gt;We’ve had quite a good reception for 0.11 and are thankful to everyone
+      &lt;p&gt;We&#8217;ve had quite a good reception for 0.11 and are thankful to everyone
       sending feedback, both praise and criticism, we use it all for
       improving Freedoom further!  This point release repairs a few
       deficiencies found in the 0.11 release, and adds new resources.&lt;/p&gt;
@@ -306,7 +306,7 @@
     <updated>2017-02-16T03:53:21Z</updated>
     <content type="html">
       &lt;p&gt;Another year, and one of &lt;em&gt;Freedoom&lt;/em&gt;'s biggest updates has arrived!
-      One of the major developments we’ve had is the elimination of Boom as
+      One of the major developments we&#8217;ve had is the elimination of Boom as
       the target engine for game support.  While we are aiming for an
       eventual compatibility with Vanilla &lt;em&gt;Doom&lt;/em&gt;, &lt;em&gt;Freedoom&lt;/em&gt; should
       presently run on any limit-removing engine, which is nearly all of

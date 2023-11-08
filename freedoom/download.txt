@@ -1,0 +1,80 @@
+= Download
+// See COPYING.adoc for license terms of this file.
+
+== Game data
+
+_Freedoom_ is available in two versions, the first of which is a
+single-player focused game, split in two parts, each of which is
+compatible with different versions of the classic _Doom_ franchise
+from id Software.  The second is a multiplayer-focused experience for
+the popular ``deathmatch'' game mode.
+
+[horizontal]
+https://github.com/freedoom/freedoom/releases/download/v0.12.1/freedoom-0.12.1.zip[Freedoom: Phase 1+2]::
+
+    _Phase 1_ is the first part of the single-player game, containing
+    four episodes which are nine levels each, smoothly paced for
+    beginner players.  It is compatible with mods for the original
+    _Doom_ and _The Ultimate Doom_.
+    +
+    +
+    _Phase 2_ is the second major part of the single-player game, a
+    massive 32-level episode expanding upon the same concepts present
+    in _Phase 1_, as well as containing additional monsters and the
+    double-barreled shotgun!  The levels in this game tend to demand
+    more skillful play than the previous episodes.  It is compatible
+    with mods for _Doom II_.
+
+https://github.com/freedoom/freedoom/releases/download/v0.12.1/freedm-0.12.1.zip[FreeDM]::
+
+    _FreeDM_ is a fast-paced competitive deathmatch game, part of the
+    Freedoom project.  Rather than the usual single-player focused
+    levels, these contain no monsters and are intended for deathmatch
+    only.  It is compatible with mods for _Doom II_.
+
+== Engine
+
+_Freedoom_ requires the additional download of a game engine to
+play. The following engines are highly recommended by the _Freedoom_
+project:
+
+[horizontal]
+https://gzdoom.drdteam.org/[GZDoom]::
+
+    GZDoom is an advanced engine, with many features and extremely
+    high compatibility with the majority of mods released for _Doom_
+    and _Freedoom_.
+
+https://fabiangreffrath.github.io/crispy-doom[Crispy Doom]::
+
+    Crispy Doom is a minimalist engine, adding few extra features to
+    the engine while maintaining an old school feel.
+
+These engines, and https://doomwiki.org/wiki/Source_port[many others],
+are made possible thanks to the _Doom_ engine being released as
+https://www.gnu.org/philosophy/free-sw.html[free software] in 1997.
+
+=== Android
+
+The _Freedoom_ project does not officially support any engines nor
+forks, though we would like to note for convenience that there is a
+packaged version with GZDoom available for Android devices.  It is
+available either on the
+https://play.google.com/store/apps/details?id=net.nullsum.freedoom[Google
+Play Store], or as an installable
+https://github.com/mkrupczak3/Freedoom-for-Android/releases/latest[APK].
+
+== Development snapshots
+
+Freedoom is a project with constant, active development. If you would
+like to check out the current progress of the project, you may want to
+see an automated http://freedoom.soulsphere.org/[build of the latest
+version in Git].
+
+== Previous releases
+
+Freedoom is an old project with many past releases, you may find some
+of them on the https://github.com/freedoom/freedoom/releases[GitHub
+release page]. Unfortunately, many old releases have been officially
+pulled due to copyright violations discovered in the source tree, so
+we can only provide as back as far as 0.6.4.
