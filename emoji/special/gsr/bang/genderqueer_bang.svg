@@ -1,11 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
 <metadata>
-<rdf:RDF xmlns:cc="http://web.resource.org/cc/"
-         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-         xmlns:dc = "http://purl.org/dc/elements/1.1/"
-         >
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 
      <rdf:Description rdf:about="">
        <dc:title>Mutant Standard S3</dc:title>
@@ -20,18 +17,18 @@
 </rdf:RDF>
 </metadata>
 
-    <rect id="genderqueer_bang" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <rect id="genderqueer_bang" width="32" height="32" fill="none"/>
     <clipPath id="_clip1">
-        <rect x="0" y="0" width="32" height="32"/>
+        <rect width="32" height="32"/>
     </clipPath>
     <g clip-path="url(#_clip1)">
         <g id="outline">
-            <path d="M16,2l3.182,5l7.818,-4l-3,7l6,1l-5,5l5,5l-6,1l3,7l-7.818,-4l-3.182,5l-3.182,-5l-7.818,4l3,-7l-6,-1l5,-5l-5,-5l6,-1l-3,-7l7.818,4l3.182,-5Z" style="fill:none;stroke:#000;stroke-width:4px;"/>
+            <path d="m16 2 3.182 5 7.818-4-3 7 6 1-5 5 5 5-6 1 3 7-7.818-4-3.182 5-3.182-5-7.818 4 3-7-6-1 5-5-5-5 6-1-3-7 7.818 4 3.182-5z" fill="none" stroke="#000" stroke-width="4px"/>
         </g>
         <g id="emoji">
-            <path d="M16,2l3.182,5l7.818,-4l-3,7l6,1l-5,5l5,5l-6,1l3,7l-7.818,-4l-3.182,5l-3.182,-5l-7.818,4l3,-7l-6,-1l5,-5l-5,-5l6,-1l-3,-7l7.818,4l3.182,-5Z" style="fill:#b562d8;"/>
-            <path d="M16,5l2,5l5,-3l-2,5l6,0l-5,4l5,4l-6,0l2,5l-5,-3l-2,5l-2,-5l-5,3l2,-5l-6,0l5,-4l-5,-4l6,0l-2,-5l5,3l2,-5Z" style="fill:#578d3a;"/>
-            <path d="M16,10l1,2.5l3,-1.5l-1,2.5l3.5,0l-2.5,2.5l2.5,2.5l-3.5,0l1,2.5l-3,-1.5l-1,2.5l-1,-2.5l-3,1.5l1,-2.5l-3.5,0l2.5,-2.5l-2.5,-2.5l3.5,0l-1,-2.5l3,1.5l1,-2.5Z" style="fill:#fff;"/>
+            <path d="m16 2 3.182 5 7.818-4-3 7 6 1-5 5 5 5-6 1 3 7-7.818-4-3.182 5-3.182-5-7.818 4 3-7-6-1 5-5-5-5 6-1-3-7 7.818 4 3.182-5z" fill="#b562d8"/>
+            <path d="m16 5 2 5 5-3-2 5h6l-5 4 5 4h-6l2 5-5-3-2 5-2-5-5 3 2-5h-6l5-4-5-4h6l-2-5 5 3 2-5z" fill="#578d3a"/>
+            <path d="m16 10 1 2.5 3-1.5-1 2.5h3.5l-2.5 2.5 2.5 2.5h-3.5l1 2.5-3-1.5-1 2.5-1-2.5-3 1.5 1-2.5h-3.5l2.5-2.5-2.5-2.5h3.5l-1-2.5 3 1.5 1-2.5z" fill="#fff"/>
         </g>
     </g>
 </svg>

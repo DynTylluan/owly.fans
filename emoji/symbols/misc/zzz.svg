@@ -1,1 +1,15 @@
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><clipPath id="a"><path clip-rule="evenodd" d="m0 0h32v32h-32z"/></clipPath><metadata/><path d="m0 0h32v32h-32z" fill="none"/><g clip-path="url(#a)"><path d="m32 14h-10l-1 1v8h-8l-1 1v8h-12v-12h6l2-2v-8h8l2-2v-8h14z"/><g fill="#1BB0E6"><path d="m20 5v-3h10v2.121l-4.879 4.879h4.879v3h-10v-2.121l4.879-4.879z"/><path d="m19 12v2.121l-3.879 3.879h3.879v3h-9v-2.121l3.879-3.879h-3.879v-3z"/><path d="m2 25v-3h8v2.121l-2.879 2.879h2.879v3h-8v-2.121l2.879-2.879z"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <clipPath id="a">
+  <path d="m0 0h32v32h-32z" clip-rule="evenodd"/>
+ </clipPath>
+ <path d="m0 0h32v32h-32z" fill="none"/>
+ <g clip-path="url(#a)">
+  <path d="m32 14h-10l-1 1v8h-8l-1 1v8h-12v-12h6l2-2v-8h8l2-2v-8h14z"/>
+  <g fill="#1BB0E6">
+   <path d="m20 5v-3h10v2.121l-4.879 4.879h4.879v3h-10v-2.121l4.879-4.879z"/>
+   <path d="m19 12v2.121l-3.879 3.879h3.879v3h-9v-2.121l3.879-3.879h-3.879v-3z"/>
+   <path d="m2 25v-3h8v2.121l-2.879 2.879h2.879v3h-8v-2.121l2.879-2.879z"/>
+  </g>
+ </g>
+</svg>
