@@ -394,11 +394,11 @@ The cat hisses" width="307" height="360"></center>
 		<p>There are, of course, other ways to write dates so as to not confuse people. 10/Dec/1993 is quick to understand, for example.</p>
   <hr>
 	    
-	    <a href="text-art"><h2>Displaying text art</h2></a><a name="text-art"></a>
+	    <a href="#text-art"><h2>Displaying text art</h2></a><a name="text-art"></a>
 
-	<p>Text art is notoriously cumbersome for those who use screen-readers. This is because, as text art is mostly based around symbols and letters organized in a way to create an image rather than, well, text.</p>
+	<p>Text art is notoriously cumbersome for those who use screen-readers. This is because, as text art is mostly based around symbols and letters organized in a way to create an image rather than, well, <em>text.</em></p>
 
-<p>When publishing text art online, people usually use the <tt><font color="#81FF7F">&#x3C;pre&#x3E;</font></tt> tag. By adding a simple <tt><font color="#81FF7F">&#x3C;aria-hidden="true"&#x3E;</font></tt> to a tag such as <tt><font color="#81FF7F">&#x3C;pre&#x3E;</font></tt> or <tt><font color="#81FF7F">&#x3C;span&#x3E;</font></tt> (example below), the content it contains will not be read by screen-readers (as described in <a href="http://www.w3.org/TR/wai-aria/states_and_properties#aria-hidden">WAI-ARIA 1.0</a>).</p>
+<p>When publishing text art online, people usually use the <tt><font color="#81FF7F">&#x3C;pre&#x3E;</font></tt> tag. All test in this element are displayed in a fixed-width font and the text will preserve both spaces and line breaks - it will show up the same way that it is written in the source code.	By adding a simple <tt><font color="#81FF7F">&#x3C;aria-hidden="true"&#x3E;</font></tt> to a tag such as <tt><font color="#81FF7F">&#x3C;pre&#x3E;</font></tt> or <tt><font color="#81FF7F">&#x3C;span&#x3E;</font></tt> (example below), the content it contains will not be read by screen-readers (as described in <a href="http://www.w3.org/TR/wai-aria/states_and_properties#aria-hidden">WAI-ARIA 1.0</a>).</p>
 
 	    <p><blockquote><pre><font color="#81FF7F"><span aria-hidden="true">      &#x22;AAARRrrrggghhh! Back Evil! You can&#x27;t stop my quest
             for The Holly Ascii..IVANOHHHEEEEE&#x22;
@@ -421,6 +421,10 @@ The cat hisses" width="307" height="360"></center>
           /:::::::::|        __) \  \\___(_   __/.__,&#x27;
                           ,((,-,__\  &#x27;&#x27;, __\_/. __,&#x27;
                                        &#x27;&#x27;./_._._-&#x27;</span></font></pre></blockquote></p>
+
+<p>In the code, it will look something like this:</p>
+
+       <blockquote><font color="#81FF7F"><pre>&#x3C;pre aria-hidden=&#x22;true&#x22;&#x3E;ASCII art goes here&#x3C;/pre&#x3E;</pre></font></blockquote>
 
 	<p>Of course, it will be still necessary to describe the art if it relevant to the topic at hand. A possible solution to this issue is describing the «image» afterwards with regular text tags. If the text art is meant to be purely decorative, you can probably skip this step though.</p>
 	    
@@ -447,7 +451,7 @@ var year = today.getFullYear()
 document.write(year)
 </script> by Cass &#xAB;Owly&#xBB; Python and Bruno &#xAB;devils&#xBB; A. of <a href="https://yourdevilfriends.art">yourdevilfriends.art</a>. Please see <a href="../humans.html">humans.html</a> for full credit and thanks. Peace and love.</p>
 <p>The song used for <a href="#transcripts">Transcripts and Subtitles</a> is &#xAB;Gonna Dig Up Alec Guinness&#xBB; by Lemon Demon from the album &#xAB;Damn Skippy&#xBB; (2005). I, Cass, am doubtful that the use of this song would fall under fair use in the USA or fair dealing in the UK, but according to the <a href="http://www.lemondemon.com/Lemon%20Demon%20-%20First%20four%20albums/ReadMe.txt"><tt>ReadMe.txt</tt></a> from the official website, &#xAB;feel free to use any of this music in any video/animation projects for school or for fun&#xBB;.</p>
-<p>The ASCII art used on this page was made by Joris &#xAB;b'ger&#xBB; Bellenger <a href="https://svzanten.home.xs4all.nl/ascii">from their website</a>. A <a href="https://svzanten.home.xs4all.nl/ascii/copyright.html">copyright notice page exists</a> on the site that reads:</p>
+<p><a href="#text-art">The ASCII art used on this page</a> was made by Joris &#xAB;b'ger&#xBB; Bellenger <a href="https://svzanten.home.xs4all.nl/ascii">from their website</a>. A <a href="https://svzanten.home.xs4all.nl/ascii/copyright.html">copyright notice page exists</a> on the site that reads:</p>
 	
 <p><blockquote><tt>You may freely copy and distribute the ascii art found on this site provided that use of such ascii art is for non-commercial or personal use only. Use for any other purpose is expressly prohibited without the author's written permission.</tt></p>
 
