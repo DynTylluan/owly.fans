@@ -45,11 +45,11 @@ a:hover { text-decoration: underline; }
 a:active { text-decoration: underline; } */
 
 /* What font to use */
-h1, h2, h3, a, th, blockquote {
+h1, h2, h3, a, li, th, br, ubuntu, p, blockquote {
 	font-family: Ubuntu, "Noto Sans", "Liberation Sans", Helvetica, Arial, sans-serif;
 }
 
-pre, tt, xmp {
+pre, tt, xmp, ubuntu-mono {
 font-family: monospace, "Ubuntu Monospace", Courier;
 }
 

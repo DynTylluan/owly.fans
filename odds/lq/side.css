@@ -1,0 +1,83 @@
+/* Such a big THANK YOU to devils of yourdevilfriends.art for showing me how this should be done! */
+
+/* LIGHT MODE */
+:root {
+    --color: #0f0f0f;
+    --link-color: #3b0000;
+    --bg-image: url(media/mural1.png);
+    --bg-color: hsl(204, 44%, 65%);
+}
+/* unvisited link */
+a:link {
+    color: #975777;
+}
+
+/* visited link */
+a:visited {
+    color: #13131f;
+}
+
+/* mouse over link */
+a:hover {
+    color: #1313df;
+}
+
+/* selected link */
+a:active {
+    color: #37374b;
+}
+
+/* DARK MODE */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --color: #7373a3;
+        --link-color: #bb739f;
+        --bg-image: url(media/tek_grate.png);
+        --bg-color: hsl(30, 36%, 4%);
+    }
+/* unvisited link */
+a:link {
+	color: #bb739f;
+}
+
+/* visited link */
+a:visited {
+	color: #4f4f73;
+}
+
+/* mouse over link */
+a:hover {
+	color: #7fbfff;
+}
+
+/* selected link */
+a:active {
+	color: #7f5b6f;
+}
+}
+
+body {
+    max-width: 800px ;
+    margin: auto ;
+    color: var(--color);
+    background-image: var(--bg-image);
+    background-color: var(--bg-color);
+}
+
+/* unvisited link */
+a:link {
+    color: var(--link-color);
+}
+
+/* The following was written by yourdevilfriends.art - thank you */
+uppercase,yell {
+	text-transform: uppercase;
+}
+
+#header #forkme {
+  position: absolute;
+  margin: 0;
+  top: 0;
+  right: 0;
+  border: 0;
+}
