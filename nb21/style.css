@@ -44,7 +44,7 @@ a:hover { text-decoration: underline; }
 a:active { text-decoration: underline; } */
 
 /* What font to use */
-h1, h2, h3, a, th {
+h1, h2, h3, a, th, li, li {
 	font-family: Ubuntu, "Noto Sans", "Liberation Sans", Helvetica, Arial, sans-serif;
 }
 
