@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+    <rect id="pink_triangle" width="32" height="32" fill="none"/>
+    <g id="emoji">
+        <path d="m16 29 13.981-23 0.019-2h-28l0.019 2 13.981 23z" fill="none" stroke="#000" stroke-width="4px"/>
+        <path d="m16 29 13.981-23v-2l-1.981 1h-24l-2-1 0.019 2 13.981 23z" fill="#c52eae"/>
+        <path d="m16 27 13.981-23h-27.962l13.981 23z" fill="#e764d3"/>
+    </g>
+</svg>

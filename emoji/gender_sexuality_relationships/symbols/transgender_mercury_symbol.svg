@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+    <rect id="transgender_mercury_symbol" width="32" height="32" fill="none"/>
+    <clipPath id="_clip1">
+        <rect width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="outline">
+            <path d="m20 27.5h-2.5v2.5h-3v-2.5h-2.5v-5h1.399c-2.577-1.033-4.399-3.556-4.399-6.5v-2c0-1.713 0.617-3.283 1.64-4.5-1.023-1.217-1.64-2.787-1.64-4.5v-2h3c0 2.208 1.792 4 4 4s4-1.792 4-4h3v2 0.026c-6e-3 1.703-0.622 3.263-1.64 4.474 1.023 1.217 1.64 2.787 1.64 4.5v2c0 2.944-1.822 5.467-4.399 6.5h1.399v5zm-0.126-12.5c-0.445-1.724-2.012-3-3.874-3s-3.429 1.276-3.874 3c0.445 1.724 2.012 3 3.874 3s3.429-1.276 3.874-3z" fill="none" stroke="#000" stroke-width="4px"/>
+            <rect x="11" y="11" width="10" height="8"/>
+        </g>
+        <g id="emoji">
+            <path d="m11.672 10.5c-1.627-1.282-2.672-3.27-2.672-5.5h3c0 2.208 1.792 4 4 4s4-1.792 4-4h3c0 2.23-1.045 4.218-2.672 5.5 1.627 1.282 2.672 3.27 2.672 5.5 0 3.349-2.356 6.151-5.5 6.839v1.661l2.5 1v2h-3.5l1 0.5v2h-3v-2l1-0.5h-3.5v-2l2.5-1v-1.661c-3.144-0.688-5.5-3.49-5.5-6.839 0-2.23 1.045-4.218 2.672-5.5zm4.328 1.5c2.208 0 4 1.792 4 4s-1.792 4-4 4-4-1.792-4-4 1.792-4 4-4z" fill="#747474"/>
+            <path d="m9 5v-2l3 2h-3z" fill="#747474"/>
+            <path d="m23 5v-2l-3 2h3z" fill="#747474"/>
+            <rect x="9" y="14" width="2" height="2" fill="#747474"/>
+            <rect x="21" y="14" width="2" height="2" fill="#747474"/>
+            <circle cx="16" cy="14" r="5.5" fill="none" stroke="#fff" stroke-width="3px"/>
+            <rect x="8" y="3" width="17" height="7" fill="none"/>
+            <clipPath id="_clip2">
+                <rect x="8" y="3" width="17" height="7"/>
+            </clipPath>
+            <g clip-path="url(#_clip2)">
+                <circle cx="16" cy="3" r="5.5" fill="none" stroke="#fff" stroke-width="3px"/>
+            </g>
+            <path d="m16 18.911v9.089" fill="none" stroke="#fff" stroke-linecap="butt" stroke-width="3px"/>
+            <path d="m20 24h-8" fill="none" stroke="#fff" stroke-linecap="butt" stroke-width="3px"/>
+        </g>
+    </g>
+</svg>

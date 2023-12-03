@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+    <rect id="male_female_symbol" width="32" height="32" fill="none"/>
+    <clipPath id="_clip1">
+        <rect width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="outline">
+            <rect x="9" y="9" width="10" height="8"/>
+            <path d="m7 13c0-3.863 3.137-7 7-7 1.275 0 2.47 0.341 3.5 0.938v-4.938h8.5v10.5h-3v-3.379l-2.202 2.203c0.132 0.537 0.202 1.098 0.202 1.676v2c0 2.945-1.822 5.467-4.399 6.5h2.399v5h-3.5v3.5h-3v-3.5h-3.5v-5h2.399c-2.577-1.033-4.399-3.555-4.399-6.5v-2zm10.874 1c-0.445-1.724-2.012-3-3.874-3s-3.429 1.276-3.874 3c0.445 1.724 2.012 3 3.874 3s3.429-1.276 3.874-3zm1.005-7h-1.274c0.262 0.158 0.513 0.332 0.751 0.522l0.523-0.522z" fill="none" stroke="#000" stroke-width="4px"/>
+        </g>
+        <g id="emoji">
+            <path d="m15.5 30h-3v-2l1-1.5h-4.5v-3h3.5v-1.661c-3.144-0.688-5.5-3.49-5.5-6.839 0-3.863 3.137-7 7-7 1.646 0 3.161 0.57 4.356 1.522l2.523-2.522h-3.379v-2l1-1h6.5l1 6.5v2h-3v-2l1-2.379-3.742 3.742c0.182 0.362 0.334 0.742 0.452 1.137h0.29v2c0 3.349-2.356 6.151-5.5 6.839v1.661h3.5v3h-4.5l1 1.5v2zm-1.5-19c2.208 0 4 1.792 4 4s-1.792 4-4 4-4-1.792-4-4 1.792-4 4-4z" fill="#747474"/>
+            <rect x="7" y="13" width="3" height="2" fill="#747474"/>
+            <circle cx="14" cy="13" r="5.5" fill="none" stroke="#fff" stroke-width="3px"/>
+            <path d="m23.5 4.5-5 5" fill="none" stroke="#fff" stroke-linecap="butt" stroke-width="3px"/>
+            <path d="m26 10.5h-3v-5.5h-5.5v-3h8.5v8.5z" fill="#fff"/>
+            <path d="m14 17.911v10.089" fill="none" stroke="#fff" stroke-linecap="butt" stroke-width="3px"/>
+            <path d="m19 23h-10" fill="none" stroke="#fff" stroke-linecap="butt" stroke-width="3px"/>
+        </g>
+    </g>
+</svg>
