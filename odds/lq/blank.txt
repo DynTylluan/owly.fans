@@ -3,15 +3,22 @@
 <body>
 	<title>.:| TITLE on LibreQuake |:.</title>
 	<meta charset="utf-8">
+	<meta content="LibreQuake" property="og:title" />
+	<meta content="Free and open-source Quake" property="og:description" />
+		<meta property="og:image" content="https://librequake.queer.sh/media/embed.png">
+	<meta content="#43B581" data-react-helmet="true" name="theme-color" />
+    <meta name="keywords" content="LibreQuake, quake, fps, open-source, open source, free, vanilla, 1990s, 90s, 1996">
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 	<link rel="stylesheet" href="style.css">
 	<script src="script.js"></script>
-	<div id="header"><a href="https://github.com/MissLavender-LQ/LibreQuake"><img id="forkme" src="media/forkme.png" alt="Fork me on GitHub" /></a></div>
+	<div id="header"><a href="https://github.com/MissLavender-LQ/LibreQuake" target="_parent"><img id="forkme" src="media/forkme.png" alt="Banner that says 'Fork me on GitHub'." title="Banner that says 'Fork me on GitHub'."/></a></div>
 	
 		<p><center><img src="media/logo.png" alt="The banner for the website that says &#x22;LibreQuake&#x22; on behind a metal background." title="The banner for the website that says &#x22;LibreQuake&#x22; on behind a metal background."></center></p>
 
 	<hr>
 		<p>Contents of the page go here.</p>
+		
+		<p>Oh look, <a href="XXX.html" target="_parent">I'm a link</a>!</p>
 
 		<hr>
 	
@@ -19,7 +26,9 @@
 var today = new Date()
 var year = today.getFullYear()
 document.write(year)
-	</script>, licensed under <a href="copying.html">an open license</a>.</p>
+	</script>, licensed under <a href="copying.html" target="_parent">an open license</a>.</p>
+<p><center><img src="media/turtle.png" alt="A tiny little turtle!" title="A tiny little turtle!" onclick="playAudio('media/squeak.mp3')">
+<audio src="media/squeak.mp3" id="audioElement"></audio></center></p>
 <p></p>
     </body>
 </html>
