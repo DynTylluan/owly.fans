@@ -1,6 +1,6 @@
 /* TEAM */
     Owner: Xenia
-    Website: https://owly.fans/~xenia
+    Website: https://owly.fans/xenia/site
     From: Cymru, DU
 
 /* THANKS */
