@@ -8,14 +8,14 @@
 # https://notabug.org/DynTylluan/owly.fans/src/main/robots.txt (mirror)
 # https://tildegit.org/cass/owly.fans/src/branch/main/robots.txt (mirror)
 
-# GPTBot is OpenAI's web crawler.
+# GPTBot is OpenAI's web crawler
 # I do not want it to use my content as it does not cite its sources.
 # https://platform.openai.com/docs/gptbot
 User-agent: GPTBot
 User-agent: ChatGPT-User
 Disallow: /
 
-# Common Crawl bot.
+# Common Crawl bot
 # From what I've leant from reading online, «[t]he majority of ChatGPT's
 # training data comes from the Common Crawl crawler bot».
 # Quote: https://datadome.co/threat-research/how-chatgpt-openai-might-use-your-content-now-in-the-future
@@ -23,19 +23,27 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-# Google's AI training bot.
+# Google's AI training bot
 # I also don't want to have my content used without giving me credit.
 # https://blog.google/technology/ai/an-update-on-web-publisher-controls
 User-agent: Google-Extended
 Disallow: /
 
+# Google's AdSense bots
+# https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers
+User-agent: Mediapartners-Google
+User-agent: AdsBot-Google-Mobile
+User-agent: AdsBot-Google
+User-agent: Storebot-Google
+Disallow: /
+
 # Amazon
-# Used for Alexa - does not cite sources.
+# Used for Alexa - does not cite sources at times.
 # https://developer.amazon.com/support/amazonbot
 User-Agent: Amazonbot
 Disallow: /
 
-# Apple's bot.
+# Apple's bot
 # Used for Siri and Spotlight Suggestions. Does not cite its sources.
 # https://support.apple.com/en-us/HT204683
 User-Agent: Applebot
@@ -46,6 +54,12 @@ Disallow: /
 # This bot is cool - go wild, queen
 User-Agent: digikitty_x86
 Allow: /
+
+# Microsoft/Bing bot
+# This bot is being used for Bing Ads.
+# https://bing.com/webmasters/help/which-crawlers-does-bing-use-8c184ec0
+User-agent: AdIdxBot
+Disallow: /
 
 # This is where I copy Bytemoth
 # I am taking it in good faith that Bytemoth knows what he's doing and that
