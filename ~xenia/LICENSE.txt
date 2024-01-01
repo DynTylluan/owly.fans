@@ -1,0 +1,70 @@
+FOPL-MDP
+                                 {O,O}   {O,O}
+                                 /)_)    (__(\
+                                  ""      " "
+                        THE FREEDOM OWL PUBLIC LICENSE.
+                           https://owly.fans/license
+
+------------------------------------------------------------------------------
+
+> INTRO
+  The Freedom Owl Public License is not a part of, nor are we, a law firm - it
+  does not provide legal services. Distribution of this document does not
+  create an attorney-client relationship. The Freedom Owl Public License
+  provides this information on an "as-is" basis.
+
+  WE AT THE FREEDOM OWL PUBLIC LICENSE TAKE NO WARRANTIES REGARDING THE USE OF
+  THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED HEREUNDER AND DISCLAIM
+  LIABILITY FOR DAMAGES RESULTING FROM THE USE OF THIS DOCUMENT OR THE
+  INFORMATION OR WORKS PROVIDED HEREUNDER.
+
+  In other words: We're not lawyers.
+
+> THE LICENSE ITSELF
+The use of this license in this git, website, artwork, audio, video, or any
+other project by the rightful owner(s) hereby consent that you, the
+reader, may use this project, meaning that you are free to:
+
+> MAKE MODIFICATIONS
+You may make as many, or as few, edits as you wish to this project at no cost
+using any type of software or physical elements as you desire.
+
+> MAKE DISTRIBUTION
+You are free to share this project with friends, your fellow peers, or total
+strangers via any means you desire (CD, mail (including electronic mail),
+print, etc.) without any restrictions from the original creator(s). You are
+also free to mirror this project at no charge from the owner on the Internet,
+this includes, but is in no way limited to, services that use the Internet
+such as the World Wide Web, Gopher, Telnet, etc.
+
+> USE THE PROJECT FOR PRIVATE USE
+You may own a copy of this project for personal use, such as downloading it
+onto your personal computer if, say, the project is software, an image,
+a song, etc. If the work is something that is physical (a statue,
+a traditional painting, etc) then you are free to take a photo, video, etc of
+it at the cost of only your time and the physical limitations of your
+surroundings.
+
+You are allowed to do this to the media as long as you:
+
+> EXCEPT NO WARRANTY
+This software, image, audio, etc comes as-is and the owner is not required to
+aid you in assessing you with it, meaning, for example, if the project that
+you use is some software, the creator(s) do not have to help you with
+installing it, troubleshooting, or anything else that may cause you to need
+assistance. In other words, you are on your own.
+
+> NO COMMERCIAL USE
+You may not use this project to make money off it. Do not sell this project
+for money or any goods and/or services, even if you have made modifications
+to it.
+
+> CREDIT THE CREATOR(S)
+You must give credit to whoever made the original project to your best
+ability, this could include linking to the owner's website and/or their name.
+
+> USE THE SAME LICENSE
+If you make changes to this project, you must use the same license.
+
+The use of this license cannot be undone or changed unless a more liberal
+version of a license is picked.

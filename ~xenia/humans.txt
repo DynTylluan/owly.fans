@@ -1,0 +1,20 @@
+/* TEAM */
+    Owner: Xenia
+    Website: http://dorms.thedigitallancabin.net/~xenia
+    Contact: xenia@transistorcafe.net
+    From: Cymru, DU
+
+/* THANKS */
+    Name: Kitty
+    Website: http://dorms.thedigitallancabin.net/~digikitty_x86
+    Masto: @digikitty_x86@inflatable.computer
+
+    Name: Cass "Owly" Python
+    From: England-Cymru, UK
+    Website: https://owly.fans
+    Masto: @Owly@digipres.club
+    Twitter: @CassTheOwl
+
+    Name: nickisdoge
+    Masto: @nickisdoge@meow.social 
+    Twitter: @nickisdoge
