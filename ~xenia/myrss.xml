@@ -1,19 +1,19 @@
 <rss version="2.0">
     <channel>
     <title>Xenia on The World Wide Web</title>
-    <link>http://dorms.thedigitallancabin.net/~xenia</link>
+    <link>https://owly.fans/~xenia</link>
     <description>Follow Xenia's own website's RSS!</description>
     <language>en-us</language>
     <image>
     <url>
-        http://dorms.thedigitallancabin.net/~xenia/art/puapka_xenia.png
+        https://owly.fans/~xenia/art/puapka_xenia.png
     </url>
     </image>
 
 <item>
         <title>2023-10-27: New Website Look</title>
         <pubDate>27 Oct 2023</pubDate>
-        <description>http://dorms.thedigitallancabin.net/~xenia/newwebsitelook.html
+        <description>https://owly.fans/~xenia/newwebsitelook.html
 			<p>New website theme that looks super ace!</p>
 			</description> 
 </item>
@@ -21,7 +21,7 @@
 <item>
         <title>2023-10-26: The Chicken and The Fox</title>
         <pubDate>26 Oct 2023</pubDate>
-        <description>http://dorms.thedigitallancabin.net/~xenia/lifeonafarm.html
+        <description>https://owly.fans/~xenia/lifeonafarm.html
 			<p>Me talking about what it's like to live on... well, you can read it</p>
 			</description> 
 </item>
@@ -29,7 +29,7 @@
 <item>
         <title>2023-10-15: The Chicken and The Fox</title>
         <pubDate>15 Oct 2023</pubDate>
-        <description>http://dorms.thedigitallancabin.net/~xenia/chicken.html
+        <description>https://owly.fans/~xenia/chicken.html
 			<p>Poor little chicken</p>
 			</description> 
 </item>
@@ -37,7 +37,7 @@
 <item>
         <title>2023-09-16: Eternal September</title>
         <pubDate>16 Sep 2023</pubDate>
-        <description>http://dorms.thedigitallancabin.net/~xenia/eternalseptember.html
+        <description>https://owly.fans/~xenia/eternalseptember.html
 			<p>My thoughts on how the WWW is too full of people who are stupid.</p>
 			</description> 
 </item>
@@ -45,7 +45,7 @@
 <item>
         <title>2023-09-11: Why Windows SUCKS</title>
         <pubDate>11 Sep 2023</pubDate>
-        <description>http://dorms.thedigitallancabin.net/~xenia/winblows.html
+        <description>https://owly.fans/~xenia/winblows.html
 			<p>Windows and Microsft have been taking us on a joyride for too long. They suck.</p>
 			</description> 
 </item>
