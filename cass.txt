@@ -3,7 +3,7 @@
     #     pacman -Sy
     #     curl <url of raw text> | bash
 
-# !! REMEMBER TO ALWAYS REVIEW SCRIPTS BEFORE YOU RUN THEM !! #
+# !! REMEMBER TO ALWAYS REVIEW SCRIPTS BEFORE YOU RUN THEM !!
 # Or not... I'm not your mom...
 
 # Before running this script, you should make sure the following has been done:
@@ -46,14 +46,17 @@ echo "Done mwounting fiwesystems. ;)"
 
 # Installs a base system with some useful packages
 pacstrap /mnt --noconfirm \
-  adobe-source-han-sans-jp-fonts amd-ucode base base-devel discord etworkmanager /
-  file-roller firefox flatpak gdm git gnome-contacts gnome-software gogh gvfs /
-  gvfs-mtp kernel-modules-hook linux linux-firmware linux-headers nano /
-  nextcloud-client nm-connection-editor notepadqq noto-fonts-cjk ntfs-3g /
-  pacman-contrib pamac-aur papirus-icon-theme-git pavucontrol phinger-cursors pinta /
-  pipewire pipewire-alsa pipewire-jack pipewire-pulse polkit-gnome qpwgraph /
-  ttf-ubuntu-font-family unrar unzip vlc wayland xdg-desktop-portal-gtk xfce4
-  xfce4-goodies xorg-server youtube-dl zip jre8-openjdk
+  adobe-source-han-sans-jp-fonts amd-ucode ark base base-devel discord \
+  etworkmanager file-roller firefox flatpak galculator gallery-dl gdm git \
+  gnome-contacts gnome-software gogh gvfs gvfs-mtp hexchat httrack \
+  jre8-openjdk kernel-modules-hook linux linux-firmware linux-headers nano \
+  nextcloud-client nm-connection-editor notepadqq noto-fonts-cjk ntfs-3g \
+  pacman-contrib pamac-aur papirus-icon-theme-git pavucontrol \
+  phinger-cursors pinta pipewire pipewire-alsa pipewire-jack \
+  pipewire-pulse polkit-gnome qpwgraph ttf-ubuntu-font-family unrar unzip \
+  vlc wayland xdg-desktop-portal-gtk xfce4 xfce4-goodies xorg-server \
+  youtube-dl zip
+
 
 genstab -L /mnt > /mnt/etc/fstab
 
