@@ -39,16 +39,12 @@ tr:nth-child(even) {
 }
 
 /* What font to use */
-h1, h2, h3, a, th {
+h1, h2, h3, a, th, p, td, ubuntu {
 	font-family: Ubuntu, "Noto Sans", "Liberation Sans", Helvetica, Arial, sans-serif;
 }
 
-pre, tt, xmp {
+pre, tt, xmp, ubuntu-mono {
 font-family: monospace, "Ubuntu Monospace", Courier;
-}
-
-p {
-	font-family: Ubuntu, "Noto Sans", "Liberation Sans", Helvetica, Arial, sans-serif;
 }
 
 a {
