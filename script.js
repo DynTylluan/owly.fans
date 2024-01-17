@@ -1,5 +1,5 @@
 // Thank you to vantablack of vantaa.black for letting me use their code
-// Please see /humans.txt for more credits
+// Please see /humans.html for more credits
 
 var pick=~~(Math.random()*359),
     tag=document.createElement('style'),

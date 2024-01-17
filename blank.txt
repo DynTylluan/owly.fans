@@ -1,23 +1,24 @@
 <!DOCTYPE html>
-<html lang="en">
-<meta charset=UTF-8>
+<html lang="en-us">
     <head>
-    <title>XXX | The Princess of The Night</title>
+	<title>XXX | The Princess of The Night</title>
 	<meta charset="utf-8">
-    <meta itemprop="name"           content="OWLY.FANS">
-    <meta property="og:title"       content="OWLY.FANS">
-    <meta itemprop="description"    content="OWLY.FANS">
-    <meta name="description"        content="OWLY.FANS">
-    <meta property="og:description" content="OWLY.FANS">
-    <meta name="keywords"           content="owly, cass python, neocities, neozones, brit, uk, archive, site ran by a stud, england, wales">
-    <meta property="og:site_name"   content="XXX | OWLY.FANS">
-    <meta property="og:type"        content="website">
-    <meta property="og:image"       content="https://owly.fans/floppy.png">
-    <meta property="og:url"         content="https://owly.fans">
-    <meta name="referrer"           content="no-referrer-when-downgrade">
-	<a class="account-link" rel="me" href="https://digipres.club/@Owly"></a><a class="account-link" rel="me" href="https://comms.thedigitallancabin.net/cass"></a><link rel="me" href="https://github.com/DynTylluan"><link rel="me" href="https://github.com/NeoZones"><link rel="me" href="mailto:owlgal69@protonmail.com"><link rel="me" href="https://owly.fans"><link rel="me" href="https://owlyfans.neocities.org">
-	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="stylesheet" href="style.css">
+	<meta content="OWLY.FANS" property="og:title" />
+	<meta content="TITLE" property="og:description" />
+	<meta property="og:image" content="https://owly.fans/floppy.png">
+	<meta property="og:url" content="https://owly.fans">
+	<meta content="#9B4F96" data-react-helmet="true" name="theme-color" />
+	<meta name="keywords" content="owly, cass python, neocities, neozones, brit, uk, archive, site ran by a stud, england, wales">
+	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+	<link rel="stylesheet" href="/style.css">
+	<meta name="referrer" content="no-referrer-when-downgrade">
+	<a class="account-link" rel="me" href="https://digipres.club/@Owly"></a>
+	<a class="account-link" rel="me" href="https://comms.thedigitallancabin.net/cass"></a>
+	<link rel="me" href="https://github.com/DynTylluan">
+	<link rel="me" href="https://github.com/NeoZones">
+	<link rel="me" href="mailto:owlgal69@protonmail.com">
+	<link rel="me" href="https://owly.fans">
+	<link rel="me" href="https://owlyfans.neocities.org">
     </head>
     <body>
 <h1>XXX</h1>
@@ -26,19 +27,18 @@
 <p></p>
 <hr>
 <p>
-<p><strong>Want to support OwlyFans? <a href="/nft/">See our NFTs</a>!</strong></p> <p>Copyright 2021 - <script type="text/javascript">
+<p><strong>Want to support OwlyFans? <a href="../nft/">See our NFTs</a>!</strong></p> <p>Copyright 2021 - <script type="text/javascript">
 var today = new Date()
 var year = today.getFullYear()
 document.write(year)
-</script> by Cass &#xAB;Owly&#xBB; Python, licensed under the <a href="/license/mdp" title="The Freedom Owl Public License: Modifications, Distributions, and Private Use Version 2" alt="The Freedom Owl Public License: Modifications, Distributions, and Private Use Version 2">FOPL-MDP V.2</a>. Please see <a href="/humans.html">humans.html</a> for full credit and thanks. Peace and love.</p>
+</script> by Cass &#xAB;Owly&#xBB; Python, licensed under the <a href="../license/mdp" title="The Freedom Owl Public License: Modifications, Distributions, and Private Use Version 2" alt="The Freedom Owl Public License: Modifications, Distributions, and Private Use Version 2">FOPL-MDP V.2</a>. Please see <a href="../humans.html">humans.html</a> for full credit and thanks. Peace and love.</p>
 <p><font color="black"><center>&#x2605;</center></font></p>
-<p>
+<p></p>
 <div style="text-align:right">
 <a href="http://bytemoth.nfshost.com/cd5k-net/tau">&tau;</a>
-</p>
 </div>
 <p></p>
-	<script src="/script.js"></script>
-<script src="/ruffle/ruffle.js"></script>
+	<script src="../script.js"></script>
+<script src="../ruffle/ruffle.js"></script>
     </body>
 </html>

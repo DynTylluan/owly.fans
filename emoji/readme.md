@@ -14,7 +14,7 @@ The non-Mutant Standard emojis are:
 
 ### Ferris the Rustacean
 
-As well as making the Mutant Standard Emojies, [Dzuk_ also made a pack of emojies](https://dzuk.zone/emoji) for [Ferris, the unofficial mascot for Rust](https://rustacean.dev).
+As well as making the Mutant Standard Emojies, [Dzuk also made a pack of emojies](https://dzuk.zone/emoji) for [Ferris, the unofficial mascot for Rust](https://rustacean.dev).
 
 The pack is [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0), much like all of the Mutant Standard Emojies.
 

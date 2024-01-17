@@ -55,7 +55,7 @@ pacstrap /mnt --noconfirm \
   phinger-cursors pinta pipewire pipewire-alsa pipewire-jack \
   pipewire-pulse polkit-gnome qpwgraph ttf-ubuntu-font-family unrar unzip \
   vlc wayland xdg-desktop-portal-gtk xfce4 xfce4-goodies xorg-server \
-  youtube-dl zip
+  yt-dlp zip
 
 
 genstab -L /mnt > /mnt/etc/fstab
