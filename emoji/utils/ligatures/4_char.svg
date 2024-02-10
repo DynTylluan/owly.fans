@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.4142" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <clipPath id="a">
-  <path d="m0 0h32v32h-32z" clip-rule="evenodd"/>
- </clipPath>
- <path d="m0 0h32v32h-32z" fill="none"/>
- <g clip-path="url(#a)">
-  <path d="m23.178 30h-4.936v-4.145h-11.794v-6.333l8.327-17.522h5.05v2l-7.411 15.522h5.828v-6.105h4.936v6.105h2.374v6.333h-2.374z" fill="none" stroke="#000" stroke-width="4"/>
-  <path d="m13 14h7v7h-7z"/>
-  <g fill-rule="nonzero">
-   <path d="m25.552 25.855h-3.374l1 2.145v2h-4.936v-2l1-2.145h-12.794v-2l1-2.333 7.327-17.522 5.05-2v2l-8.366 17.522h11.719l2.374 2.333z" fill="#737373"/>
-   <path d="m25.552 23.855h-2.374v4.145h-4.936v-4.145h-11.794v-4.333l8.327-17.522h5.05l-8.366 17.522h6.783v-6.105h4.936v6.105h2.374z" fill="#fff"/>
-  </g>
- </g>
-</svg>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.4142" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+<rect id="_4_char" width="32" height="32" fill="none" serif:id="4_char"/><clipPath id="_clip1"><rect width="32" height="32"/></clipPath><g clip-path="url(#_clip1)"><g id="outline"><path d="m23.178 30h-4.936v-2-2.145h-11.794v-2-4.333l8.327-17.522h5.05v2l-7.411 15.522h5.828v-6.105h4.936v6.105h2.374v6.333h-2.374v4.145z" fill="none" stroke="#000" stroke-width="4px"/><rect x="13" y="14" width="7" height="7"/></g><g id="emoji" fill-rule="nonzero"><path d="m25.552 25.855h-3.374l1 2.145v2h-4.936v-2l1-2.145h-12.794v-2l1-2.333 7.327-17.522 5.05-2v2l-8.366 17.522h11.719l2.374 2.333v2z" fill="#737373"/><path d="m25.552 23.855h-2.374v4.145h-4.936v-4.145h-11.794v-4.333l8.327-17.522h5.05l-8.366 17.522h6.783v-6.105h4.936v6.105h2.374v4.333z" fill="#fff"/></g></g></svg>

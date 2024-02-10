@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.4142" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <clipPath id="a">
-  <path d="m0 0h32v32h-32z" clip-rule="evenodd"/>
- </clipPath>
- <path d="m0 0h32v32h-32z" fill="none"/>
- <g clip-path="url(#a)">
-  <path d="m16.301 30v-20.838l-5.539 3.203v-7.087l5.539-3.278h4.937v28z" fill="none" stroke="#000" stroke-width="4"/>
-  <g fill-rule="nonzero">
-   <path d="m16.301 9.162-5.539 3.203v-2l2-3.087 3.539-3.278h4.937v26h-4.937v-2l2.699-17z" fill="#737373"/>
-   <path d="m16.301 7.162-5.539 3.203v-5.087l5.539-3.278h4.937v26h-4.937z" fill="#fff"/>
-  </g>
- </g>
-</svg>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.4142" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+<rect id="_1_char" width="32" height="32" fill="none" serif:id="1_char"/><clipPath id="_clip1"><rect width="32" height="32"/></clipPath><g clip-path="url(#_clip1)"><g id="outline"><path d="m16.301 30v-20.838l-5.539 3.203v-7.087l5.539-3.278h4.937v28h-4.937z" fill="none" stroke="#000" stroke-width="4px"/></g><g id="emoji" fill-rule="nonzero"><path d="m16.301 9.162-5.539 3.203v-2l2-3.087 3.539-3.278h4.937v26h-4.937v-2l2.699-17-2.699-1.838z" fill="#737373"/><path d="m16.301 7.162-5.539 3.203v-5.087l5.539-3.278h4.937v26h-4.937v-20.838z" fill="#fff"/></g></g></svg>

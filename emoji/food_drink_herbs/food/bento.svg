@@ -1,77 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <clipPath id="a">
-  <path d="m3 14h8v6h-8z" clip-rule="evenodd"/>
- </clipPath>
- <clipPath id="b">
-  <path d="m3 6h12v7h-12z" clip-rule="evenodd"/>
- </clipPath>
- <clipPath id="c">
-  <path d="m12 14h8v6h-8z" clip-rule="evenodd"/>
- </clipPath>
- <clipPath id="d">
-  <path d="m16 6h13v7h-13z" clip-rule="evenodd"/>
- </clipPath>
- <clipPath id="e">
-  <path d="m16 13v-4c0-1.105.895-2 2-2h9c1.105 0 2 .895 2 2v4z" clip-rule="evenodd"/>
- </clipPath>
- <clipPath id="f">
-  <path d="m21 15h8v5h-8z" clip-rule="evenodd"/>
- </clipPath>
- <path d="m0 0h32v32h-32z" fill="none"/>
- <path d="m32 5c0-1.105-0.895-2-2-2h-28c-1.105 0-2 0.895-2 2v22c0 1.105 0.895 2 2 2h28c1.105 0 2-0.895 2-2v-22z"/>
- <path d="m2 5h28v17h-28z" fill="#aa9c84"/>
- <path d="m2 21h28v6h-28z" fill="#655b50"/>
- <path d="m3 14h8v6h-8z" fill="#655b50"/>
- <g clip-path="url(#a)">
-  <path d="m11 17c0-0.552-0.448-1-1-1h-6c-0.552 0-1 0.448-1 1v3h8z" fill="#7e1a11"/>
-  <circle cx="9" cy="16" r="2" fill="#7e1a11"/>
-  <circle cx="6" cy="17" r="2" fill="#b92619"/>
-  <circle cx="5" cy="19" r="2" fill="#7e1a11"/>
-  <circle cx="9" cy="19" r="2" fill="#b92619"/>
- </g>
- <path d="m3 6h12v7h-12z" fill="#655b50"/>
- <g clip-path="url(#b)">
-  <path d="m15 8c0-.265-.105-.52-.293-.707-.187-.188-.442-.293-.707-.293-2.26 0-7.74 0-10 0-.265 0-.52.105-.707.293-.188.187-.293.442-.293.707v5h12z" fill="#ae723e"/>
-  <g fill="#724b28">
-   <path d="m5 7h1v6h-1z"/>
-   <path d="m8 7h1v6h-1z"/>
-   <path d="m11 7h1v6h-1z"/>
-  </g>
- </g>
- <path d="m12 14h8v6h-8z" fill="#655b50"/>
- <g clip-path="url(#c)">
-  <path d="m12 16h8v4h-8z" fill="#5b3414"/>
-  <g fill="#361f0c">
-   <path d="m14 16c0-.265-.105-.52-.293-.707-.187-.188-.442-.293-.707-.293s-.52.105-.707.293c-.188.187-.293.442-.293.707v4h2z"/>
-   <path d="m17 16c0-.265-.105-.52-.293-.707-.187-.188-.442-.293-.707-.293s-.52.105-.707.293c-.188.187-.293.442-.293.707v4h2z"/>
-   <path d="m20 16c0-.265-.105-.52-.293-.707-.187-.188-.442-.293-.707-.293s-.52.105-.707.293c-.188.187-.293.442-.293.707v4h2z"/>
-  </g>
- </g>
- <path d="m16 6h13v7h-13z" fill="#655b50"/>
- <g clip-path="url(#d)">
-  <path d="m16 13v-4c0-1.105.895-2 2-2h9c1.105 0 2 .895 2 2v4z" fill="#fff"/>
-  <g clip-path="url(#e)" fill="none" stroke="#e1e1e1">
-   <path d="m27 9-1 1"/>
-   <path d="m22 10-1 1"/>
-   <path d="m19 13-1 1"/>
-   <path d="m17 11-1 1"/>
-   <path d="m20 7-1 1"/>
-   <path d="m23 8 1 1"/>
-   <path d="m24 6 1 1"/>
-   <path d="m28 11 1 1"/>
-   <path d="m25 12 1 1"/>
-   <path d="m22 13 1 1"/>
-   <path d="m18 9 1 1"/>
-  </g>
- </g>
- <path d="m21 14h8v6h-8z" fill="#655b50"/>
- <path d="m21 15h8v5h-8z" fill="#359e22"/>
- <g clip-path="url(#f)" fill="none" stroke="#287419">
-  <path d="m19 15 4 2"/>
-  <path d="m29 14-4 2"/>
-  <path d="m32 15-4 2"/>
-  <path d="m29 20-4-2"/>
-  <path d="m27 21-4-2"/>
- </g>
-</svg>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+<rect id="bento" width="32" height="32" fill="none"/><g id="outline"><path d="m32 5c0-1.105-0.895-2-2-2h-28c-1.105 0-2 0.895-2 2v22c0 1.105 0.895 2 2 2h28c1.105 0 2-0.895 2-2v-22z"/></g><g id="emoji"><rect x="2" y="5" width="28" height="17" fill="#aa9c84"/><rect x="2" y="21" width="28" height="6" fill="#655b50"/><rect x="3" y="14" width="8" height="6" fill="#655b50"/><clipPath id="_clip1"><rect x="3" y="14" width="8" height="6"/></clipPath><g clip-path="url(#_clip1)"><path d="m11 17c0-0.552-0.448-1-1-1h-6c-0.552 0-1 0.448-1 1v3h8v-3z" fill="#7e1a11"/><circle cx="9" cy="16" r="2" fill="#7e1a11"/><circle cx="6" cy="17" r="2" fill="#b92619"/><circle cx="5" cy="19" r="2" fill="#7e1a11"/><circle cx="9" cy="19" r="2" fill="#b92619"/></g><rect x="3" y="6" width="12" height="7" fill="#655b50"/><clipPath id="_clip2"><rect x="3" y="6" width="12" height="7"/></clipPath><g clip-path="url(#_clip2)"><path d="m15 8c0-0.265-0.105-0.52-0.293-0.707-0.187-0.188-0.442-0.293-0.707-0.293h-10c-0.265 0-0.52 0.105-0.707 0.293-0.188 0.187-0.293 0.442-0.293 0.707v5h12v-5z" fill="#ae723e"/><rect x="5" y="7" width="1" height="6" fill="#724b28"/><rect x="8" y="7" width="1" height="6" fill="#724b28"/><rect x="11" y="7" width="1" height="6" fill="#724b28"/></g><rect x="12" y="14" width="8" height="6" fill="#655b50"/><clipPath id="_clip3"><rect x="12" y="14" width="8" height="6"/></clipPath><g clip-path="url(#_clip3)"><rect x="12" y="16" width="8" height="4" fill="#5b3414"/><path d="m14 16c0-0.265-0.105-0.52-0.293-0.707-0.187-0.188-0.442-0.293-0.707-0.293s-0.52 0.105-0.707 0.293c-0.188 0.187-0.293 0.442-0.293 0.707v4h2v-4z" fill="#361f0c"/><path d="m17 16c0-0.265-0.105-0.52-0.293-0.707-0.187-0.188-0.442-0.293-0.707-0.293s-0.52 0.105-0.707 0.293c-0.188 0.187-0.293 0.442-0.293 0.707v4h2v-4z" fill="#361f0c"/><path d="m20 16c0-0.265-0.105-0.52-0.293-0.707-0.187-0.188-0.442-0.293-0.707-0.293s-0.52 0.105-0.707 0.293c-0.188 0.187-0.293 0.442-0.293 0.707v4h2v-4z" fill="#361f0c"/></g><rect x="16" y="6" width="13" height="7" fill="#655b50"/><clipPath id="_clip4"><rect x="16" y="6" width="13" height="7"/></clipPath><g clip-path="url(#_clip4)"><path d="m16 13v-4c0-1.105 0.895-2 2-2h9c1.105 0 2 0.895 2 2v4h-13z" fill="#fff"/><clipPath id="_clip5"><path d="m16 13v-4c0-1.105 0.895-2 2-2h9c1.105 0 2 0.895 2 2v4h-13z"/></clipPath><g clip-path="url(#_clip5)" fill="none" stroke="#e1e1e1" stroke-width="1px"><path d="m27 9-1 1"/><path d="m22 10-1 1"/><path d="m19 13-1 1"/><path d="m17 11-1 1"/><path d="m20 7-1 1"/><path d="m23 8 1 1"/><path d="m24 6 1 1"/><path d="m28 11 1 1"/><path d="m25 12 1 1"/><path d="m22 13 1 1"/><path d="m18 9 1 1"/></g></g><rect x="21" y="14" width="8" height="6" fill="#655b50"/><rect x="21" y="15" width="8" height="5" fill="#359e22"/><clipPath id="_clip6"><rect x="21" y="15" width="8" height="5"/></clipPath><g clip-path="url(#_clip6)" fill="none" stroke="#287419" stroke-width="1px"><path d="m19 15 4 2"/><path d="m29 14-4 2"/><path d="m32 15-4 2"/><path d="m29 20-4-2"/><path d="m27 21-4-2"/></g></g></svg>

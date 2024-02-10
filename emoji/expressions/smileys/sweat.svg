@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+
+    <rect id="_1f613_sweat" width="32" height="32" fill="none" serif:id="1f613_sweat"/>
+    <clipPath id="_clip1">
+        <rect width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <path d="m26 2s-2.065 3.717-3.541 6.373c-0.864 1.555-0.592 3.494 0.666 4.752l0.058 0.058c0.747 0.747 1.761 1.167 2.817 1.167s2.07-0.42 2.817-1.167l0.058-0.058c1.258-1.258 1.53-3.197 0.666-4.752-1.476-2.656-3.541-6.373-3.541-6.373z" fill="none" stroke="#000" stroke-width="4px"/>
+        <path d="m16 30c-8.1-0-14-4.396-14-11 0-8.371 6.736-14 14-14s14 5.629 14 14c0 6.604-5.9 11-14 11z" fill="none" stroke="#000" stroke-width="4px"/>
+        <path d="m16 30c-8.1-0-14-4.396-14-11 0-8.371 6.736-14 14-14s14 5.629 14 14c0 6.604-5.9 11-14 11z" fill="#ffb636"/>
+        <path d="m8.543 13.448c0.414 0.717 1.72 0.739 2.915 0.049s1.829-1.832 1.415-2.549-1.72-0.739-2.915-0.049c-1.195 0.689-1.829 1.832-1.415 2.549z"/>
+        <path d="m23.457 13.448c-0.414 0.717-1.72 0.739-2.915 0.049s-1.829-1.832-1.415-2.549 1.72-0.739 2.915-0.049c1.195 0.689 1.829 1.832 1.415 2.549z"/>
+        <path d="m19 18s0.136 0.17 0.358 0.447c0.829 1.037 2.113 1.602 3.438 1.513 1.324-0.09 2.521-0.821 3.204-1.96" fill="none" stroke="#000" stroke-width="2px"/>
+        <path d="m13 18s-0.136 0.17-0.358 0.447c-0.829 1.037-2.113 1.602-3.438 1.513-1.324-0.09-2.521-0.821-3.204-1.96" fill="none" stroke="#000" stroke-width="2px"/>
+        <path d="m11.061 25.004c1.307-1.323 3.088-2.071 4.949-2.077 1.86-6e-3 3.646 0.73 4.962 2.045l0.028 0.028" fill="none" stroke="#694300" stroke-width="2px"/>
+        <path d="m26 2s-2.065 3.717-3.541 6.373c-0.864 1.555-0.592 3.494 0.666 4.752l0.058 0.058c0.747 0.747 1.761 1.167 2.817 1.167s2.07-0.42 2.817-1.167l0.058-0.058c1.258-1.258 1.53-3.197 0.666-4.752-1.476-2.656-3.541-6.373-3.541-6.373z" fill="#3fa7ff"/>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+
+    <rect id="call_me--paw-" width="32" height="32" fill="none" serif:id="call_me [paw]"/>
+    <g id="outline">
+        <path d="m20.056 29h-14.056c-2.209 0-4-1.791-4-4v-10c0-2.209 1.791-4 4-4h2.93l3.07-4.606v-5.394h2.002c3.313 0 5.998 2.685 5.998 5.998v1.53c0 0.158-9e-3 0.316-0.028 0.472h4.028c1.061 0 2.078 0.421 2.828 1.172 0.751 0.75 1.172 1.767 1.172 2.828 0 0.708-0.188 1.396-0.535 1.999 0.34 0.588 0.535 1.271 0.535 1.999v4e-3c0 0.728-0.195 1.411-0.535 1.999 0.347 0.603 0.535 1.291 0.535 1.999 0 0.941-0.331 1.847-0.929 2.563l0.718 0.359c1.974 0.988 2.776 3.392 1.789 5.367-0.988 1.974-3.392 2.776-5.367 1.789l-4.155-2.078z"/>
+    </g>
+    <g id="emoji">
+        <path d="m16.5 13h-10.5c-0.53 0-1.039 0.211-1.414 0.586s-0.586 0.884-0.586 1.414v10c0 0.53 0.211 1.039 0.586 1.414s0.884 0.586 1.414 0.586h9.295l1.205-1v-13z" fill="#88A00F"/>
+        <path d="m20.528 27h-5.233c-1.934 0-3.79-0.769-5.158-2.137s-2.137-3.224-2.137-5.158v-0.911c0-1.822 0.539-3.603 1.55-5.119l4.45-6.675v-4h2e-3c2.208 0 3.998 1.79 3.998 3.998v1.53c0 0.31-0.072 0.617-0.211 0.894-0.021 0.042-0.043 0.086-0.065 0.131-0.155 0.31-0.139 0.678 0.043 0.973 0.183 0.295 0.504 0.474 0.851 0.474h5.382c0.53 0 1.039 0.211 1.414 0.586s0.586 0.884 0.586 1.414-0.211 1.039-0.586 1.414-0.884 0.586-1.414 0.586h2e-3c1.103 0 1.998 0.895 1.998 1.998v4e-3c0 1.103-0.895 1.998-1.998 1.998h-2e-3c0.53 0 1.039 0.211 1.414 0.586s0.586 0.884 0.586 1.414-0.211 1.039-0.586 1.414-0.884 0.586-1.414 0.586h-2.528l5.422 2.711c0.224 0.114 0.426 0.265 0.594 0.452 0.412 0.46 0.592 1.101 0.478 1.708-0.041 0.215-0.118 0.423-0.225 0.614-0.111 0.195-0.254 0.372-0.422 0.519-0.188 0.164-0.407 0.293-0.641 0.377-0.242 0.087-0.501 0.128-0.757 0.118-0.284-0.011-0.561-0.085-0.815-0.21l-4.578-2.289z" fill="#B8D419"/>
+    </g>
+</svg>

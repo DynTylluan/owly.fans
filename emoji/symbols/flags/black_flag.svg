@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <clipPath id="a">
-  <path d="m0 0h32v32h-32z" clip-rule="evenodd"/>
- </clipPath>
- <path d="m0 0h32v32h-32z" fill="none"/>
- <g clip-path="url(#a)">
-  <path d="m6 4.394c1.136-.589 3.202-1.394 6-1.394 4.409 0 5.046 2 9 2 3.716 0 7-1.5 7-1.5v15s-3.284 1.5-7 1.5c-3.954 0-4.591-2-9-2-2.798 0-4.864.805-6 1.394v10.606h-2v-28h2z" fill="none" stroke="#000" stroke-width="4"/>
-  <path d="m5 20v-15s2.591-2 7-2 5.046 2 9 2c3.716 0 7-1.5 7-1.5v15s-3.284 1.5-7 1.5c-3.954 0-4.591-2-9-2-4.401 0-6.99 1.992-7 2z" fill="#414141"/>
-  <path d="m4 2h2v28h-2z" fill="#949393"/>
- </g>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+
+    <rect id="black_flag" width="32" height="32" fill="none"/>
+    <clipPath id="_clip1">
+        <rect width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="outline">
+            <path d="m6 4.394c1.136-0.589 3.202-1.394 6-1.394 4.409 0 5.046 2 9 2 3.716 0 7-1.5 7-1.5v15s-3.284 1.5-7 1.5c-3.954 0-4.591-2-9-2-2.798 0-4.864 0.805-6 1.394v10.606h-2v-28h2v2.394z" fill="none" stroke="#000" stroke-width="4px"/>
+        </g>
+        <g id="emoji">
+            <path d="m5 20v-15s2.591-2 7-2 5.046 2 9 2c3.716-0 7-1.5 7-1.5v15s-3.284 1.5-7 1.5c-3.954 0-4.591-2-9-2-4.401 0-6.99 1.992-7 2z" fill="#414141"/>
+            <rect x="4" y="2" width="2" height="28" fill="#949393"/>
+        </g>
+    </g>
 </svg>

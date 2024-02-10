@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <clipPath id="a">
-  <path d="m0 0h32v32h-32z" clip-rule="evenodd"/>
- </clipPath>
- <path d="m0 0h32v32h-32z" fill="none"/>
- <g clip-path="url(#a)">
-  <path d="m22.462 3c4.16 0 7.538 4.929 7.538 11s-3.378 11-7.538 11h-7.539v4h-12.923v-15c0-6.071 3.378-11 7.538-11z" fill="none" stroke="#000" stroke-width="4"/>
-  <path d="m14 12h8.462v13h-8.462z" fill="#606060"/>
-  <path d="m2 14c0-6.071 3.378-11 7.538-11h12.924v11h-7.539v15h-12.923z" fill="#ebebeb"/>
-  <ellipse cx="22.462" cy="14" rx="7.538" ry="11" fill="#bcbcbc"/>
-  <ellipse cx="22.462" cy="14" rx="2.513" ry="3.667"/>
- </g>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+
+    <rect id="toilet_paper" width="32" height="32" fill="none"/>
+    <clipPath id="_clip1">
+        <rect width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="outline">
+            <path d="m22.462 3c4.16 0 7.538 4.929 7.538 11s-3.378 11-7.538 11h-7.539v4h-12.923v-15c0-6.071 3.378-11 7.538-11h12.924z" fill="none" stroke="#000" stroke-width="4px"/>
+        </g>
+        <g id="emoji">
+            <rect x="14" y="12" width="8.462" height="13" fill="#606060"/>
+            <path d="m2 14c0-6.071 3.378-11 7.538-11h12.924v11h-7.539v15h-12.923v-15z" fill="#ebebeb"/>
+            <ellipse cx="22.462" cy="14" rx="7.538" ry="11" fill="#bcbcbc"/>
+            <ellipse cx="22.462" cy="14" rx="2.513" ry="3.667"/>
+        </g>
+    </g>
 </svg>

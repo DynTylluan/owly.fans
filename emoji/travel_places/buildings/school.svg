@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <clipPath id="a">
-  <path d="m0 0h32v32h-32z" clip-rule="evenodd"/>
- </clipPath>
- <path d="m0 0h32v32h-32z" fill="none"/>
- <g clip-path="url(#a)">
-  <path d="m30 13v17h-28v-17s14-4.667 14-4.667z" fill="none" stroke="#000" stroke-width="4"/>
-  <path d="m30 13-4-1h-20l-4 1v2l.567 2-.567 3v2l1 1h26l1-1v-2l-.431-2.565.431-2.435z" fill="#8b6f5a"/>
-  <path d="m2 22h8v-8h12v8h8v2l-2 2 2 2v2h-10l-4-2-4 2h-10v-2l2-2-2-2z" fill="#ae9583"/>
-  <path d="m2 13 14-4.667 14 4.667z" fill="#6d5646"/>
-  <g fill="#352a1f">
-   <path d="m2 24h8v4h-8z"/>
-   <path d="m22 24h8v4h-8z"/>
-   <path d="m25 15h2v5h-2z"/>
-   <path d="m5 15h2v5h-2z"/>
-   <path d="m29 15h1v5h-1z"/>
-   <path d="m2 15h1v5h-1z"/>
-  </g>
-  <path d="m12 17h8v3h-8z" fill="#fff"/>
-  <path d="m12 22h8v8h-8z" fill="#1a1a1a"/>
- </g>
-</svg>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+<rect id="school" width="32" height="32" fill="none"/><clipPath id="_clip1"><rect width="32" height="32"/></clipPath><g clip-path="url(#_clip1)"><g id="outline"><path d="m30 13v17h-28v-17s14-4.667 14-4.667l14 4.667z" fill="none" stroke="#000" stroke-width="4px"/></g><g id="emoji"><path id="_-Rectangle-" d="m30 13-4-1h-20l-4 1v2l0.567 2-0.567 3v2l1 1h26l1-1v-2l-0.431-2.565 0.431-2.435v-2z" fill="#8b6f5a" serif:id="(Rectangle)"/><path id="_-Rectangle-1" d="m2 22h8v-8h12v8h8v2l-2 2 2 2v2h-10l-4-2-4 2h-10v-2l2-2-2-2v-2z" fill="#ae9583" serif:id="(Rectangle)"/><path d="m2 13 14-4.667 14 4.667h-28z" fill="#6d5646"/><rect id="_-Rectangle-2" x="2" y="24" width="8" height="4" fill="#352a1f" serif:id="(Rectangle)"/><rect id="_-Rectangle-3" x="22" y="24" width="8" height="4" fill="#352a1f" serif:id="(Rectangle)"/><rect id="_-Rectangle-4" x="25" y="15" width="2" height="5" fill="#352a1f" serif:id="(Rectangle)"/><rect id="_-Rectangle-5" x="5" y="15" width="2" height="5" fill="#352a1f" serif:id="(Rectangle)"/><rect id="_-Rectangle-6" x="29" y="15" width="1" height="5" fill="#352a1f" serif:id="(Rectangle)"/><rect id="_-Rectangle-7" x="2" y="15" width="1" height="5" fill="#352a1f" serif:id="(Rectangle)"/><rect id="_-Rectangle-8" x="12" y="17" width="8" height="3" fill="#fff" serif:id="(Rectangle)"/><rect id="_-Rectangle-9" x="12" y="22" width="8" height="8" fill="#1a1a1a" serif:id="(Rectangle)"/></g></g></svg>

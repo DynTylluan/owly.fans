@@ -1,0 +1,97 @@
+/* Colors taken from PLAYPAL               */
+/* https://lospec.com/palette-list/playpal */
+
+body {
+	max-width: 800px ;
+	margin: auto ;
+	background: url(r_bsp.c.png);
+	background-color:hsl(240, 100%, 6.86%);
+	color:#8f8fff;
+}
+
+h1 {
+	text-align: left ;
+}
+
+/* unvisited link */
+a:link {
+    color: #d37373;
+}
+
+/* visited link */
+a:visited {
+    color: #67df5f;
+}
+
+/* mouse over link */
+a:hover {
+    color: #c76363;
+}
+
+/* selected link */
+a:active {
+    color: #bf5b5b;
+}
+
+/* The following was written by devils.gay - thank you */
+uppercase,yell {
+	text-transform: uppercase;
+}
+
+/* What font to use */
+@font-face {
+  font-family: 'Poppins';
+  src: url('../fonts/Poppins-Regular.otf');
+
+
+  font-family: 'Cascadia';
+  src: url('../fonts/Cascadia.ttf');
+}
+
+h1, h2, h3, a, li, th, br, p, em {
+  font-family: 'Poppins', sans-serif;
+}
+
+cascadia, Cascadia {
+  font-family: 'Cascadia';
+}
+
+pre, tt, xmp {
+font-family: "Cascadia", monospace, Courier;
+}
+
+/* Thank you to Job of joppiesaus.neocities.org for not only writing the following CSS, but also allowing me to use it */
+/* Job has been a friend of mine for a few years now, and it would really make me happy if you checked out their website */
+figure {
+	display: block;
+	margin: 0 auto;
+	max-width: 95vw;
+	border: 1px solid #999;
+	background: #000;
+	background: rgba(0, 0, 0, 0.5);
+	width: min-content;
+	border-radius: 2px;
+}
+
+figure {
+	float: right;
+	max-width: 33vw;
+	margin: 3px;
+	margin-left: 5px;
+	margin-right: 0;
+}
+
+.tag {
+	padding: 10px;
+	border: 5px solid #4b4b4b;
+	margin: 0;
+	background-color: #430000;
+}
+
+
+/* This removes all of the underlines from links. */
+/* Usually, I would not use this, but as the colors on the page are very different, it should be fine, accessibility-wise. */
+/* https://freecodecamp.org/news/remove-underline-from-link-in-css */
+ a {
+       text-decoration: none;
+}

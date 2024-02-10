@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.4142" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <path d="m0 0h32v32h-32z" fill="none"/>
- <path d="m22 19.172-14.971-14.971-2.828 2.799v2.029l12.971 12.971h-8.172v6h17v-19h-4z" fill-rule="nonzero" stroke="#000" stroke-width="4"/>
- <path d="m9 26 1-1h15l1 1v2h-17z" fill="#747474"/>
- <g fill-rule="nonzero">
-  <path d="m4.201 9.029 17.799 17.799 2.828-2.828-17.799-17.799-2.828.799z" fill="#747474"/>
-  <path d="m22 19.172-14.971-14.971-2.828 2.828 14.971 14.971h-10.172v4h17v-17h-4z" fill="#fff"/>
- </g>
-</svg>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.4142" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+<rect id="arrow_down_right" width="32" height="32" fill="none"/><g id="outline"><path d="m22 19.172-14.971-14.971-2.828 2.799v2.029l12.971 12.971h-8.172v6h17v-19h-4v10.172z" fill-rule="nonzero" stroke="#000" stroke-width="4px"/></g><g id="emoji"><path d="m9 26 1-1h15l1 1v2h-17v-2z" fill="#747474"/><path d="m4.201 9.029 17.799 17.799 2.828-2.828-17.799-17.799-2.828 0.799v2.029z" fill="#747474" fill-rule="nonzero"/><path d="m22 19.172-14.971-14.971-2.828 2.828 14.971 14.971h-10.172v4h17v-17h-4v10.172z" fill="#fff" fill-rule="nonzero"/></g></svg>

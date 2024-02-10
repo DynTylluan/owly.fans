@@ -1,4 +1,4 @@
-FOPL-MDP
+FOPL-MDP-V2
                                  {O,O}   {O,O}
                                  /)_)    (__(\
                                   ""      " "
@@ -65,6 +65,15 @@ ability, this could include linking to the owner's website and/or their name.
 
 > USE THE SAME LICENSE
 If you make changes to this project, you must use the same license.
+
+> DO NOT USE IN A COMPUTER ALGORITHM
+The copyright holder(s) do not give you their consent for you or anyone else
+to use their work in a computer algorithm, such as a neural network, deep
+learning, or anything that will help teach a computer.
+
+> DO NOT PUT ON THE BLOCKCHAIN
+You are not permitted to put this work onto something, such as a website
+or app, that uses the blockchain.
 
 The use of this license cannot be undone or changed unless a more liberal
 version of a license is picked.

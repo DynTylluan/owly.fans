@@ -1,53 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.4142" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <clipPath id="a">
-  <path d="m0 0h32v32h-32z" clip-rule="evenodd"/>
- </clipPath>
- <clipPath id="b">
-  <path d="m28 19-.35-1h-23.324l-.326 1v1c0 .53.211 1.039.586 1.414s.884.586 1.414.586h20c.53 0 1.039-.211 1.414-.586s.586-.884.586-1.414c0-.551 0-1 0-1z" clip-rule="evenodd"/>
- </clipPath>
- <clipPath id="c">
-  <path d="m28 6c0-.53-.211-1.039-.586-1.414s-.884-.586-1.414-.586c-4.52 0-15.48 0-20 0-.53 0-1.039.211-1.414.586s-.586.884-.586 1.414v11l.488 1h23.047l.465-1s0-7.354 0-11z" clip-rule="evenodd"/>
- </clipPath>
- <path d="m0 0h32v32h-32z" fill="none"/>
- <g clip-path="url(#a)">
-  <path d="m0 0h32v32h-32z"/>
-  <path d="m30 2h-28v22l1 .5-1 .5v5h28v-5l-1-.5 1-.5z" fill="#4d4d4d"/>
-  <path d="m2 24h28v1h-28z" fill="#333"/>
-  <g fill="#808080">
-   <path d="m4 26h2v1h-2z"/>
-   <path d="m4 28h2v1h-2z"/>
-   <path d="m7 26h2v1h-2z"/>
-   <path d="m7 28h2v1h-2z"/>
-   <path d="m10 26h2v1h-2z"/>
-   <path d="m10 28h2v1h-2z"/>
-  </g>
-  <path d="m25 26h3v3h-3z" fill="#219555"/>
-  <circle cx="14.5" cy="27.5" r="1.5" fill="#333"/>
-  <circle cx="18.5" cy="27.5" r="1.5" fill="#333"/>
-  <circle cx="22.5" cy="27.5" r="1.5" fill="#333"/>
-  <path d="m28 19-.35-1h-23.324l-.326 1v1c0 .53.211 1.039.586 1.414s.884.586 1.414.586h20c.53 0 1.039-.211 1.414-.586s.586-.884.586-1.414c0-.551 0-1 0-1z" fill="none"/>
-  <g clip-path="url(#b)">
-   <path d="m24 22h4v-5h-4l-1 .167v4.587z"/>
-   <path d="m20 22h4v-5h-4l-1 .209v4.588z" fill="#333"/>
-   <path d="m16 22h4v-5h-4l-1 .213v4.599z" fill="#4d4d4d"/>
-   <path d="m12 22h4v-5h-4l-1 .223v4.56z" fill="#999"/>
-   <path d="m8 22h4v-5h-4l-1 .272v4.514z" fill="#ccc"/>
-   <path d="m4 17h4v5h-4z" fill="#fff"/>
-  </g>
-  <path d="m28 6c0-.53-.211-1.039-.586-1.414s-.884-.586-1.414-.586c-4.52 0-15.48 0-20 0-.53 0-1.039.211-1.414.586s-.586.884-.586 1.414v11l.488 1h23.047l.465-1s0-7.354 0-11z" fill="none"/>
-  <g clip-path="url(#c)">
-   <path d="m28 4h-3.429l-.571 1v13l.571 1h3.429z" fill="#00f"/>
-   <path d="m24.571 4h-3.428l-.143.28v14.463l.143.257h3.428z" fill="#f00"/>
-   <path d="m21.143 4h-3.429l-.714.302v14.353l.714.345h3.429z" fill="#f0f"/>
-   <path d="m17.714 4h-3.428l-.286.189v14.593l.286.218h3.428z" fill="#0f0"/>
-   <path d="m14.286 4h-3.429l-.857.172v14.687l.857.141h3.429v-15z" fill="#0ff"/>
-   <path d="m10.857 4h-3.428l-.429.134v14.727l.429.139h3.428z" fill="#ff0"/>
-   <path d="m4 4h3.429v15h-3.429z" fill="#fff"/>
-  </g>
-  <path d="m4 17h24v2h-24z"/>
-  <path d="m21.143 17h3.429v2h-3.429z" fill="#808080"/>
-  <path d="m14.286 17h3.429v2h-3.429z" fill="#808080"/>
-  <path d="m7.429 17h3.429v2h-3.429z" fill="#808080"/>
- </g>
-</svg>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.4142" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+<rect id="crt_test_pattern" width="32" height="32" fill="none"/><clipPath id="_clip1"><rect width="32" height="32"/></clipPath><g clip-path="url(#_clip1)"><g id="outline"><rect width="32" height="32"/></g><g id="emoji"><path d="m30 2h-28v22l1 0.5-1 0.5v5h28v-5l-1-0.5 1-0.5v-22z" fill="#4d4d4d"/><rect x="2" y="24" width="28" height="1" fill="#333"/><g fill="#808080"><rect x="4" y="26" width="2" height="1"/><rect x="4" y="28" width="2" height="1"/><rect x="7" y="26" width="2" height="1"/><rect x="7" y="28" width="2" height="1"/><rect x="10" y="26" width="2" height="1"/><rect x="10" y="28" width="2" height="1"/></g><rect x="25" y="26" width="3" height="3" fill="#219555"/><g fill="#333"><circle cx="14.5" cy="27.5" r="1.5"/><circle cx="18.5" cy="27.5" r="1.5"/><circle cx="22.5" cy="27.5" r="1.5"/></g><path d="m28 19-0.35-1h-23.324l-0.326 1v1c0 0.53 0.211 1.039 0.586 1.414s0.884 0.586 1.414 0.586h20c0.53 0 1.039-0.211 1.414-0.586s0.586-0.884 0.586-1.414v-1z" fill="none"/><clipPath id="_clip2"><path d="m28 19-0.35-1h-23.324l-0.326 1v1c0 0.53 0.211 1.039 0.586 1.414s0.884 0.586 1.414 0.586h20c0.53 0 1.039-0.211 1.414-0.586s0.586-0.884 0.586-1.414v-1z"/></clipPath><g clip-path="url(#_clip2)"><path d="m24 22h4v-5h-4l-1 0.167v4.587l1 0.246z"/><path d="m20 22h4v-5h-4l-1 0.209v4.588l1 0.203z" fill="#333"/><path d="m16 22h4v-5h-4l-1 0.213v4.599l1 0.188z" fill="#4d4d4d"/><path d="m12 22h4v-5h-4l-1 0.223v4.56l1 0.217z" fill="#999"/><path d="m8 22h4v-5h-4l-1 0.272v4.514l1 0.214z" fill="#ccc"/><rect x="4" y="17" width="4" height="5" fill="#fff"/></g><path d="m28 6c0-0.53-0.211-1.039-0.586-1.414s-0.884-0.586-1.414-0.586h-20c-0.53 0-1.039 0.211-1.414 0.586s-0.586 0.884-0.586 1.414v11l0.488 1h23.047l0.465-1v-11z" fill="none"/><clipPath id="_clip3"><path d="m28 6c0-0.53-0.211-1.039-0.586-1.414s-0.884-0.586-1.414-0.586h-20c-0.53 0-1.039 0.211-1.414 0.586s-0.586 0.884-0.586 1.414v11l0.488 1h23.047l0.465-1v-11z"/></clipPath><g clip-path="url(#_clip3)"><path d="m28 4h-3.429l-0.571 1v13l0.571 1h3.429v-15z" fill="#00f"/><path d="m24.571 4h-3.428l-0.143 0.28v14.463l0.143 0.257h3.428v-15z" fill="#f00"/><path d="m21.143 4h-3.429l-0.714 0.302v14.353l0.714 0.345h3.429v-15z" fill="#f0f"/><path d="m17.714 4h-3.428l-0.286 0.189v14.593l0.286 0.218h3.428v-15z" fill="#0f0"/><path d="m14.286 4h-3.429l-0.857 0.172v14.687l0.857 0.141h3.429v-15z" fill="#0ff"/><path d="m10.857 4h-3.428l-0.429 0.134v14.727l0.429 0.139h3.428v-15z" fill="#ff0"/><rect x="4" y="4" width="3.429" height="15" fill="#fff"/></g><rect x="4" y="17" width="24" height="2"/><rect x="21.143" y="17" width="3.429" height="2" fill="#808080"/><rect x="14.286" y="17" width="3.429" height="2" fill="#808080"/><rect x="7.429" y="17" width="3.429" height="2" fill="#808080"/></g></g></svg>

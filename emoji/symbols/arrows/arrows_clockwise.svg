@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.4142" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <clipPath id="a">
-  <path d="m32 0v32h-32v-32z" clip-rule="evenodd"/>
- </clipPath>
- <path d="m32 0v32h-32v-32z" fill="none"/>
- <g clip-path="url(#a)">
-  <path d="m11 20c0 2.761 2.239 5 5 5v5c-4.418 0-8-3.582-8-8v-10.379s-3.5 3.5-3.5 3.5l-2.121-2.121v-2l7.121-7.121 7.121 7.121v2l-2.121 2.121-3.5-3.5zm10-8.002c0-1.326-0.527-2.597-1.464-3.534s-2.208-1.464-3.534-1.464h-2e-3v-5h2e-3c2.121 0 4.156 0.843 5.655 2.343 1.5 1.499 2.343 3.534 2.343 5.655v10.381l3.5-3.5 2.121 2.121v2l-7.121 7.121-7.121-7.121v-2l2.121-2.121 3.5 3.5z" fill="none" stroke="#000" stroke-width="4"/>
-  <path d="m11 8h9v15h-9z"/>
-  <g fill-rule="nonzero">
-   <path d="m16 5 1-1 5 2v6h-1s0-1e-3 0-2e-3c0-1.326-0.527-2.597-1.464-3.534s-2.208-1.464-3.534-1.464h-2e-3z" fill="#747474"/>
-   <path d="m16 30c-4.418 0-8-3.582-8-8v-3h2v4l6 5z" fill="#747474"/>
-   <path d="m21 22.379h3l3.5-3.5 2.121.121v2l-7.121 7.121-7.121-7.121v-2l2.121-.121z" fill="#747474"/>
-   <path d="m8 11.621-3.5 3.5-2.121-2.121v-2l7.121-3.121 7.121 3.121v2l-2.121 2.121-3.5-3.5z" fill="#747474"/>
-   <path d="m21 20.379v-10.379c0-2.761-2.239-5-5-5v-3h.002c2.121 0 4.156.843 5.655 2.343 1.5 1.499 2.343 3.534 2.343 5.655v10.381l3.5-3.5 2.121 2.121-7.121 7.121-7.121-7.121 2.121-2.121z" fill="#fff"/>
-   <path d="m8 9.621-3.5 3.5-2.121-2.121 7.121-7.121 7.121 7.121-2.121 2.121-3.5-3.5v10.379c0 2.761 2.239 5 5 5v3c-4.418 0-8-3.582-8-8z" fill="#fff"/>
-  </g>
- </g>
-</svg>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.4142" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+<path id="arrows_clockwise" d="m32 0v32h-32v-32h32z" fill="none"/><clipPath id="_clip1"><path d="m32 0v32h-32v-32h32z"/></clipPath><g clip-path="url(#_clip1)"><g id="outline"><path d="m11 20c0 2.761 2.239 5 5 5v5c-4.418 0-8-3.582-8-8v-10.379l-3.5 3.5-2.121-2.121v-2l7.121-7.121 7.121 7.121v2l-2.121 2.121-3.5-3.5v8.379zm10-8.002c0-1.326-0.527-2.597-1.464-3.534s-2.208-1.464-3.534-1.464h-2e-3v-5h2e-3c2.121 0 4.156 0.843 5.655 2.343 1.5 1.499 2.343 3.534 2.343 5.655v10.381l3.5-3.5 2.121 2.121v2l-7.121 7.121-7.121-7.121v-2l2.121-2.121 3.5 3.5v-8.381z" fill="none" stroke="#000" stroke-width="4px"/><rect x="11" y="8" width="9" height="15"/></g><g id="emoji" fill-rule="nonzero"><path d="m16 5 1-1 5 2v6h-1v-2e-3c0-1.326-0.527-2.597-1.464-3.534s-2.208-1.464-3.534-1.464h-2e-3v-2z" fill="#747474"/><path d="m16 30c-4.418 0-8-3.582-8-8v-3h2v4l6 5v2z" fill="#747474"/><path d="m21 22.379h3l3.5-3.5 2.121 0.121v2l-7.121 7.121-7.121-7.121v-2l2.121-0.121 3.5 3.5z" fill="#747474"/><path d="m8 11.621-3.5 3.5-2.121-2.121v-2l7.121-3.121 7.121 3.121v2l-2.121 2.121-3.5-3.5h-3z" fill="#747474"/><path d="m21 20.379v-10.379c0-2.761-2.239-5-5-5v-3h2e-3c2.121 0 4.156 0.843 5.655 2.343 1.5 1.499 2.343 3.534 2.343 5.655v10.381l3.5-3.5 2.121 2.121-7.121 7.121-7.121-7.121 2.121-2.121 3.5 3.5z" fill="#fff"/><path d="m8 9.621-3.5 3.5-2.121-2.121 7.121-7.121 7.121 7.121-2.121 2.121-3.5-3.5v10.379c0 2.761 2.239 5 5 5v3c-4.418 0-8-3.582-8-8v-10.379z" fill="#fff"/></g></g></svg>

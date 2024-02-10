@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.4142" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <clipPath id="a">
-  <path d="m0 0h32v32h-32z" clip-rule="evenodd"/>
- </clipPath>
- <path d="m0 0h32v32h-32z" fill="none"/>
- <g clip-path="url(#a)">
-  <path d="m32 8c0-4.418-3.582-8-8-8h-16c-4.418 0-8 3.582-8 8v16c0 4.418 3.582 8 8 8h16c4.418 0 8-3.582 8-8v-16z"/>
-  <path d="m30 8c0-1.591-0.632-3.117-1.757-4.243-1.126-1.125-2.652-1.757-4.243-1.757h-16c-1.591 0-3.117 0.632-4.243 1.757-1.125 1.126-1.757 2.652-1.757 4.243v16c0 1.591 0.632 3.117 1.757 4.243 1.126 1.125 2.652 1.757 4.243 1.757h16c1.591 0 3.117-0.632 4.243-1.757 1.125-1.126 1.757-2.652 1.757-4.243v-16z" fill="#ef9b00"/>
-  <path d="m17.144 10.5v3.3h5.236v-3.3zm-2.288 0h-5.236v3.3h5.236zm-5.236 5.236v3.344h5.236v-3.344zm7.524 3.344h5.236v-3.344h-5.236zm-7.524 1.936v1.32h-2.376v-13.816h7.612v-2.64h2.288v2.64h7.612v13.816h-2.376v-1.32h-5.236v5.104h-2.288v-5.104z" fill="#fff" fill-rule="nonzero"/>
- </g>
-</svg>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.4142" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+<rect id="request" width="32" height="32" fill="none"/><clipPath id="_clip1"><rect width="32" height="32"/></clipPath><g clip-path="url(#_clip1)"><g id="outline"><path d="m32 8c0-4.418-3.582-8-8-8h-16c-4.418 0-8 3.582-8 8v16c0 4.418 3.582 8 8 8h16c4.418 0 8-3.582 8-8v-16z"/></g><g id="emoji"><path d="m30 8c0-1.591-0.632-3.117-1.757-4.243-1.126-1.125-2.652-1.757-4.243-1.757h-16c-1.591 0-3.117 0.632-4.243 1.757-1.125 1.126-1.757 2.652-1.757 4.243v16c0 1.591 0.632 3.117 1.757 4.243 1.126 1.125 2.652 1.757 4.243 1.757h16c1.591 0 3.117-0.632 4.243-1.757 1.125-1.126 1.757-2.652 1.757-4.243v-16z" fill="#ef9b00"/><path d="m17.144 10.5v3.3h5.236v-3.3h-5.236zm-2.288 0h-5.236v3.3h5.236v-3.3zm-5.236 5.236v3.344h5.236v-3.344h-5.236zm7.524 3.344h5.236v-3.344h-5.236v3.344zm-7.524 1.936v1.32h-2.376v-13.816h7.612v-2.64h2.288v2.64h7.612v13.816h-2.376v-1.32h-5.236v5.104h-2.288v-5.104h-5.236z" fill="#fff" fill-rule="nonzero"/></g></g></svg>

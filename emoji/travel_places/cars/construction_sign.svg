@@ -1,40 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <clipPath id="a">
-  <path d="m0 0h32v32h-32z" clip-rule="evenodd"/>
- </clipPath>
- <clipPath id="b">
-  <path d="m2 11h28v10h-28z" clip-rule="evenodd"/>
- </clipPath>
- <path d="m0 0h32v32h-32z" fill="none"/>
- <g clip-path="url(#a)">
-  <g fill="none" stroke="#000" stroke-width="4">
-   <path d="m2 9h28v12h-28z"/>
-   <path d="m6 16h2v14h-2z"/>
-   <path d="m24 16h2v14h-2z"/>
-   <path d="m28 5.998c0-.795-.316-1.558-.878-2.12s-1.325-.878-2.12-.878h-.004c-.795 0-1.558.316-2.12.878s-.878 1.325-.878 2.12v.004c0 .795.316 1.558.878 2.12s1.325.878 2.12.878h.004c.795 0 1.558-.316 2.12-.878s.878-1.325.878-2.12z"/>
-   <path d="m10 5.998c0-.795-.316-1.558-.878-2.12s-1.325-.878-2.12-.878h-.004c-.795 0-1.558.316-2.12.878s-.878 1.325-.878 2.12v.004c0 .795.316 1.558.878 2.12s1.325.878 2.12.878h.004c.795 0 1.558-.316 2.12-.878s.878-1.325.878-2.12z"/>
-  </g>
-  <path d="m8 20h-2v3l.6 1h.767l.633-1z" fill="#727272"/>
-  <path d="m26 20h-2v3l.684 1h.683l.633-1z" fill="#727272"/>
-  <path d="m6 23h2v7h-2z" fill="#999"/>
-  <path d="m24 23h2v7h-2z" fill="#999"/>
-  <path d="m5 6h4v10h-4z" fill="#fa3"/>
-  <path d="m23 6h4v10h-4z" fill="#fa3"/>
-  <path d="m28 5.998c0-.795-.316-1.558-.878-2.12s-1.325-.878-2.12-.878h-.004c-.795 0-1.558.316-2.12.878s-.878 1.325-.878 2.12v.004c0 .795.316 1.558.878 2.12s1.325.878 2.12.878h.004c.795 0 1.558-.316 2.12-.878s.878-1.325.878-2.12z" fill="#fa3"/>
-  <path d="m10 5.998c0-.795-.316-1.558-.878-2.12s-1.325-.878-2.12-.878h-.004c-.795 0-1.558.316-2.12.878s-.878 1.325-.878 2.12v.004c0 .795.316 1.558.878 2.12s1.325.878 2.12.878h.004c.795 0 1.558-.316 2.12-.878s.878-1.325.878-2.12z" fill="#fa3"/>
-  <path d="m30 11-1.505 1h-24.495l-2-1v-2h28z" fill="#666"/>
-  <path d="m2 11h28v10h-28z" fill="#404040"/>
-  <g clip-path="url(#b)" fill="#eeba00">
-   <path d="m21 10h-3l-12 12h3z"/>
-   <path d="m33 10h-3l-12 12h3z"/>
-   <path d="m9 10h-3l-12 12h3z"/>
-   <path d="m27 10h-3l-12 12h3z"/>
-   <path d="m3 10h-3l-12 12h3z"/>
-   <path d="m39 10h-3l-12 12h3z"/>
-   <path d="m15 10h-3l-12 12h3z"/>
-  </g>
-  <circle cx="25" cy="6" r="2" fill="#ffe1b7"/>
-  <circle cx="7" cy="6" r="2" fill="#ffe1b7"/>
- </g>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+
+    <rect id="construction_sign" width="32" height="32" fill="none"/>
+    <clipPath id="_clip1">
+        <rect width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="outline" fill="none" stroke="#000" stroke-width="4px">
+            <rect x="2" y="9" width="28" height="12"/>
+            <rect x="6" y="16" width="2" height="14"/>
+            <rect x="24" y="16" width="2" height="14"/>
+            <path d="m28 5.998c0-0.795-0.316-1.558-0.878-2.12s-1.325-0.878-2.12-0.878h-4e-3c-0.795 0-1.558 0.316-2.12 0.878s-0.878 1.325-0.878 2.12v4e-3c0 0.795 0.316 1.558 0.878 2.12s1.325 0.878 2.12 0.878h4e-3c0.795 0 1.558-0.316 2.12-0.878s0.878-1.325 0.878-2.12v-4e-3z"/>
+            <path d="m10 5.998c0-0.795-0.316-1.558-0.878-2.12s-1.325-0.878-2.12-0.878h-4e-3c-0.795 0-1.558 0.316-2.12 0.878s-0.878 1.325-0.878 2.12v4e-3c0 0.795 0.316 1.558 0.878 2.12s1.325 0.878 2.12 0.878h4e-3c0.795 0 1.558-0.316 2.12-0.878s0.878-1.325 0.878-2.12v-4e-3z"/>
+        </g>
+        <g id="emoji">
+            <path d="m8 20h-2v3l0.6 1h0.767l0.633-1v-3z" fill="#727272"/>
+            <path d="m26 20h-2v3l0.684 1h0.683l0.633-1v-3z" fill="#727272"/>
+            <rect x="6" y="23" width="2" height="7" fill="#999"/>
+            <rect x="24" y="23" width="2" height="7" fill="#999"/>
+            <rect x="5" y="6" width="4" height="10" fill="#fa3"/>
+            <rect x="23" y="6" width="4" height="10" fill="#fa3"/>
+            <path d="m28 5.998c0-0.795-0.316-1.558-0.878-2.12s-1.325-0.878-2.12-0.878h-4e-3c-0.795 0-1.558 0.316-2.12 0.878s-0.878 1.325-0.878 2.12v4e-3c0 0.795 0.316 1.558 0.878 2.12s1.325 0.878 2.12 0.878h4e-3c0.795 0 1.558-0.316 2.12-0.878s0.878-1.325 0.878-2.12v-4e-3z" fill="#fa3"/>
+            <path d="m10 5.998c0-0.795-0.316-1.558-0.878-2.12s-1.325-0.878-2.12-0.878h-4e-3c-0.795 0-1.558 0.316-2.12 0.878s-0.878 1.325-0.878 2.12v4e-3c0 0.795 0.316 1.558 0.878 2.12s1.325 0.878 2.12 0.878h4e-3c0.795 0 1.558-0.316 2.12-0.878s0.878-1.325 0.878-2.12v-4e-3z" fill="#fa3"/>
+            <path d="m30 11-1.505 1h-24.495l-2-1v-2h28v2z" fill="#666"/>
+            <rect x="2" y="11" width="28" height="10" fill="#404040"/>
+            <clipPath id="_clip2">
+                <rect x="2" y="11" width="28" height="10"/>
+            </clipPath>
+            <g clip-path="url(#_clip2)">
+                <g fill="#eeba00">
+                    <path d="m21 10h-3l-12 12h3l12-12z"/>
+                    <path d="m33 10h-3l-12 12h3l12-12z"/>
+                    <path d="m9 10h-3l-12 12h3l12-12z"/>
+                    <path d="m27 10h-3l-12 12h3l12-12z"/>
+                    <path d="m3 10h-3l-12 12h3l12-12z"/>
+                    <path d="m39 10h-3l-12 12h3l12-12z"/>
+                    <path d="m15 10h-3l-12 12h3l12-12z"/>
+                </g>
+            </g>
+            <circle cx="25" cy="6" r="2" fill="#ffe1b7"/>
+            <circle cx="7" cy="6" r="2" fill="#ffe1b7"/>
+        </g>
+    </g>
 </svg>

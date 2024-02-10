@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+  <channel>
+    <title>Doom: Rediscovering History</title>
+    <description>Pump up the Doom</description>
+    <webfeeds:logo>https://owly.fans/floppy.png</webfeeds:logo>
+    <webfeeds:accentColor>2b90d9</webfeeds:accentColor>
+    <image>
+      <url>https://owly.fans/floppy.png</url>
+      <title></title>
+      <link></link>
+    </image>
+    <webfeeds:icon>https://owly.fans/floppy.png</webfeeds:icon>
+	  	  
+ <item>
+      <title>Kick Attack!</title>
+      <description>
+		  Yes!! I love corporations! Published 2024-02-10.
+	  &lt;/p&gt;&lt;p&gt;
+  		  https://owly.fans/doom/history/003
+	  </description>
+ </item>
+	  	  
+ <item>
+      <title>Marine Doom</title>
+      <description>
+		  Space marines to real life marine - we're in the army now! 2024-02-10.
+	  &lt;/p&gt;&lt;p&gt;
+  		  https://owly.fans/doom/history/002
+	  </description>
+ </item>
+	  	  
+ <item>
+      <title>Origwad</title>
+      <description>
+		  Well, you gotta start somewhere. Published 2024-02-10.
+	  &lt;/p&gt;&lt;p&gt;
+  		  https://owly.fans/doom/history/001
+	  </description>
+ </item>
+  </channel>
+</rss>

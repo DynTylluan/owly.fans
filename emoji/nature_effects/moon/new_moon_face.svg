@@ -1,12 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <path d="m0 0h32v32h-32z" fill="none"/>
- <circle cx="16" cy="16" r="16"/>
- <circle cx="16" cy="16" r="14" fill="#54349d"/>
- <path d="m14 19s0.128 0.128 0.293 0.293c0.453 0.453 1.067 0.707 1.707 0.707s1.254-0.254 1.707-0.707l0.293-0.293" fill="none" stroke="#2a1857" stroke-width="2"/>
- <path d="m21 23c-1.281 1.281-3.017 2-4.828 2h-0.344c-1.811 0-3.547-0.719-4.828-2" fill="none" stroke="#2a1857" stroke-linejoin="miter" stroke-width="2"/>
- <path d="m19.029 13c-.029.261-.029.502-.029.502 0 .928.369 1.817 1.025 2.473s1.545 1.025 2.473 1.025h.002c1.27 0 2.382-.676 2.995-1.689-.156-.311-.778-1.608-2.495-2.311-1.366-.56-3.971 0-3.971 0z" fill="#fff"/>
- <path d="m25.495 15.311c.321-.528.505-1.148.505-1.811v-.544c0-.456-.207-.887-.563-1.172-.693-.482-1.53-.784-2.437-.784h-1c-.907 0-1.744.302-2.415.811-.348.278-.551.7-.551 1.145-.002.015-.004.03-.005.044h2.971v.983c0 1.105.895 2 2 2 .595 0 1.129-.259 1.495-.672z"/>
- <path d="m6.029 13c-.029.261-.029.502-.029.502 0 .928.369 1.817 1.025 2.473s1.545 1.025 2.473 1.025h.002c1.27 0 2.382-.676 2.995-1.689-.156-.311-.778-1.608-2.495-2.311-1.366-.56-3.971 0-3.971 0z" fill="#fff"/>
- <path d="m12.495 15.311c.321-.528.505-1.148.505-1.811v-.544c0-.456-.207-.887-.563-1.172-.693-.482-1.53-.784-2.437-.784h-1c-.907 0-1.744.302-2.415.811-.348.278-.551.7-.551 1.145-.002.015-.004.03-.005.044h2.971v.983c0 1.105.895 2 2 2 .595 0 1.129-.259 1.495-.672z"/>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+
+    <rect id="new_moon_face" width="32" height="32" fill="none"/>
+    <g id="outline">
+        <circle cx="16" cy="16" r="16"/>
+    </g>
+    <g id="emoji">
+        <circle cx="16" cy="16" r="14" fill="#54349d"/>
+        <path d="m14 19 0.293 0.293c0.453 0.453 1.067 0.707 1.707 0.707s1.254-0.254 1.707-0.707l0.293-0.293" fill="none" stroke="#2a1857" stroke-width="2px"/>
+        <path d="m21 23c-1.281 1.281-3.017 2-4.828 2h-0.344c-1.811 0-3.547-0.719-4.828-2" fill="none" stroke="#2a1857" stroke-linejoin="miter" stroke-width="2px"/>
+        
+            <path d="m19.029 13c-0.029 0.261-0.029 0.502-0.029 0.502 0 0.928 0.369 1.817 1.025 2.473s1.545 1.025 2.473 1.025h2e-3c1.27 0 2.382-0.676 2.995-1.689-0.156-0.311-0.778-1.608-2.495-2.311-1.366-0.56-3.971 0-3.971 0z" fill="#fff"/>
+            <path d="m25.495 15.311c0.321-0.528 0.505-1.148 0.505-1.811v-0.544c0-0.456-0.207-0.887-0.563-1.172-0.693-0.482-1.53-0.784-2.437-0.784h-1c-0.907 0-1.744 0.302-2.415 0.811-0.348 0.278-0.551 0.7-0.551 1.145-2e-3 0.015-4e-3 0.03-5e-3 0.044h2.971v0.983c0 1.105 0.895 2 2 2 0.595 0 1.129-0.259 1.495-0.672z"/>
+        
+        
+            <path d="m6.029 13c-0.029 0.261-0.029 0.502-0.029 0.502 0 0.928 0.369 1.817 1.025 2.473s1.545 1.025 2.473 1.025h2e-3c1.27 0 2.382-0.676 2.995-1.689-0.156-0.311-0.778-1.608-2.495-2.311-1.366-0.56-3.971 0-3.971 0z" fill="#fff"/>
+            <path d="m12.495 15.311c0.321-0.528 0.505-1.148 0.505-1.811v-0.544c0-0.456-0.207-0.887-0.563-1.172-0.693-0.482-1.53-0.784-2.437-0.784h-1c-0.907 0-1.744 0.302-2.415 0.811-0.348 0.278-0.551 0.7-0.551 1.145-2e-3 0.015-4e-3 0.03-5e-3 0.044h2.971v0.983c0 1.105 0.895 2 2 2 0.595 0 1.129-0.259 1.495-0.672z"/>
+        
+    </g>
 </svg>

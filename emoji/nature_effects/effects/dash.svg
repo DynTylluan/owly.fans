@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <clipPath id="a">
-  <path d="m0 0h32v32h-32z" clip-rule="evenodd"/>
- </clipPath>
- <path d="m0 0h32v32h-32z" fill="none"/>
- <g clip-path="url(#a)">
-  <g fill="none">
-   <path d="m22.17 20.596.355.315c.876.779 1.373 1.898 1.362 3.07-.01 1.172-.527 2.282-1.417 3.045-.06.051-.121.103-.181.155-.852.73-1.969 1.075-3.084.953-1.116-.123-2.131-.701-2.804-1.599-1.621-2.161-3.401-4.535-3.401-4.535l-11-3 4-3-4-3 11-3s1.78-2.374 3.401-4.535c.673-.898 1.688-1.476 2.804-1.599 1.115-.122 2.232.223 3.084.953.06.052.121.104.181.155.89.763 1.407 1.873 1.417 3.045.011 1.172-.486 2.291-1.362 3.07l-.355.315c1.627-.909 3.615-.89 5.225.051 1.613.944 2.605 2.673 2.605 4.542v.006c0 1.869-.992 3.598-2.605 4.542-1.61.941-3.598.96-5.225.051z" stroke="#000" stroke-width="4"/>
-   <path d="m6 8 5-3" stroke="#000" stroke-width="7"/>
-   <path d="m6 24 5 3" stroke="#000" stroke-width="7"/>
-   <path d="m6 24 5 3" stroke="#fff" stroke-width="3"/>
-  </g>
-  <path d="m22.17 20.596.355.315c.876.779 1.373 1.898 1.362 3.07-.01 1.172-.527 2.282-1.417 3.045-.06.051-.121.103-.181.155-.852.73-1.969 1.075-3.084.953-1.116-.123-2.131-.701-2.804-1.599-1.621-2.161-3.401-4.535-3.401-4.535l-11-3 4-3-4-3 11-3s1.78-2.374 3.401-4.535c.673-.898 1.688-1.476 2.804-1.599 1.115-.122 2.232.223 3.084.953.06.052.121.104.181.155.89.763 1.407 1.873 1.417 3.045.011 1.172-.486 2.291-1.362 3.07l-.355.315c1.627-.909 3.615-.89 5.225.051 1.613.944 2.605 2.673 2.605 4.542v.006c0 1.869-.992 3.598-2.605 4.542-1.61.941-3.598.96-5.225.051z" fill="#fff"/>
-  <path d="m6 8 5-3" fill="none" stroke="#fff" stroke-width="3"/>
- </g>
-</svg>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+<rect id="dash" width="32" height="32" fill="none"/><clipPath id="_clip1"><rect width="32" height="32"/></clipPath><g clip-path="url(#_clip1)"><g id="outline" fill="none" stroke="#000"><path d="m22.17 20.596 0.355 0.315c0.876 0.779 1.373 1.898 1.362 3.07-0.01 1.172-0.527 2.282-1.417 3.045-0.06 0.051-0.121 0.103-0.181 0.155-0.852 0.73-1.969 1.075-3.084 0.953-1.116-0.123-2.131-0.701-2.804-1.599-1.621-2.161-3.401-4.535-3.401-4.535l-11-3 4-3-4-3 11-3s1.78-2.374 3.401-4.535c0.673-0.898 1.688-1.476 2.804-1.599 1.115-0.122 2.232 0.223 3.084 0.953 0.06 0.052 0.121 0.104 0.181 0.155 0.89 0.763 1.407 1.873 1.417 3.045 0.011 1.172-0.486 2.291-1.362 3.07l-0.355 0.315c1.627-0.909 3.615-0.89 5.225 0.051 1.613 0.944 2.605 2.673 2.605 4.542v6e-3c0 1.869-0.992 3.598-2.605 4.542-1.61 0.941-3.598 0.96-5.225 0.051z" stroke-width="4px"/><path d="m6 8 5-3" stroke-width="7px"/><path d="m6 24 5 3" stroke-width="7px"/></g><g id="emoji"><path d="m6 24 5 3" fill="none" stroke="#fff" stroke-width="3px"/><path d="m22.17 20.596 0.355 0.315c0.876 0.779 1.373 1.898 1.362 3.07-0.01 1.172-0.527 2.282-1.417 3.045-0.06 0.051-0.121 0.103-0.181 0.155-0.852 0.73-1.969 1.075-3.084 0.953-1.116-0.123-2.131-0.701-2.804-1.599-1.621-2.161-3.401-4.535-3.401-4.535l-11-3 4-3-4-3 11-3s1.78-2.374 3.401-4.535c0.673-0.898 1.688-1.476 2.804-1.599 1.115-0.122 2.232 0.223 3.084 0.953 0.06 0.052 0.121 0.104 0.181 0.155 0.89 0.763 1.407 1.873 1.417 3.045 0.011 1.172-0.486 2.291-1.362 3.07l-0.355 0.315c1.627-0.909 3.615-0.89 5.225 0.051 1.613 0.944 2.605 2.673 2.605 4.542v6e-3c0 1.869-0.992 3.598-2.605 4.542-1.61 0.941-3.598 0.96-5.225 0.051z" fill="#fff"/><path d="m6 8 5-3" fill="none" stroke="#fff" stroke-width="3px"/></g></g></svg>

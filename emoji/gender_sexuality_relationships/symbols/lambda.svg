@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
 <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/" xmlns:xlink="http://www.w3.org/1999/xlink">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+
     <rect id="lambda" width="32" height="32" fill="none"/>
     <g id="outline">
         <path id="stroooke" d="m28.414 27.414c-1.243 1.312-2.285 2.299-4.231 2.509-2.477 0.267-4.955-0.943-5.995-3.641-0.976-2.531-1.882-5.08-2.775-7.635l-5.677 11.353h-4.472v-2l7.897-15.793c-0.365-1.026-0.734-2.051-1.113-3.074-0.39-1.055-1.863-1.411-2.728-0.567l-0.906 0.905-2.828-2.828v-2c1.618-1.748 2.916-2.551 4.988-2.551 2.431 0 4.415 1.546 5.238 3.683 2.092 5.7 4.073 11.496 6.14 17.15 0.487 1.152 1.903 1.352 2.728 0.566l0.906-0.905 2.828 2.828v2z" fill="none" stroke="#000" stroke-width="4px"/>

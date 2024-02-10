@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.4142" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <clipPath id="a">
-  <path d="m0 0h32v32h-32z" clip-rule="evenodd"/>
- </clipPath>
- <path d="m0 0h32v32h-32z" fill="none"/>
- <g clip-path="url(#a)">
-  <path d="m32 8c0-4.418-3.582-8-8-8h-16c-4.418 0-8 3.582-8 8v16c0 4.418 3.582 8 8 8h16c4.418 0 8-3.582 8-8v-16z"/>
-  <path d="m30 20h-28v4c0 3.314 2.686 6 6 6h16c3.314 0 6-2.686 6-6v-4z" fill="#b2b2b2"/>
-  <path d="m30 8c0-3.314-2.686-6-6-6h-16c-1.591 0-3.117 0.632-4.243 1.757-1.125 1.126-1.757 2.652-1.757 4.243v12c0 3.314 2.686 6 6 6h16c1.591 0 3.117-0.632 4.243-1.757 1.125-1.126 1.757-2.652 1.757-4.243v-12z" fill="#fff"/>
-  <path d="m15.988 22.771c-1.856 0-3.302-.456-4.337-1.367-1.034-.912-1.552-2.181-1.552-3.807v-.493c0-1.248.411-2.595 1.232-4.04l4.386-7.564h3.498l-4.04 6.972c.46-.229 1.059-.344 1.798-.344 1.478 0 2.669.439 3.573 1.318.903.878 1.355 2.057 1.355 3.535v.518c0 1.642-.534 2.931-1.602 3.868-1.067.936-2.505 1.404-4.311 1.404zm0-2.735c.837 0 1.494-.213 1.971-.64.476-.427.714-1.019.714-1.774v-.444c0-.755-.238-1.338-.714-1.749-.477-.411-1.134-.616-1.971-.616-.838 0-1.491.205-1.959.616s-.702.985-.702 1.725v.468c0 .755.234 1.347.702 1.774s1.121.64 1.959.64z" fill="#333" fill-rule="nonzero"/>
- </g>
-</svg>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.4142" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+<rect id="_6" width="32" height="32" fill="none" serif:id="6"/><clipPath id="_clip1"><rect width="32" height="32"/></clipPath><g clip-path="url(#_clip1)"><g id="outline"><path d="m32 8c0-4.418-3.582-8-8-8h-16c-4.418 0-8 3.582-8 8v16c0 4.418 3.582 8 8 8h16c4.418 0 8-3.582 8-8v-16z"/></g><g id="emoji"><path d="m30 20h-28v4c0 3.314 2.686 6 6 6h16c3.314 0 6-2.686 6-6v-4z" fill="#b2b2b2"/><path d="m30 8c0-3.314-2.686-6-6-6h-16c-1.591 0-3.117 0.632-4.243 1.757-1.125 1.126-1.757 2.652-1.757 4.243v12c0 3.314 2.686 6 6 6h16c1.591 0 3.117-0.632 4.243-1.757 1.125-1.126 1.757-2.652 1.757-4.243v-12z" fill="#fff"/><path d="m15.988 22.771c-1.856 0-3.302-0.456-4.337-1.367-1.034-0.912-1.552-2.181-1.552-3.807v-0.493c0-1.248 0.411-2.595 1.232-4.04l4.386-7.564h3.498l-4.04 6.972c0.46-0.229 1.059-0.344 1.798-0.344 1.478 0 2.669 0.439 3.573 1.318 0.903 0.878 1.355 2.057 1.355 3.535v0.518c0 1.642-0.534 2.931-1.602 3.868-1.067 0.936-2.505 1.404-4.311 1.404zm0-2.735c0.837 0 1.494-0.213 1.971-0.64 0.476-0.427 0.714-1.019 0.714-1.774v-0.444c0-0.755-0.238-1.338-0.714-1.749-0.477-0.411-1.134-0.616-1.971-0.616-0.838 0-1.491 0.205-1.959 0.616s-0.702 0.985-0.702 1.725v0.468c0 0.755 0.234 1.347 0.702 1.774s1.121 0.64 1.959 0.64z" fill="#333" fill-rule="nonzero"/></g></g></svg>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="3" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+
+    <rect id="_1f634_asleep" width="32" height="32" fill="none" serif:id="1f634_asleep"/>
+    <clipPath id="_clip1">
+        <rect width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <path d="m24.961 9c2.927 2.168 5.039 5.455 5.039 9.679 0 6.34-5.9 11.321-14 11.321s-14-4.981-14-11.321c0-7.618 6.867-12.188 13-12.642v-1.037h7v2.294c0.338 0.147 0.672 0.307 1 0.479v-5.773h7v7h-5.039z" fill="none" stroke="#000" stroke-width="4px"/>
+        <path d="m24.961 9c2.927 2.168 5.039 5.455 5.039 9.679 0 6.34-5.9 11.321-14 11.321s-14-4.981-14-11.321c0-7.618 6.867-12.188 13-12.642v-1.037h7v2.294c0.338 0.147 0.672 0.307 1 0.479v-5.773h7v7h-5.039z"/>
+        <path d="m27.131 11c1.745 2.014 2.869 4.597 2.869 7.679-0 6.34-5.9 11.321-14 11.321s-14-4.981-14-11.321c-0-6.797 5.466-11.167 11-12.352l14.131 4.673z" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="4px"/>
+        <path d="m27.131 11c1.745 2.014 2.869 4.597 2.869 7.679-0 6.34-5.9 11.321-14 11.321s-14-4.981-14-11.321c-0-6.797 5.466-11.167 11-12.352l14.131 4.673z" fill="#ffb636"/>
+        <path d="m27.131 11h-3.131v1c-0 1.105-0.895 2-2 2h-7c-1.105 0-2-0.895-2-2v-5.673c1.009-0.217 2.02-0.327 3-0.327 3.92 0 8.327 1.764 11.131 5z" fill="#694300"/>
+        <path d="m13 19c-2.293 1.49-4.626 1.834-7 1" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="2px"/>
+        <path d="m19 19c2.293 1.49 4.626 1.834 7 1" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="2px"/>
+        <path d="m18.415 26.783c0.368-0.497 0.585-1.113 0.585-1.779v-4e-3c-0-1.654-1.341-2.996-2.996-2.996h-8e-3c-1.655 0-2.996 1.342-2.996 2.996v4e-3c0 0.666 0.217 1.282 0.585 1.779 0.536-0.486 4.294-0.486 4.83 0z"/>
+        <path d="m13.585 26.783c0.546 0.738 1.423 1.217 2.411 1.217h8e-3c0.988 0 1.865-0.479 2.411-1.217-0.536-0.486-1.246-0.779-2.017-0.779h-0.796c-0.771 0-1.481 0.293-2.017 0.779z" fill="#c33700"/>
+        <rect x="23" y="2" width="7" height="7" fill="none"/>
+        <clipPath id="_clip2">
+            <rect x="23" y="2" width="7" height="7"/>
+        </clipPath>
+        <g clip-path="url(#_clip2)">
+            <path d="m24 3h5l-5 5h5" fill="none" stroke="#7bc3ff" stroke-linejoin="miter" stroke-width="2.5px"/>
+        </g>
+        <rect x="15" y="5" width="7" height="7" fill="none"/>
+        <clipPath id="_clip3">
+            <rect x="15" y="5" width="7" height="7"/>
+        </clipPath>
+        <g clip-path="url(#_clip3)">
+            <path d="m16 6h5l-5 5h5" fill="none" stroke="#7bc3ff" stroke-linejoin="miter" stroke-width="2.5px"/>
+        </g>
+    </g>
+</svg>

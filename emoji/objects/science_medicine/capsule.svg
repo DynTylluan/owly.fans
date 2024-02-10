@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <path d="m0 0h32v32h-32z" fill="none"/>
- <path d="m26.999 4.999c-3.313-3.313-8.685-3.313-11.998 0l-10.002 10.002c-3.313 3.313-3.313 8.685 0 11.998l2e-3 2e-3c3.313 3.313 8.685 3.313 11.998 0l10.002-10.002c3.313-3.313 3.313-8.685 0-11.998l-2e-3 -2e-3z" fill="none" stroke="#000" stroke-width="4"/>
- <path d="m4.999 15.001 7-7c-3.313 3.313 8.687 15.313 12 12l-7 7c-3.313 3.313-8.685 3.313-11.998 0l-2e-3 -2e-3c-3.313-3.313-3.313-8.685 0-11.998z" fill="#30bcdb"/>
- <path d="m15.001 4.999c3.313-3.313 8.685-3.313 11.998 0l2e-3 2e-3c3.313 3.313 3.313 8.685 0 11.998l-3.002 3.002c-3.313 3.313-8.685 3.313-11.998 0l-2e-3 -2e-3c-3.313-3.313-3.313-8.685 0-11.998z" fill="#feef24"/>
- <circle cx="21" cy="7" r="3" fill="#fff"/>
-</svg>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+<rect id="capsule" width="32" height="32" fill="none"/><g id="outline"><path d="m26.999 4.999c-3.313-3.313-8.685-3.313-11.998 0l-10.002 10.002c-3.313 3.313-3.313 8.685 0 11.998l2e-3 2e-3c3.313 3.313 8.685 3.313 11.998 0l10.002-10.002c3.313-3.313 3.313-8.685 0-11.998l-2e-3 -2e-3z" fill="none" stroke="#000" stroke-width="4px"/></g><g id="emoji"><path d="m4.999 15.001 7-7c-3.313 3.313 8.687 15.313 12 12l-7 7c-3.313 3.313-8.685 3.313-11.998 0l-2e-3 -2e-3c-3.313-3.313-3.313-8.685 0-11.998z" fill="#30bcdb"/><path d="m15.001 4.999c3.313-3.313 8.685-3.313 11.998 0l2e-3 2e-3c3.313 3.313 3.313 8.685 0 11.998l-3.002 3.002c-3.313 3.313-8.685 3.313-11.998 0l-2e-3 -2e-3c-3.313-3.313-3.313-8.685 0-11.998l3.002-3.002z" fill="#feef24"/><circle cx="21" cy="7" r="3" fill="#fff"/></g></svg>

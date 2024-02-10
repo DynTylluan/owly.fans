@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-miterlimit="1.5" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <clipPath id="a">
-  <path d="m0 0h32v32h-32z" clip-rule="evenodd"/>
- </clipPath>
- <path d="m0 0h32v32h-32z" fill="none"/>
- <g clip-path="url(#a)">
-  <path d="m14 23h4v7h-4z" fill="none" stroke="#000" stroke-width="4"/>
-  <path d="m18 6v-3c0-.552.448-1 1-1h4c.265 0 .52.105.707.293.188.187.293.442.293.707v2c0 .552-.448 1-1 1 3.866 0 7 3.134 7 7v11h-28v-11c0-3.866 3.134-7 7-7z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="4"/>
-  <path d="m14 20h4v10h-4z" fill="#595959"/>
-  <path d="m30 13c0-1.857-0.738-3.637-2.05-4.95-1.313-1.313-3.094-2.05-4.95-2.05h-14l7 18h14z" fill="#b9b9b9"/>
-  <path d="m16 13c0-3.866-3.134-7-7-7s-7 3.134-7 7v11h14z" fill="#fff"/>
-  <path d="m18 16h3v-10h2c0.552 0 1-0.448 1-1v-2c0-0.265-0.105-0.52-0.293-0.707-0.187-0.188-0.442-0.293-0.707-0.293h-4c-0.552 0-1 0.448-1 1z" fill="#e02a33"/>
- </g>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-miterlimit="1.5" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+
+    <rect id="closed_mailbox" width="32" height="32" fill="none"/>
+    <clipPath id="_clip1">
+        <rect width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="outline" fill="none" stroke="#000" stroke-width="4px">
+            <rect x="14" y="23" width="4" height="7"/>
+            <path d="m18 6v-3c0-0.552 0.448-1 1-1h4c0.265-0 0.52 0.105 0.707 0.293 0.188 0.187 0.293 0.442 0.293 0.707v2c-0 0.552-0.448 1-1 1 3.866 0 7 3.134 7 7v11h-28v-11c0-3.866 3.134-7 7-7h9z" stroke-linejoin="round"/>
+        </g>
+        <g id="emoji">
+            <rect id="_-Rectangle-" x="14" y="20" width="4" height="10" fill="#595959" serif:id="(Rectangle)"/>
+            <path d="m30 13c-0-1.857-0.738-3.637-2.05-4.95-1.313-1.313-3.094-2.05-4.95-2.05h-14l7 18h14v-11z" fill="#b9b9b9"/>
+            <path d="m16 13c-0-3.866-3.134-7-7-7s-7 3.134-7 7v11h14v-11z" fill="#fff"/>
+            <path d="m18 16h3v-10h2c0.552-0 1-0.448 1-1v-2c-0-0.265-0.105-0.52-0.293-0.707-0.187-0.188-0.442-0.293-0.707-0.293h-4c-0.552-0-1 0.448-1 1v13z" fill="#e02a33"/>
+        </g>
+    </g>
 </svg>

@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.4142" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <path d="m0 0h32v32h-32z" fill="none"/>
- <circle cx="16" cy="16" r="16"/>
- <circle cx="16" cy="16" r="14" fill="#e8272e"/>
- <path d="m11.406 9.869h2.215v1.83c-.462 1.297-.995 2.433-1.598 3.409 1.078 1.207 1.958 2.267 2.638 3.178l-1.367 1.214c-.501-.681-1.13-1.47-1.888-2.369v7.184h-1.984v-6.24c-.59.616-1.271 1.174-2.041 1.675l-.655-2.061c2.285-1.553 3.903-3.55 4.854-5.99h-4.353v-1.83h2.195v-2.889h1.984zm4.565 5.74h-1.772v-8.051h10.054v8.051h-2.927v5.721c0 .385.038.61.115.674s.36.096.848.096c.398 0 .648-.07.751-.212.18-.231.289-1.11.327-2.639.013-.295.026-.757.039-1.386l1.868.154c-.077 2.465-.186 3.98-.327 4.545-.167.617-.488.996-.963 1.137-.296.09-.873.135-1.734.135-1.297 0-2.102-.119-2.417-.357-.315-.237-.472-.825-.472-1.762v-6.106h-1.425c-.077 2.209-.491 3.971-1.243 5.287-.751 1.316-1.942 2.392-3.573 3.227l-1.271-1.58c1.438-.745 2.462-1.624 3.072-2.639.61-1.014.96-2.446 1.05-4.295zm.251-1.695h5.97v-4.622h-5.97z" fill="#fff" fill-rule="nonzero"/>
-</svg>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.4142" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+<rect id="congratulations" width="32" height="32" fill="none"/><g id="outline"><circle cx="16" cy="16" r="16"/></g><g id="emoji"><circle cx="16" cy="16" r="14" fill="#e8272e"/><path d="m11.406 9.869h2.215v1.83c-0.462 1.297-0.995 2.433-1.598 3.409 1.078 1.207 1.958 2.267 2.638 3.178l-1.367 1.214c-0.501-0.681-1.13-1.47-1.888-2.369v7.184h-1.984v-6.24c-0.59 0.616-1.271 1.174-2.041 1.675l-0.655-2.061c2.285-1.553 3.903-3.55 4.854-5.99h-4.353v-1.83h2.195v-2.889h1.984v2.889zm4.565 5.74h-1.772v-8.051h10.054v8.051h-2.927v5.721c0 0.385 0.038 0.61 0.115 0.674s0.36 0.096 0.848 0.096c0.398 0 0.648-0.07 0.751-0.212 0.18-0.231 0.289-1.11 0.327-2.639 0.013-0.295 0.026-0.757 0.039-1.386l1.868 0.154c-0.077 2.465-0.186 3.98-0.327 4.545-0.167 0.617-0.488 0.996-0.963 1.137-0.296 0.09-0.873 0.135-1.734 0.135-1.297 0-2.102-0.119-2.417-0.357-0.315-0.237-0.472-0.825-0.472-1.762v-6.106h-1.425c-0.077 2.209-0.491 3.971-1.243 5.287-0.751 1.316-1.942 2.392-3.573 3.227l-1.271-1.58c1.438-0.745 2.462-1.624 3.072-2.639 0.61-1.014 0.96-2.446 1.05-4.295zm0.251-1.695h5.97v-4.622h-5.97v4.622z" fill="#fff" fill-rule="nonzero"/></g></svg>

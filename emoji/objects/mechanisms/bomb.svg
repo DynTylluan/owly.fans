@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <path d="m0 0h32v32h-32z" fill="none"/>
- <circle cx="12" cy="20" r="12"/>
- <g fill="none">
-  <path d="m16 11 2-2 5 5-2 2z" stroke="#000" stroke-width="4"/>
-  <path d="m22.5 5.5v-3.5l2.5 2 2.5-2v3.5l2.5 1.5-2.5 1.5v3.5l-2.5-2-2.5 2v-3.5l-2.5-1.5z" stroke="#000" stroke-width="4"/>
-  <path d="m16 16 10-10" stroke="#000" stroke-width="6"/>
-  <path d="m16 16 10-10" stroke="#808080" stroke-width="2"/>
- </g>
- <path d="m16 11 2-2 5 5-2 2z" fill="#333"/>
- <path d="m22.5 5.5v-3.5l2.5 2 2.5-2v3.5l2.5 1.5-2.5 1.5v3.5l-2.5-2-2.5 2v-3.5l-2.5-1.5z" fill="#ffe2be"/>
- <path d="m27.5 5.5 2.5 1.5-2.5 1.5v3.5l-2.5-2-2.5 2v-3.5l-2.5-1.5 2.5-1.5v-3.5l2.5 2 2.5-2zm-2.5-.219-1.5-1.2v1.985l-1.556.934 1.556.934v1.985l1.5-1.2 1.5 1.2v-1.985l1.556-.934-1.556-.934v-1.985z" fill="#ffa32b"/>
- <circle cx="11.923" cy="20.077" r="10.077" fill="#404040"/>
- <circle cx="10" cy="18" r="6" fill="#5b5b5b"/>
-</svg>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+<rect id="bomb" width="32" height="32" fill="none"/><g id="outline"><circle cx="12" cy="20" r="12"/><path d="m16 11 2-2 5 5-2 2-5-5z" fill="none" stroke="#000" stroke-width="4px"/><path d="m22.5 5.5v-3.5l2.5 2 2.5-2v3.5l2.5 1.5-2.5 1.5v3.5l-2.5-2-2.5 2v-3.5l-2.5-1.5 2.5-1.5z" fill="none" stroke="#000" stroke-width="4px"/><path d="m16 16 10-10" fill="none" stroke="#000" stroke-width="6px"/></g><g id="emoji"><path d="m16 16 10-10" fill="none" stroke="#808080" stroke-width="2px"/><path d="m16 11 2-2 5 5-2 2-5-5z" fill="#333"/><path d="m22.5 5.5v-3.5l2.5 2 2.5-2v3.5l2.5 1.5-2.5 1.5v3.5l-2.5-2-2.5 2v-3.5l-2.5-1.5 2.5-1.5z" fill="#ffe2be"/><path d="m27.5 5.5 2.5 1.5-2.5 1.5v3.5l-2.5-2-2.5 2v-3.5l-2.5-1.5 2.5-1.5v-3.5l2.5 2 2.5-2v3.5zm-2.5-0.219-1.5-1.2v1.985l-1.556 0.934 1.556 0.934v1.985l1.5-1.2 1.5 1.2v-1.985l1.556-0.934-1.556-0.934v-1.985l-1.5 1.2z" fill="#ffa32b"/><circle cx="11.923" cy="20.077" r="10.077" fill="#404040"/><circle cx="10" cy="18" r="6" fill="#5b5b5b"/></g></svg>

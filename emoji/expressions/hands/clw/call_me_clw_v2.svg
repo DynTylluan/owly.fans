@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+
+    <rect id="call_me--clw-" width="32" height="32" fill="none" serif:id="call_me [clw]"/>
+    <clipPath id="_clip1">
+        <rect width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="outline">
+            <path d="m10 7.528v-9.356l6.287 6.287c1.097 1.096 1.713 2.584 1.713 4.135 0 0.578-0.134 1.147-0.393 1.663l-0.371 0.743h4.764c2.209 0 4 1.791 4 4 0 0.729-0.195 1.412-0.536 2 0.341 0.588 0.536 1.271 0.536 2s-0.195 1.412-0.536 2c0.341 0.588 0.536 1.271 0.536 2 0 0.726-0.193 1.406-0.532 1.992l4.693 1.667c-1.662 1.26-3.323 2.52-4.985 3.779-1.083 0.82-2.497 1.013-3.773 0.575l-5.583-2.013h-9.82c-2.209 0-4-1.791-4-4v-8c0-2.209 1.791-4 4-4h1.264l2.736-5.472z"/>
+        </g>
+        <g id="emoji">
+            <path d="m12 15h-6c-1.105 0-2 0.895-2 2v8c0 1.105 0.895 2 2 2h5l1-1v-11z" fill="#7B24CC"/>
+            <path d="m14.427 10.754v1.326c0 0.552 0.639 0.92 1.191 0.92h6.382c1.105 0 2 0.895 2 2s-0.895 2-2 2c1.105 0 2 0.895 2 2s-0.895 2-2 2c1.105 0 2 0.895 2 2s-0.895 2-2 2h-2.484l6.484 2.304s-1.178 0.893-2.032 1.54c-0.54 0.409-1.25 0.517-1.887 0.288l-5.912-2.132h-5.144c-0.803 0-1.572-0.319-2.139-0.886s-0.886-1.336-0.886-2.139v-6.253c0-1.133 0.264-2.249 0.77-3.262l1.73-3.46 0.5-0.246h3.427zm0.573-0.583h-3.784l-0.216-0.171 1-2 0.283-0.278h3.217l0.454 0.278c0.03 0.195 0.046 0.394 0.046 0.594 0 0.267-0.062 0.53-0.181 0.769l-0.319 0.637-0.5 0.171zm0.5-2.864h-3.217l-0.283-0.307v-4l2.873 2.873c0.329 0.329 0.592 0.711 0.781 1.127l-0.154 0.307z" fill="#925ADB"/>
+            <path d="m15.5 10-0.776 1.553c-0.155 0.31-0.139 0.678 0.043 0.973 0.183 0.295 0.504 0.474 0.851 0.474h-1.618c-0.552 0-1-0.448-1-1 0-0.265 0.105-0.52 0.293-0.707 0.187-0.188 0.442-0.293 0.707-0.293h-3.5l0.5-1h4.5zm0.154-3c0.145 0.317 0.246 0.653 0.3 1h-3.954v-1h3.654z" fill="#7B24CC"/>
+        </g>
+    </g>
+</svg>

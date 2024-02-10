@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+
+    <rect id="_1f611_expressionless" width="32" height="32" fill="none" serif:id="1f611_expressionless"/>
+    <clipPath id="_clip1">
+        <rect width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <path d="m16 30c-8.1 0-14-4.312-14-10.875 0-3.387 1.356-6.541 4.111-9.216 2.683-2.604 6.618-3.909 9.889-3.909s7.206 1.305 9.889 3.909c2.755 2.675 4.111 5.829 4.111 9.216 0 6.563-5.9 10.875-14 10.875z" fill="none" stroke="#000" stroke-width="4px"/>
+        <path d="m16 30c-8.1 0-14-4.312-14-10.875 0-3.387 1.356-6.541 4.111-9.216 2.683-2.604 6.618-3.909 9.889-3.909s7.206 1.305 9.889 3.909c2.755 2.675 4.111 5.829 4.111 9.216 0 6.563-5.9 10.875-14 10.875z" fill="#ffb636"/>
+        <path d="m12.122 23.004h7.878" fill="none" stroke="#694300" stroke-width="2px"/>
+        <path d="m13 17s-0.242 0.182-0.607 0.455c-1.947 1.46-4.671 1.267-6.392-0.454l-1e-3 -1e-3" fill="none" stroke="#000" stroke-width="2px"/>
+        <path d="m19 17s0.242 0.182 0.607 0.455c1.947 1.46 4.671 1.267 6.392-0.454l1e-3 -1e-3" fill="none" stroke="#000" stroke-width="2px"/>
+    </g>
+</svg>

@@ -1,32 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <clipPath id="a">
-  <path d="m2 7h28v15h-28z" clip-rule="evenodd"/>
- </clipPath>
- <clipPath id="b">
-  <path d="m3 8h8v7h-8z" clip-rule="evenodd"/>
- </clipPath>
- <path d="m0 0h32v32h-32z" fill="none"/>
- <path d="m2 7h28v18h-28z" fill="none" stroke="#000" stroke-width="4"/>
- <path d="m29 21h-26l-1 1v3h28v-3z" fill="#e46493"/>
- <path d="m2 7h28v15h-28z" fill="#f59aba"/>
- <g clip-path="url(#a)" fill="none" stroke="#facdde" stroke-linecap="butt" stroke-linejoin="miter">
-  <path d="m31 11s-2.975.992-4.735 1.578c-.821.274-1.709.274-2.53 0-1.021-.34-2.449-.816-3.47-1.156-.821-.274-1.709-.274-2.53 0-1.021.34-2.449.816-3.47 1.156-.821.274-1.709.274-2.53 0-.819-.273-1.735-.578-1.735-.578"/>
-  <path d="m31 14s-2.975.992-4.735 1.578c-.821.274-1.709.274-2.53 0-1.021-.34-2.449-.816-3.47-1.156-.821-.274-1.709-.274-2.53 0-1.021.34-2.449.816-3.47 1.156-.821.274-1.709.274-2.53 0-.819-.273-1.735-.578-1.735-.578"/>
-  <path d="m31 8s-2.975.992-4.735 1.578c-.821.274-1.709.274-2.53 0-1.021-.34-2.449-.816-3.47-1.156-.821-.274-1.709-.274-2.53 0-1.021.34-2.449.816-3.47 1.156-.821.274-1.709.274-2.53 0-.819-.273-1.735-.578-1.735-.578"/>
- </g>
- <g fill="#f16d9e">
-  <path d="m9 19c0-0.552-0.448-1-1-1h-3c-0.552 0-1 0.448-1 1v1c0 0.552 0.448 1 1 1h3c0.552 0 1-0.448 1-1v-1z"/>
-  <path d="m29 18c0-0.552-0.448-1-1-1s-1 0.448-1 1v2c0 0.552 0.448 1 1 1s1-0.448 1-1v-2z"/>
-  <path d="m26 18c0-0.552-0.448-1-1-1s-1 0.448-1 1v2c0 0.552 0.448 1 1 1s1-0.448 1-1v-2z"/>
-  <path d="m23 18c0-0.552-0.448-1-1-1s-1 0.448-1 1v2c0 0.552 0.448 1 1 1s1-0.448 1-1v-2z"/>
- </g>
- <path d="m3 8h8v7h-8z" fill="none"/>
- <g clip-path="url(#b)" fill="#fff">
-  <path d="m11 11h-8v-1h8z"/>
-  <path d="m11 13h-8v-1h8z"/>
-  <path d="m10 7.335v7.665h-1v-4.5l-1.771 4.25h-.458l-1.771-4.25v4.5h-1v-7.665l.706-.141 2.294 5.506 2.294-5.506z"/>
- </g>
- <path d="m20 22-1-1h-6l-1 1v3h8z" fill="#d9d9d9"/>
- <path d="m12 7h8v15h-8z" fill="#fff"/>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+
+    <rect id="pink_money" width="32" height="32" fill="none"/>
+    <g id="outline">
+        <rect x="2" y="7" width="28" height="18" fill="none" stroke="#000" stroke-width="4px"/>
+    </g>
+    <g id="emoji">
+        <path d="m29 21h-26l-1 1v3h28v-3l-1-1z" fill="#e46493"/>
+        <rect x="2" y="7" width="28" height="15" fill="#f59aba"/>
+        <clipPath id="_clip1">
+            <rect x="2" y="7" width="28" height="15"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g fill="none" stroke="#facdde" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1px">
+                <path d="m31 11s-2.975 0.992-4.735 1.578c-0.821 0.274-1.709 0.274-2.53 0-1.021-0.34-2.449-0.816-3.47-1.156-0.821-0.274-1.709-0.274-2.53 0-1.021 0.34-2.449 0.816-3.47 1.156-0.821 0.274-1.709 0.274-2.53 0-0.819-0.273-1.735-0.578-1.735-0.578"/>
+                <path d="m31 14s-2.975 0.992-4.735 1.578c-0.821 0.274-1.709 0.274-2.53 0-1.021-0.34-2.449-0.816-3.47-1.156-0.821-0.274-1.709-0.274-2.53 0-1.021 0.34-2.449 0.816-3.47 1.156-0.821 0.274-1.709 0.274-2.53 0-0.819-0.273-1.735-0.578-1.735-0.578"/>
+                <path d="m31 8s-2.975 0.992-4.735 1.578c-0.821 0.274-1.709 0.274-2.53 0-1.021-0.34-2.449-0.816-3.47-1.156-0.821-0.274-1.709-0.274-2.53 0-1.021 0.34-2.449 0.816-3.47 1.156-0.821 0.274-1.709 0.274-2.53 0-0.819-0.273-1.735-0.578-1.735-0.578"/>
+            </g>
+        </g>
+        <g fill="#f16d9e">
+            <path d="m9 19c0-0.552-0.448-1-1-1h-3c-0.552 0-1 0.448-1 1v1c0 0.552 0.448 1 1 1h3c0.552 0 1-0.448 1-1v-1z"/>
+            <path d="m29 18c0-0.552-0.448-1-1-1s-1 0.448-1 1v2c0 0.552 0.448 1 1 1s1-0.448 1-1v-2z"/>
+            <path d="m26 18c0-0.552-0.448-1-1-1s-1 0.448-1 1v2c0 0.552 0.448 1 1 1s1-0.448 1-1v-2z"/>
+            <path d="m23 18c0-0.552-0.448-1-1-1s-1 0.448-1 1v2c0 0.552 0.448 1 1 1s1-0.448 1-1v-2z"/>
+        </g>
+        <rect x="3" y="8" width="8" height="7" fill="none"/>
+        <clipPath id="_clip2">
+            <rect x="3" y="8" width="8" height="7"/>
+        </clipPath>
+        <g clip-path="url(#_clip2)" fill="#fff">
+            <path d="m11 11h-8v-1h8v1z"/>
+            <path d="m11 13h-8v-1h8v1z"/>
+            <path d="m10 7.335v7.665h-1v-4.5l-1.771 4.25h-0.458l-1.771-4.25v4.5h-1v-7.665l0.706-0.141 2.294 5.506 2.294-5.506 0.706 0.141z"/>
+        </g>
+        <path d="m20 22-1-1h-6l-1 1v3h8v-3z" fill="#d9d9d9"/>
+        <rect x="12" y="7" width="8" height="15" fill="#fff"/>
+    </g>
 </svg>

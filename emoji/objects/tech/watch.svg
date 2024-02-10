@@ -1,17 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <clipPath id="a">
-  <path d="m0 0h32v32h-32z" clip-rule="evenodd"/>
- </clipPath>
- <path d="m0 0h32v32h-32z" fill="none"/>
- <g clip-path="url(#a)">
-  <path d="m27 8c0-1.061-0.421-2.078-1.172-2.828-0.75-0.751-1.767-1.172-2.828-1.172h-14c-1.061 0-2.078 0.421-2.828 1.172-0.751 0.75-1.172 1.767-1.172 2.828v16c0 1.061 0.421 2.078 1.172 2.828 0.75 0.751 1.767 1.172 2.828 1.172h14c1.061 0 2.078-0.421 2.828-1.172 0.751-0.75 1.172-1.767 1.172-2.828v-16z"/>
-  <path d="m23 2c0-1.105-0.895-2-2-2h-10c-1.105 0-2 0.895-2 2v28c0 1.105 0.895 2 2 2h10c1.105 0 2-0.895 2-2v-28z"/>
-  <path d="m27 15c0-0.552-0.448-1-1-1h-3v4h3c0.552 0 1-0.448 1-1v-2z" fill="none" stroke="#000" stroke-width="4"/>
-  <path d="m11 2h10v28h-10z" fill="#4c4c4c"/>
-  <path d="m27 15c0-0.552-0.448-1-1-1h-3v4h3c0.552 0 1-0.448 1-1v-2z" fill="#5a5a5a"/>
-  <path d="m25 8c0-0.53-0.211-1.039-0.586-1.414s-0.884-0.586-1.414-0.586h-14c-0.53 0-1.039 0.211-1.414 0.586s-0.586 0.884-0.586 1.414v16c0 0.53 0.211 1.039 0.586 1.414s0.884 0.586 1.414 0.586h14c0.53 0 1.039-0.211 1.414-0.586s0.586-0.884 0.586-1.414v-16z" fill="#2f2f2f"/>
-  <path d="m9 8h14v16h-14z"/>
-  <path d="m16 10v6h4" fill="none" stroke="#fff" stroke-linecap="butt" stroke-miterlimit="1.5" stroke-width="2"/>
- </g>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+
+    <rect id="watch" width="32" height="32" fill="none"/>
+    <clipPath id="_clip1">
+        <rect width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="outline">
+            <path d="m9 4.341v-1.341c-0-1.657 1.343-3 3-3h8c1.657 0 3 1.343 3 3v1.341c1.819 0.643 3.235 2.138 3.769 4.005 0.18 0.106 0.348 0.236 0.499 0.386 0.469 0.469 0.732 1.105 0.732 1.768v3c0 0.663-0.263 1.299-0.732 1.768-0.084 0.084-0.174 0.161-0.268 0.232v6.5c-0 2.612-1.67 4.835-4 5.659v1.341c0 1.657-1.343 3-3 3h-8c-1.657-0-3-1.343-3-3v-1.341c-2.33-0.824-4-3.047-4-5.659v-12c0-2.612 1.67-4.835 4-5.659z"/>
+        </g>
+        <g id="emoji">
+            <path d="m21 3c-0-0.552-0.448-1-1-1h-8c-0.552 0-1 0.448-1 1v26c0 0.552 0.448 1 1 1h8c0.552-0 1-0.448 1-1v-26z" fill="#737373"/>
+            <path d="m26 10.5c0-0.133-0.053-0.26-0.146-0.354-0.094-0.093-0.221-0.146-0.354-0.146h-3.5v4h3.5c0.133 0 0.26-0.053 0.354-0.146 0.093-0.094 0.146-0.221 0.146-0.354v-3z" fill="#ccc"/>
+            <path d="m25 10c0-1.061-0.421-2.078-1.172-2.828-0.75-0.751-1.767-1.172-2.828-1.172h-10c-1.061-0-2.078 0.421-2.828 1.172-0.751 0.75-1.172 1.767-1.172 2.828v12c-0 1.061 0.421 2.078 1.172 2.828 0.75 0.751 1.767 1.172 2.828 1.172h10c1.061 0 2.078-0.421 2.828-1.172 0.751-0.75 1.172-1.767 1.172-2.828v-12z" fill="#e6e6e6"/>
+            <path d="m24 10c0-0.796-0.316-1.559-0.879-2.121-0.562-0.563-1.325-0.879-2.121-0.879h-10c-0.796-0-1.559 0.316-2.121 0.879-0.563 0.562-0.879 1.325-0.879 2.121v12c-0 0.796 0.316 1.559 0.879 2.121 0.562 0.563 1.325 0.879 2.121 0.879h10c0.796 0 1.559-0.316 2.121-0.879 0.563-0.562 0.879-1.325 0.879-2.121v-12z"/>
+            <path d="m15.25 10h1.5v5.25h3.25v1.5h-4.75v-6.75z" fill="#fff"/>
+        </g>
+    </g>
 </svg>

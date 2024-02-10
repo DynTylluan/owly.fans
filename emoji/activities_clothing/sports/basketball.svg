@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
- <clipPath id="a">
-  <path d="m0 0h32v32h-32z" clip-rule="evenodd"/>
- </clipPath>
- <clipPath id="b">
-  <circle cx="16" cy="16" r="14" clip-rule="evenodd"/>
- </clipPath>
- <path d="m0 0h32v32h-32z" fill="none"/>
- <g clip-path="url(#a)">
-  <path d="m0 16c0-8.831 7.169-16 16-16s16 7.169 16 16-7.169 16-16 16-16-7.169-16-16z"/>
-  <circle cx="16" cy="16" r="14" fill="#e86932"/>
-  <g clip-path="url(#b)">
-   <path d="m4.378 4.378c5.02-5.019 11.229-6.96 13.858-4.331 2.63 2.629.689 8.839-4.331 13.858-5.019 5.02-11.229 6.961-13.858 4.331-2.629-2.629-.688-8.838 4.331-13.858z" fill="#ff8f44"/>
-   <g fill="none" stroke="#81310e" stroke-width="2">
-    <path d="m16 31v-30"/>
-    <path d="m31 16h-30"/>
-    <path d="m31 24s-12-1.896-12-8 12-8 12-8"/>
-    <path d="m1 24s12-1.896 12-8-12-8-12-8"/>
-   </g>
-  </g>
- </g>
-</svg>
+<!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" version="1.1" viewBox="0 0 32 32" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<metadata>
+<rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+     <rdf:Description rdf:about="">
+       <dc:title>Mutant Standard emoji 2023.12</dc:title>
+     </rdf:Description>
+
+    <cc:work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
+        <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
+    </cc:work>
+
+</rdf:RDF>
+</metadata>
+<rect id="basketball" width="32" height="32" fill="none"/><clipPath id="_clip1"><rect width="32" height="32"/></clipPath><g clip-path="url(#_clip1)"><g id="outline"><path d="m0 16c0-8.831 7.169-16 16-16s16 7.169 16 16-7.169 16-16 16-16-7.169-16-16z"/></g><g id="emoji"><circle cx="16" cy="16" r="14" fill="#e86932"/><clipPath id="_clip2"><circle cx="16" cy="16" r="14"/></clipPath><g clip-path="url(#_clip2)"><path d="m4.378 4.378c5.02-5.019 11.229-6.96 13.858-4.331 2.63 2.629 0.689 8.839-4.331 13.858-5.019 5.02-11.229 6.961-13.858 4.331-2.629-2.629-0.688-8.838 4.331-13.858z" fill="#ff8f44"/><path d="m16 31v-30" fill="none" stroke="#81310e" stroke-width="2px"/><path d="m31 16h-30" fill="none" stroke="#81310e" stroke-width="2px"/><path d="m31 24s-12-1.896-12-8 12-8 12-8" fill="none" stroke="#81310e" stroke-width="2px"/><path d="m1 24s12-1.896 12-8-12-8-12-8" fill="none" stroke="#81310e" stroke-width="2px"/></g></g></g></svg>
