@@ -25,3 +25,12 @@ a:hover {
 a:active {
     color: #FF7FB6;
 }
+
+/* What font to use */
+h1, h2, h3, a, li, th, br, ubuntu, p, blockquote, center {
+	font-family: Ubuntu, "Noto Sans", "Liberation Sans", Helvetica, Arial, sans-serif;
+}
+
+pre, tt, xmp, ubuntu-mono {
+font-family: monospace, "Ubuntu Monospace", Courier;
+}

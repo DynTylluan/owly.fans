@@ -6,7 +6,7 @@ I also made other edits, mostly to the colors used on some emojis to better fit 
 
 There's nothing much to add to this, feel free to use these emojis under the same license as the one Mutant Standard picked* and have fun.
 
-## Non-Mutant Standard Emojies
+## Non-Mutant Standard emojis
 
 There are a few emojis in this git that were not made by Mutant Standard. *Please review the licenses for each of the non-Mutant Standard emojis, as they might not be the same.
 
@@ -14,9 +14,9 @@ The non-Mutant Standard emojis are:
 
 ### Ferris the Rustacean
 
-As well as making the Mutant Standard Emojies, [Dzuk also made a pack of emojies](https://dzuk.zone/emoji) for [Ferris, the unofficial mascot for Rust](https://rustacean.dev).
+As well as making the Mutant Standard emojis, [Dzuk also made a pack of emojis](https://dzuk.zone/emoji) for [Ferris, the unofficial mascot for Rust](https://rustacean.dev).
 
-The pack is [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0), much like all of the Mutant Standard Emojies.
+The pack is [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0), much like all of the Mutant Standard emojis.
 
 Everything in the `/emojis/input/ferris/` was taken from the download on the Ferris page; **ferris.svg**, **ferris_party.svg**,  **ferris_question.svg**,  **ferris_smile.svg**,  **ferris_thinking.svg**,  **ferris_worried.svg**, and  **unsafe_ferris.svg**.
 
@@ -43,7 +43,7 @@ The file has been renamed as **pendragon.svg**.
 
 [MOREmoji](https://moremoji.allezsoyez.com) have made a number of emojis that are in the style of Twemoji, in this git, we used some of their pride flags, mostly as there were already a number of flags already in `/emojis/input/gsr/gsd/flags/`.
 
-Emojies that we used were **xenogender_flag.svg**, **twospirit_flag.svg**, **abrosexual_flag.svg**, **achillean_flag.svg**, **ally_flag.svg**, **demiromantic_flag.svg**, **original_pride_flag.svg**, **pangender_flag.svg**, **sapphic_flag.svg**, **sappho_lesbian_flag.svg**, **transfeminine_flag.svg**, **transmasculine_flag.svg**.
+emojis that we used were **xenogender_flag.svg**, **twospirit_flag.svg**, **abrosexual_flag.svg**, **achillean_flag.svg**, **ally_flag.svg**, **demiromantic_flag.svg**, **original_pride_flag.svg**, **pangender_flag.svg**, **sapphic_flag.svg**, **sappho_lesbian_flag.svg**, **transfeminine_flag.svg**, **transmasculine_flag.svg**.
 
 MOREmoji uses the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0).
 
@@ -79,5 +79,8 @@ The `rss.svg` icon was found [via Wikimedia Commons](https://commons.wikimedia.o
 
 ### Blobhaj
 The Blahaj emojis were made by [Heatherhorns](https://heatherhorns.com) and are [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
+
+### Emoji Kitchen
+We use some emojis taken from [Emoji Kitchen](https://emojipedia.org/emoji-kitchen), right now it's only the owl ones. The emojis are based upon [Noto Color Emoji](https://fonts.google.com/noto/specimen/Noto+Color+Emoji), a font that is [under an open license](https://owly.fans/fonts/ofl.html).
 
 > Cass Python of [OwlyFans](https://owly.fans)

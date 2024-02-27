@@ -1,4 +1,5 @@
 # robots.txt
+# https://owly.fans/robots.txt
 # Page is under the FOPL-ZERO license
 # https://owly.fans/license/fopl-zero
 
@@ -8,25 +9,10 @@
 # https://notabug.org/DynTylluan/owly.fans/src/main/robots.txt (mirror)
 # https://tildegit.org/cass/owly.fans/src/branch/main/robots.txt (mirror)
 
-# GPTBot is OpenAI's web crawler.
-# I do not want it to use my content as it does not cite its sources.
-# https://platform.openai.com/docs/gptbot
-User-agent: GPTBot
-User-agent: ChatGPT-User
-Disallow: /
-
-# Common Crawl bot.
-# From what I've leant from reading online, «[t]he majority of ChatGPT's
-# training data comes from the Common Crawl crawler bot».
-# Quote: https://datadome.co/threat-research/how-chatgpt-openai-might-use-your-content-now-in-the-future
-# https://commoncrawl.org/faq
-User-agent: CCBot
-Disallow: /
-
-# Google's AI training bot.
-# I also don't want to have my content used without giving me credit.
-# https://blog.google/technology/ai/an-update-on-web-publisher-controls
-User-agent: Google-Extended
+# AdIdxBot (Bing/Microsoft)
+# Used by Bing Ads for «quality control» for, you guessed it, ads!
+# https://bing.com/webmasters/help/which-crawlers-does-bing-use-8c184ec0
+User-Agent: AdIdxBot
 Disallow: /
 
 # Amazon
@@ -35,17 +21,98 @@ Disallow: /
 User-Agent: Amazonbot
 Disallow: /
 
-# Apple's bot.
+# Anthropic
+# «AI research and products that put safety at the
+# frontier» - no thanks!
+# https://anthropic.com
+User-agent: anthropic-ai
+Disallow: /
+
+# Apple's bot
 # Used for Siri and Spotlight Suggestions. Does not cite its sources.
 # https://support.apple.com/en-us/HT204683
 User-Agent: Applebot
 User-Agent: AppleNewsBot
 Disallow: /
 
+# Claude
+# Used to help AI
+# https://claude.ai
+User-agent: Claude-Web
+Disallow: /
+
+# Cohere
+# Stupid bot used to help artificial intelligence.
+# https://cohere.com
+User-agent: cohere-ai
+Disallow: /
+
+# Common Crawl bot
+# From what I've leant from reading online, «[t]he majority of ChatGPT's
+# training data comes from the Common Crawl crawler bot».
+# Quote: https://datadome.co/threat-research/how-chatgpt-openai-might-use-your-content-now-in-the-future
+# https://commoncrawl.org/faq
+User-agent: CCBot
+Disallow: /
+
+# FacebookBot
+# Used to «improve language models for our speech recognition technology»,
+# so more AI rubbish that I don't want from a company that I don't like.
+User-Agent: FacebookBot
+Disallow: /
+
+# Google's AdSense/StoreBot bots
+# Go away - I don't want you here.
+# https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers
+User-Agent: AdsBot-Google-Mobile
+User-Agent: Storebot-Google
+User-Agent: AdsBot-Google
+User-agent: Mediapartners-Google
+Disallow: /
+
+# Google's AI training bot
+# I also don't want to have my content used without giving me credit.
+# https://blog.google/technology/ai/an-update-on-web-publisher-controls
+User-agent: Google-Extended
+Disallow: /
+
+# GPTBot is OpenAI's web crawler
+# I do not want it to use my content as it does not cite its sources.
+# https://platform.openai.com/docs/gptbot
+User-agent: GPTBot
+User-agent: ChatGPT-User
+Disallow: /
+
+# ia_archiver
+# In the past, the Internet Archive (https://archive.org) used to have a
+# bot called ia_archiver that you could allow (or disallow) to index your
+# website, sometimes around 2017, this crawler stopped obeying robots.txt.
+
+# Putting ia_archiver and setting it to «Disallow: /» will not work. If
+# you really want your website to not be seen on this archive, you will
+# need to E-Mail info@archive.org.
+# https://blog.archive.org/2017/04/17/robots-txt-meant-for-search-engines-dont-work-well-for-web-archives
+# https://web.archive.org/web/20150322111536/http://archive.org/about/exclude.php
+# https://blog.reputationx.com/block-wayback-machine
+
 # Kitty
 # This bot is cool - go wild, queen
 User-Agent: digikitty_x86
 Allow: /
+
+# Magpie Crawler
+# Used to download pages and get «indexed and analysed by our system».
+# I don't want to use your service!
+User-agent: magpie-crawler
+Disallow: /
+
+# Pinterest crawler
+# I don't want my website to be used to «collect rich metadata like the
+# price, description and availability of your products» or however they
+# want to word that rubbish.
+# https://help.pinterest.com/en/business/article/pinterest-crawler
+User-agent: Pinterestbot
+Disallow: /
 
 # This is where I copy Bytemoth
 # I am taking it in good faith that Bytemoth knows what he's doing and that
@@ -55,15 +122,65 @@ User-agent: adsbot
 User-agent: AhrefsBot
 User-agent: BLEXBot
 User-agent: dotbot
-User agent: MTRobot
+User-agent: Pandalytics
 User-agent: SemrushBot
-User-agent: SemrushBot-SA
 User-agent: SemrushBot-BA
+User-agent: SemrushBot-BM
+User-agent: SemrushBot-CT
+User-agent: SemrushBot-SA
 User-agent: SemrushBot-SI
 User-agent: SemrushBot-SWA
-User-agent: SemrushBot-CT
-User-agent: SemrushBot-BM
 User-agent: serpstatbot
-User-agent: Pandalytics
+User agent: MTRobot
 User-agent: PageThing
 Disallow: /
+
+
+# Bots that you might like to block
+# There are a few bots that I am okay/don't really care all that much if
+# they index my website, but not everyone might be okay with them, so
+# if you copy this TXT on your website and want to have the bot not index
+# it, simply remove the «#» before the «User-agent» and «Disallow» part.
+
+# DuckDuckGo
+# The search engine website uses the following bot to index sites.
+# https://duckduckgo.com/duckduckbot
+# https://duckduckgo.com/duckduckgo-help-pages/results/duckduckbot
+# https://duckduckgo.com/duckduckgo-help-pages/results/sources
+# User-agent: DuckDuckBot
+# Disallow: /
+
+# Other Google bots
+# Don't like Google? Unmark these.
+# https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers
+# User-agent: Googlebot
+# User-agent: Googlebot-News
+# User-agent: Googlebot-Image
+# User-agent: Googlebot-Video
+# User-agent: Storebot-Google
+# User-agent: Google-InspectionTool
+# User-agent: GoogleOther
+# User-agent: Google-Extended
+# User-agent: APIs-Google
+# User-agent: AdsBot-Google-Mobile
+# User-agent: AdsBot-Google
+# User-agent: Mediapartners-Google
+# User-agent: FeedFetcher-Google
+# User-agent: GoogleProducer
+# User-agent: GoogleProducer; (+http://goo.gl/7y4SX) 
+# User-agent: google-speakr
+# Disallow: /
+
+# Don't allow any bots
+# If you don't want *any* good bots browsing your website, then unmark
+# this. Please note that there are some bots still that don't obay
+# robots.txt at all, like ia_archiver.
+# User-agent: *
+# Disallow: /
+
+# Allow all bots
+# If you do, however, want to allow all bots, you should uncheck the
+# following. You can also just *not* have a robots.txt and it'll
+# work all the same.
+# User-agent: *
+# Allow: /

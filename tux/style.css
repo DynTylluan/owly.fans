@@ -32,7 +32,7 @@ a:active {
 }
 
 /* What font to use */
-h1, h2, h3, a, th {
+h1, h2, h3, a, th, center {
 	font-family: Ubuntu, "Noto Sans", "Liberation Sans", Helvetica, Arial, sans-serif;
 }
 

@@ -48,7 +48,7 @@ uppercase,yell {
   src: url('../fonts/Cascadia.ttf');
 }
 
-h1, h2, h3, a, li, th, br, p, em {
+h1, h2, h3, a, li, th, br, p, em, center {
   font-family: 'Poppins', sans-serif;
 }
 
