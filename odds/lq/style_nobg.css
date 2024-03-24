@@ -1,0 +1,81 @@
+/* Such a big THANK YOU to devils of yourdevilfriends.art for showing me how this should be done! */
+
+/* LIGHT MODE */
+:root {
+    --color: #002626;
+    --link-color: #4A234A;
+    --bg-color: hsl(204, 44%, 65%);
+}
+/* unvisited link */
+a:link {
+    color: #4A234A;
+}
+
+/* visited link */
+a:visited {
+    color: #213F21;
+}
+
+/* mouse over link */
+a:hover {
+    color: #213F88;
+}
+
+/* selected link */
+a:active {
+    color: #5D2E87;
+}
+
+/* DARK MODE */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --color: #00A5A5;
+        --link-color: #B758B7;
+        --bg-color: hsl(30, 36%, 4%);
+    }
+/* unvisited link */
+a:link {
+	color: #B758B7;
+}
+
+/* visited link */
+a:visited {
+	color: #74DB74;
+}
+
+/* mouse over link */
+a:hover {
+	color: #889DCE;
+}
+
+/* selected link */
+a:active {
+	color: #9469BC;
+}
+}
+
+body {
+    max-width: 800px ;
+    margin: auto ;
+    color: var(--color);
+    background-image: var(--bg-image);
+    background-color: var(--bg-color);
+}
+
+/* unvisited link */
+a:link {
+    color: var(--link-color);
+}
+
+/* The following was written by yourdevilfriends.art - thank you */
+uppercase,yell {
+	text-transform: uppercase;
+}
+
+#header #forkme {
+  position: absolute;
+  margin: 0;
+  top: 0;
+  right: 0;
+  border: 0;
+}

@@ -1,0 +1,14 @@
+Add a contents side bark like on the Freedoom website that has:
+
+- index.html
+- A link to an about project page
+- Download
+- Screenshots
+- Help LQ page (LQ has a webbanner, so that will be good to link)
+
+- Report issues
+- Talk on Discord
+
+
+
+- For hex codes, only use colors used in Quake

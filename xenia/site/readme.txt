@@ -1,6 +1,6 @@
 ===============================================================================
                       ~=| README FOR XENIA'S WEBSITE |=~
-                           https://owly.fans/~xenia
+                         https://owly.fans/xenia/site
 ===============================================================================
 
 Hello there, welcome to the README for my website! My name is Xenia and I

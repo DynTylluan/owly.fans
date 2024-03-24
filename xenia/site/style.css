@@ -73,3 +73,23 @@ a:link {
 uppercase,yell {
 	text-transform: uppercase;
 }
+
+/* What font to use */
+@font-face {
+  font-family: 'TGRoman';
+  src: url('fonts/TGRoman-Regular.ttf');
+}
+
+
+@font-face {
+  font-family: 'Natural';
+  src: url('fonts/Natural-Mono-Alt-Regular.ttf');
+}
+
+h1, h2, h3, a, li, th, br, p, em, strong, blockquote, TGRoman, tgroman {
+  font-family: 'TGRoman';
+}
+
+pre, tt, xmp, Natural, natural {
+  font-family: 'Natural';
+}

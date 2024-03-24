@@ -1,0 +1,14 @@
+body {
+	background-color:#7EADCD;
+}
+
+/* What font to use */
+@font-face {
+  font-family: 'Geist';
+  src: url('fonts/Geist-Bold.woff2');
+}
+
+/* What font to use */
+h1, h2, h3, a, li, th, br, p {
+	font-family: Geist, Helvetica, Arial, sans-serif;
+}
