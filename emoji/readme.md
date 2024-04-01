@@ -83,4 +83,7 @@ The Blahaj emojis were made by [Heatherhorns](https://heatherhorns.com) and are 
 ### Emoji Kitchen
 We use some emojis taken from [Emoji Kitchen](https://emojipedia.org/emoji-kitchen), right now it's only the owl ones. The emojis are based upon [Noto Color Emoji](https://fonts.google.com/noto/specimen/Noto+Color+Emoji), a font that is [under an open license](https://owly.fans/fonts/ofl.html).
 
+### Breezewiki
+The logos for [Breezewiki](https://gitdab.com/cadence/breezewiki) are also here and are [under the GNU Affero General Public License](https://gitdab.com/cadence/breezewiki/src/branch/main/LICENSE).
+
 > Cass Python of [OwlyFans](https://owly.fans)
