@@ -4,11 +4,10 @@ body {
 
 /* What font to use */
 @font-face {
-  font-family: 'Geist';
-  src: url('fonts/Geist-Bold.woff2');
+  font-family: 'TGRoman';
+  src: url('../fonts/TGRoman-Regular.ttf');
 }
 
-/* What font to use */
-h1, h2, h3, a, li, th, br, p {
-	font-family: Geist, Helvetica, Arial, sans-serif;
+h1, h2, h3, a, li, th, br, p, em, strong, blockquote, TGRoman, tgroman {
+  font-family: 'TGRoman';
 }

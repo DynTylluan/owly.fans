@@ -8,6 +8,16 @@ body {
 	color:#0f0f0f;
 }
 
+/* What font to use */
+@font-face {
+  font-family: 'TGRoman';
+  src: url('../fonts/TGRoman-Regular.ttf');
+}
+
+h1, h2, h3, a, li, th, br, p, em, strong, blockquote, TGRoman, tgroman {
+  font-family: 'TGRoman';
+}
+
 /* unvisited link */
 a:link {
     color: #975777;
@@ -64,15 +74,4 @@ uppercase,yell {
   top: 0;
   right: 0;
   border: 0;
-}
-
-/* What font to use */
-@font-face {
-  font-family: 'Geist';
-  src: url('fonts/Geist-Bold.woff2');
-}
-
-/* What font to use */
-h1, h2, h3, a, li, th, br, p {
-	font-family: Geist, Helvetica, Arial, sans-serif;
 }
