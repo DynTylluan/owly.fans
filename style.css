@@ -15,7 +15,12 @@ h1 {
     --link-color: #3b0000;
     --bg-image: url(bg_light.png);
     --bg-color: hsl(204, 44%, 65%);
+    background-size: auto;
+    background-repeat: auto;
+    background-position: center;
+    background-attachment: fixed;
 }
+
 /* unvisited link */
 a:link {
     color: #975777;
@@ -43,7 +48,8 @@ a:active {
         --link-color: #20bdec;
         --bg-image: url(bg.png);
         --bg-color: hsl(30, 36%, 4%);
-    }
+}
+
 /* unvisited link */
 a:link {
 	color: #ffa8de;
@@ -71,17 +77,15 @@ body {
     color: var(--color);
     background-image: var(--bg-image);
     background-color: var(--bg-color);
+    background-size: auto;
+    background-repeat: auto;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 /* unvisited link */
 a:link {
     color: var(--link-color);
-}
-
-.blackstar {
- position:fixed;
- bottom:151;
- left:15%;
 }
 
 /* While this part was cool, I decided to get rid of it due to accessibility reasons, but what it did was remove the underlines for links
