@@ -1,5 +1,9 @@
 body {
 background: url(irc_bg.png);
+background-size: auto;
+background-repeat: auto;
+background-position: center;
+background-attachment: fixed;
 background-color:#00181E;
 color:#86C351;
 }
