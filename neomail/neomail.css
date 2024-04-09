@@ -1,0 +1,56 @@
+/* Colors based upon https://lospec.com/palette-list/retro-115 */
+
+body {
+background-color:#040026;
+color:#2C66C0;
+}
+
+/* unvisited link */
+a:link {
+    color: #165173;
+}
+
+/* visited link */
+a:visited {
+    color: #00f3fc;
+}
+
+/* mouse over link */
+a:hover {
+    color: #ffbcff;
+}
+
+/* selected link */
+a:active {
+    color: #d569f6;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #191441;
+}
+
+/* What font to use */
+h1, h2, h3, a, th, p, td, ubuntu {
+	font-family: Ubuntu, "Noto Sans", "Liberation Sans", Helvetica, Arial, sans-serif;
+}
+
+pre, tt, xmp, ubuntu-mono {
+font-family: monospace, "Ubuntu Monospace", Courier;
+}
+
+a {
+	text-decoration: underline;
+}
+
+a:hover {
+	text-decoration: none;
+}

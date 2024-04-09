@@ -1,0 +1,13 @@
+body {
+	background-color:#7EADCD;
+}
+
+/* What font to use */
+@font-face {
+  font-family: 'TGRoman';
+  src: url('../fonts/TGRoman-Regular.ttf');
+}
+
+h1, h2, h3, a, li, th, br, p, em, strong, blockquote, TGRoman, tgroman {
+  font-family: 'TGRoman';
+}
