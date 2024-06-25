@@ -36,7 +36,7 @@ User-Agent: AppleNewsBot
 Disallow: /
 
 # Claude
-# Used to help AI
+# Used to help AI.
 # https://claude.ai
 User-agent: Claude-Web
 Disallow: /
@@ -71,7 +71,7 @@ User-agent: Mediapartners-Google
 Disallow: /
 
 # Google's AI training bot
-# I also don't want to have my content used without giving me credit.
+# I don't want to have my content used without giving me credit.
 # https://blog.google/technology/ai/an-update-on-web-publisher-controls
 User-agent: Google-Extended
 Disallow: /
