@@ -1,6 +1,6 @@
 # robots.txt
 # https://owly.fans/robots.txt
-# Page is under the FOPL-ZERO license
+# Page is under FOPL-ZERO
 # https://owly.fans/license/fopl-zero
 
 # This page is also on git:
@@ -55,6 +55,11 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
+# EmailSiphon
+# Email harvesting bot, get outta here!
+User-agent: EmailSiphon
+Disallow: /
+
 # FacebookBot
 # Used to «improve language models for our speech recognition technology»,
 # so more AI rubbish that I don't want from a company that I don't like.
@@ -95,15 +100,17 @@ Disallow: /
 # https://web.archive.org/web/20150322111536/http://archive.org/about/exclude.php
 # https://blog.reputationx.com/block-wayback-machine
 
-# Kitty
-# This bot is cool - go wild, queen
-User-Agent: digikitty_x86
-Allow: /
-
 # Magpie Crawler
 # Used to download pages and get «indexed and analysed by our system».
 # I don't want to use your service!
 User-agent: magpie-crawler
+Disallow: /
+
+# MindSpider
+# According to cdc.gov, this bot «appears to be ill-behaved», so it is
+# being blocked here.
+# https://www.cdc.gov/robots.txt
+User-agent: MindSpider
 Disallow: /
 
 # Pinterest crawler
