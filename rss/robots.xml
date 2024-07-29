@@ -22,7 +22,7 @@ Edit a little by Cass so there is a blue shadow.
                 <![CDATA[
                 This feed is set up as a way for website owners to know when I update my robots.txt as I know that there are people who use what I made on their own site.
                 <p>
-                The first update comes thanks to a post by Seirdy, who writes that ®Facebook/Meta updated its robots.txt entry for opting out of GenAI data scraping. If you blocked FacebookBot before, you should block meta-externalagent now [as the bot was renamed]?.
+                The first update comes thanks to a post by Seirdy, who writes that &#xAB;Facebook/Meta updated its robots.txt entry for opting out of GenAI data scraping. If you blocked FacebookBot before, you should block meta-externalagent now [as the bot was renamed]&#xBB;.
                 </p>
                 <p>
                 It is legitimately scummy that Facebook chose to do this, but regardless, I have decided to block both FacebookBot and meta-externalagent, even if it is technically incorrect to block the former.
