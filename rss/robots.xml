@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>robots.txt updates</title>
+        <link>https://owly.fans/rss/robots.xml</link>
+        <description>See when OwlyFans updates their robots.txt</description>
+        <language>en-us</language>
+        <image>
+            <url>https://owly.fans/rss/robot.png</url>
+        </image>
+<!--
+Image credit: Robot by Adrien Coquet
+https://commons.wikimedia.org/wiki/File:Noun_Robot_1749584.svg
+
+Edit a little by Cass so there is a blue shadow.
+-->
+
+        <item>
+            <title>2024-07-29: This feed is set up</title>
+            <pubDate>Mon, 29 Jul 2024</pubDate>
+            <description>
+                <![CDATA[
+                This feed is set up as a way for website owners to know when I update my robots.txt as I know that there are people who use what I made on their own site.
+                <p>
+                The first update comes thanks to a post by Seirdy, who writes that ®Facebook/Meta updated its robots.txt entry for opting out of GenAI data scraping. If you blocked FacebookBot before, you should block meta-externalagent now [as the bot was renamed]?.
+                </p>
+                <p>
+                It is legitimately scummy that Facebook chose to do this, but regardless, I have decided to block both FacebookBot and meta-externalagent, even if it is technically incorrect to block the former.
+                </p>
+                <p>
+				Thank you to Piper of <a href="https://yarrie.net">yarrie.net</a> for showing me this originally.
+                </p>
+                <p>
+                The Seirdy post: <a href="https://pleroma.envs.net/notice/AkLKKvKad7mzVYN8bY">https://pleroma.envs.net/notice/AkLKKvKad7mzVYN8bY</a>
+                </p>
+                ]]>
+            </description>
+        </item>
+
+    </channel>
+</rss>

@@ -3,6 +3,9 @@
 # Page is under FOPL-ZERO
 # https://owly.fans/license/fopl-zero
 
+# Want to know when this page is updated? Follow the RSS!
+# https://owly.fans/rss/robots.xml
+
 # This page is also on git:
 # Please feel free to suggest a change to this file
 # https://github.com/DynTylluan/owly.fans/blob/main/robots.txt (main)
@@ -64,6 +67,7 @@ Disallow: /
 # Used to «improve language models for our speech recognition technology»,
 # so more AI rubbish that I don't want from a company that I don't like.
 User-Agent: FacebookBot
+User-Agent: meta-externalagent
 Disallow: /
 
 # Google's AdSense/StoreBot bots
@@ -150,7 +154,7 @@ Disallow: /
 # it, simply remove the «#» before the «User-agent» and «Disallow» part.
 
 # DuckDuckGo
-# The search engine website uses the following bot to index sites.
+# The search engine website uses the following bots to index sites.
 # https://duckduckgo.com/duckduckbot
 # https://duckduckgo.com/duckduckgo-help-pages/results/duckduckbot
 # https://duckduckgo.com/duckduckgo-help-pages/results/sources
