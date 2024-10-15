@@ -1,4 +1,6 @@
-/* See humans.txt for full thanks */
+/* This started out as a Halloween theme, but honestly, having a Winter vibe to my site is kinda nice. I don't wanna be cringe, but I asked ChatCPT to pick the colors out for this CSS file, sorry! */
+
+/* See humans.html for full thanks */
 
 body {
 	max-width: 800px ;
@@ -7,57 +9,65 @@ body {
 
 h1 {
 	text-align: left ;
-}/* LIGHT MODE */
-:root {
-    --color: #0f0f0f;
-    --link-color: #3b0000;
-    --bg-color: hsl(204, 44%, 65%);
 }
+
+/* LIGHT MODE */
+:root {
+    --color: #cc1b07;
+    --link-color: #96160b;
+    --bg-color: hsl(28.42, 76.88%, 66.08%);
+    background-size: auto;
+    background-repeat: auto;
+    background-position: center;
+    background-attachment: fixed;
+}
+
 /* unvisited link */
 a:link {
-    color: #975777;
+    color: #550f0a;
 }
 
 /* visited link */
 a:visited {
-    color: #13131f;
+    color: #da3c14;
 }
 
 /* mouse over link */
 a:hover {
-    color: #1313df;
+    color: #150b09;
 }
 
 /* selected link */
 a:active {
-    color: #37374b;
+    color: #28120e;
 }
 
 /* DARK MODE */
 @media (prefers-color-scheme: dark) {
     :root {
-        --color: #ffffff;
-        --link-color: #20bdec;
+        --color: #f0e68c;
+        --link-color: #ff4500;
         --bg-color: hsl(30, 36%, 4%);
-    }
+}
+
 /* unvisited link */
 a:link {
-	color: #ffa8de;
+	color: #ff6347;
 }
 
 /* visited link */
 a:visited {
-	color: #ffc5a8;
+	color: #cd5c5c;
 }
 
 /* mouse over link */
 a:hover {
-	color: #7fbfff;
+	color: #ffcccb;
 }
 
 /* selected link */
 a:active {
-	color: #ffffff;
+	color: #ffdead;
 }
 }
 
@@ -67,6 +77,10 @@ body {
     color: var(--color);
     background-image: var(--bg-image);
     background-color: var(--bg-color);
+    background-size: auto;
+    background-repeat: auto;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 /* unvisited link */
@@ -74,29 +88,19 @@ a:link {
     color: var(--link-color);
 }
 
- .blackstar {
- position:fixed;
- bottom:151;
- left:15%;
-}
-
-/* This removed the underline for links */
+/* While this part was cool, I decided to get rid of it due to accessibility reasons, but what it did was remove the underlines for links
 a:link { text-decoration: none; }
 a:visited { text-decoration: none; }
 a:hover { text-decoration: underline; }
-a:active { text-decoration: underline; }
+a:active { text-decoration: underline; } */
 
 /* What font to use */
-h1, h2, h3, a, th, blockquote, ubuntu, center {
+h1, h2, h3, a, li, th, br, ubuntu, p, blockquote, center {
 	font-family: Ubuntu, "Noto Sans", "Liberation Sans", Helvetica, Arial, sans-serif;
 }
 
 pre, tt, xmp, ubuntu-mono {
 font-family: monospace, "Ubuntu Monospace", Courier;
-}
-
-p {
-	font-family: Ubuntu, "Noto Sans", "Liberation Sans", Helvetica, Arial, sans-serif;
 }
 
 a {
@@ -113,7 +117,7 @@ figure {
 	display: block;
 	margin: 0 auto;
 	max-width: 95vw;
-	border: 1px solid #000;
+	border: 1px solid #999;
 	background: #000;
 	background: rgba(0, 0, 0, 0.5);
 	width: min-content;
@@ -153,6 +157,28 @@ uppercase,yell {
 .spoiler-text:focus {
   background: #e8e8e8;
   color: inherit;
+}
+
+/* Following taken from /accessibility/#autoplay part of the website */
+.flashing {
+    -webkit-filter: blur(5px); /* For Safari 6.0 - 9.0 */
+    filter: blur(5px);
+}
+
+.flashing:hover {
+    -webkit-filter: none;
+    filter: none;
+}
+
+/* Following taken from /accessibility/#autoplay part of the website */
+.flashing {
+    -webkit-filter: blur(5px); /* For Safari 6.0 - 9.0 */
+    filter: blur(5px);
+}
+
+.flashing:hover {
+    -webkit-filter: none;
+    filter: none;
 }
 
 .tag {

@@ -1,3 +1,5 @@
+/* This started out as a Halloween theme, but honestly, having a Winter vibe to my site is kinda nice. I don't wanna be cringe, but I asked ChatCPT to pick the colors out for this CSS file, sorry! */
+
 /* See humans.html for full thanks */
 
 body {
@@ -11,10 +13,10 @@ h1 {
 
 /* LIGHT MODE */
 :root {
-    --color: #0f0f0f;
-    --link-color: #3b0000;
-    --bg-image: url(bg_light.png);
-    --bg-color: hsl(204, 44%, 65%);
+    --color: #cc1b07;
+    --link-color: #96160b;
+    --bg-image: url(odds/winter2024/rw23_1.png);
+    --bg-color: hsl(28.42, 76.88%, 66.08%);
     background-size: auto;
     background-repeat: auto;
     background-position: center;
@@ -23,51 +25,51 @@ h1 {
 
 /* unvisited link */
 a:link {
-    color: #975777;
+    color: #550f0a;
 }
 
 /* visited link */
 a:visited {
-    color: #13131f;
+    color: #da3c14;
 }
 
 /* mouse over link */
 a:hover {
-    color: #1313df;
+    color: #150b09;
 }
 
 /* selected link */
 a:active {
-    color: #37374b;
+    color: #28120e;
 }
 
 /* DARK MODE */
 @media (prefers-color-scheme: dark) {
     :root {
-        --color: #ffffff;
-        --link-color: #20bdec;
-        --bg-image: url(bg.png);
+        --color: #f0e68c;
+        --link-color: #ff4500;
+        --bg-image: url(odds/winter2024/plus_1flesh2_gl.png);
         --bg-color: hsl(30, 36%, 4%);
 }
 
 /* unvisited link */
 a:link {
-	color: #ffa8de;
+	color: #ff6347;
 }
 
 /* visited link */
 a:visited {
-	color: #ffc5a8;
+	color: #cd5c5c;
 }
 
 /* mouse over link */
 a:hover {
-	color: #7fbfff;
+	color: #ffcccb;
 }
 
 /* selected link */
 a:active {
-	color: #ffffff;
+	color: #ffdead;
 }
 }
 
