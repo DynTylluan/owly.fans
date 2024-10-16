@@ -69,7 +69,7 @@ hwclock --systohc
 echo "en_US.UTF-8 UTF-8" > /etc/locale.gen
 locale-gen
 localectl set-locale en_US.UTF-8
-localectl set-keymap uk
+localectl set-keymap us
 EOF
 echo "Wocawization compwete, rawr XD"
 
