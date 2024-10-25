@@ -2,8 +2,8 @@
 
 /* What font to use */
 /* Yes, I know that using <ubuntu> is such a lazy hack,
-but come on... it's being used on a page called "Stolas
-from Helluva Boss Ate Blitzo's BALLS Homepage" ;-) */
+but come on... it's being used on a page called «Stolas
+from Helluva Boss Ate Blitzo's BALLS Homepage» ;-) */
 h1, h2, h3, a, li, th, br, p, ubuntu {
 	font-family: Ubuntu, "Noto Sans", "Liberation Sans", Helvetica, Arial, sans-serif;
 }
