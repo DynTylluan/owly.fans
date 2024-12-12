@@ -39,43 +39,86 @@
     </style>
 </head>
 <body>
-<p><script type="text/javascript">
-var images = [
-'<img src="jan.png"  title="Drawing of a stick person next to a fire, below is the text &#xAB;Welcome. This webpage is here when you forget what you were about to do. Please, sit down and enjoy the warm glow of this electric fire&#xBB;." alt="Drawing of a stick person next to a fire, below is the text &#xAB;Welcome. This webpage is here when you forget what you were about to do. Please, sit down and enjoy the warm glow of this electric fire&#xBB;.">',
-'<img src="soweli.png"  title="Drawing of a stick person next to a fire, below is the text &#xAB;Welcome. This webpage is here when you forget what you were about to do. Please, sit down and enjoy the warm glow of this electric fire&#xBB;." alt="Drawing of a stick person next to a fire, below is the text &#xAB;Welcome. This webpage is here when you forget what you were about to do. Please, sit down and enjoy the warm glow of this electric fire&#xBB;.">',
-'<img src="waso.png"  title="Drawing of a stick person next to a fire, below is the text &#xAB;Welcome. This webpage is here when you forget what you were about to do. Please, sit down and enjoy the warm glow of this electric fire&#xBB;." alt="Drawing of a stick person next to a fire, below is the text &#xAB;Welcome. This webpage is here when you forget what you were about to do. Please, sit down and enjoy the warm glow of this electric fire&#xBB;.">',
-'<img src="selo.png"  title="Drawing of a stick person next to a fire, below is the text &#xAB;Welcome. This webpage is here when you forget what you were about to do. Please, sit down and enjoy the warm glow of this electric fire&#xBB;." alt="Drawing of a stick person next to a fire, below is the text &#xAB;Welcome. This webpage is here when you forget what you were about to do. Please, sit down and enjoy the warm glow of this electric fire&#xBB;.">',
-'<img src="sijelo.png"  title="Drawing of a stick person next to a fire, below is the text &#xAB;Welcome. This webpage is here when you forget what you were about to do. Please, sit down and enjoy the warm glow of this electric fire&#xBB;." alt="Drawing of a stick person next to a fire, below is the text &#xAB;Welcome. This webpage is here when you forget what you were about to do. Please, sit down and enjoy the warm glow of this electric fire&#xBB;.">',
-'',
-]
-document.write(images[Math.floor(Math.random() * images.length)]);
-</script><img src="seli.gif"> <script type="text/javascript">
-var images = [
-'<img src="mu.png"  title="A dog that is sitting down with you." alt="A dog that is sitting down with you.">',
-'<img src="suno.png"  title="A CRT computer." alt="A CRT computer.">',
-'<img src="walo.png"  title="A human skull." alt="A human skull.">',
-'<img src="pu.png"  title="A drawing of a book." alt="A drawing of a book.">',
-'',
-'',
-'',
-'',
-'',
-'',
-'',
-'',
-'',
-'',
-'',
-'',
-'',
-'',
-'',
-'',
-'',
-]
-document.write(images[Math.floor(Math.random() * images.length)]);
-</script></p>
-    <p><img src="text1.png"><img src="space.png"><img src="text2.png"><img src="space.png"><img src="text3.png"><img src="space.png"><img src="text4.png"><img src="space.png"><img src="text5.png"><img src="space.png"><img src="text6.png"><img src="space.png"><img src="text7.png"><img src="space.png"><img src="text8.png"><img src="space.png"><img src="text9.png"><img src="space.png"><img src="text7.png"><img src="space.png"><img src="text10.png"><img src="space.png"><img src="text11.png"><img src="space.png"><img src="text12.png"><img src="space.png"><img src="text13.png"><img src="space.png"><img src="text14.png"><img src="space.png"><img src="text15.png"><img src="space.png"><img src="text16.png"><img src="space.png"><img src="text17.png"><img src="space.png"><img src="text18.png"><img src="space.png"><img src="text19.png"><img src="space.png"><img src="text20.png"><img src="space.png"><img src="text21.png"><img src="space.png"><img src="text22.png"><img src="space.png"><img src="text19.png"><img src="space.png"><img src="text23.png"><img src="space.png"><img src="text24.png"></p>
-    <p><center><font color="black">&#x2605;</font></center></p>
+<p><img id=image0 /><img src=seli.gif /><img id=image1 /></p>
+<p><img src=text1.png /><img src=space.png /><img src=text2.png /><img src=space.png /><img src=text3.png /><img src=space.png /><img src=text4.png /><img src=space.png /><img src=text5.png /><img src=space.png /><img src=text6.png /><img src=space.png /><img src=text7.png /><img src=space.png /><img src=text8.png /><img src=space.png /><img src=text9.png /><img src=space.png /><img src=text7.png /><img src=space.png /><img src=text10.png /><img src=space.png /><img src=text11.png /><img src=space.png /><img src=text12.png /><img src=space.png /><img src=text13.png /><img src=space.png /><img src=text14.png /><img src=space.png /><img src=text15.png /><img src=space.png /><img src=text16.png /><img src=space.png /><img src=text17.png /><img src=space.png /><img src=text18.png /><img src=space.png /><img src=text19.png /><img src=space.png /><img src=text20.png /><img src=space.png /><img src=text21.png /><img src=space.png /><img src=text22.png /><img src=space.png /><img src=text19.png /><img src=space.png /><img src=text23.png /><img src=space.png /><img src=text24.png /></p>
+<p style="text-align: center; color: black;">★</p>
+<script>
+class WeightedRandom {
+    constructor(entries) {
+        this.entries = [];
+        let sum = 0;
+        for (const e of entries) {
+            sum += e.weight ?? 1;
+            this.entries.push({
+                weight: sum,
+                value: e.value,
+            });
+        }
+        this.total = sum;
+    }
+    pick() {
+        const r = Math.random() * this.total;
+        for (const e of this.entries)  
+            if (e.weight > r)
+                return e.value;
+    }
+}
+
+const image0_sources = [
+    null,
+    "jan.png",
+    "soweli.png",
+    "waso.png",
+    "selo.png",
+    "sijelo.png",
+];
+const image0_source = image0_sources[Math.floor(Math.random() * image0_sources.length)];
+if (image0_source !== null) {
+    image0.src = image0_source;
+    image0.title = image0.alt = "Drawing of a stick person next to a fire, below is the text «Welcome. This webpage is here when you forget what you were about to do. Please, sit down and enjoy the warm glow of this electric fire»."
+}
+else {
+    image0.parentElement.removeChild(image0)
+}
+
+const image1_options = new WeightedRandom([
+    {
+        value: null,
+        weight: 17,
+    },
+    {
+        value: {
+            src: "mu.png",
+            alt: "A dog that is sitting down with you.",
+        },
+    },
+    {
+        value: {
+            src: "suno.png",
+            alt: "A CRT computer.",
+        },
+    },
+    {
+        value: {
+            src: "walo.png",
+            alt: "A human skull.",
+        },
+    },
+    {
+        value: {
+            src: "pu.png",
+            alt: "A drawing of a book.",
+        },
+    },
+]);
+const image1_choice = image1_options.pick();
+if (image1_choice !== null) {
+    image1.src = image1_choice.src;
+    image1.title = image0.alt = image1_choice.alt;
+}
+else {
+    image1.parentElement.removeChild(image1)
+}
+</script>
 </body>
 </html>
