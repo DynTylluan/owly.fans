@@ -15,7 +15,7 @@ h1 {
 :root {
     --color: #cc1b07;
     --link-color: #96160b;
-    --bg-image: url(odds/winter2024/rw23_1.png);
+    --bg-image: url(odds/christmas2024/starsbg.png);
     --bg-color: hsl(28.42, 76.88%, 66.08%);
     background-size: auto;
     background-repeat: auto;
@@ -48,7 +48,7 @@ a:active {
     :root {
         --color: #f0e68c;
         --link-color: #ff4500;
-        --bg-image: url(odds/winter2024/plus_1flesh2_gl.png);
+        --bg-image: url(odds/christmas2024/starsbg.png);
         --bg-color: hsl(30, 36%, 4%);
 }
 
