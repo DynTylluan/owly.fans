@@ -31,8 +31,11 @@
 # Also see: https://owly.fans/archinstall
 
 # Remakes your system partitions and mounts them
+
+umount -R /mnt
+
 echo "Making new fiwesystems... ^w^"
-mkfs.fat -L "ESP" -F 32 /dev/sda1
+mkfs.fat -n "ESP" -F 32 /dev/sda1
 mkfs.ext4 -L "Arch" -F /dev/sda2
 echo "Done mwaking fiwesystems..."
 
@@ -40,14 +43,14 @@ echo "Mounting filesystems..."
 mount /dev/disk/by-label/Arch /mnt
 mkdir /mnt/home
 mkdir -p /mnt/boot
-mount /dev/disk/by-label/home /mnt/home
+mount /dev/disk/by-label/HOME /mnt/home
 mount /dev/disk/by-label/ESP /mnt/boot
 echo "Done mwounting fiwesystems. ;)"
 
 # Installs a base system with some useful packages
 pacstrap /mnt --noconfirm \
   adobe-source-han-sans-jp-fonts amd-ucode ark base base-devel discord \
-  etworkmanager file-roller firefox flatpak galculator gallery-dl gdm git \
+  networkmanager file-roller firefox flatpak galculator gallery-dl gdm git \
   gnome-contacts gnome-software gogh gvfs gvfs-mtp hexchat httrack \
   jre8-openjdk kernel-modules-hook linux linux-firmware linux-headers nano \
   nextcloud-client nm-connection-editor notepadqq noto-fonts-cjk ntfs-3g \
@@ -122,6 +125,8 @@ echo "Done editing config fiwes.... :D"
 echo "Instawwing usew packages......"
 
 arch-chroot /mnt /bin/bash <<EOF
+rm -r /home/cass/yay-bin
+sudo -u cass git clone https://aur.archlinux.org/yay-bin.git /home/cass/yay-bin
 cd /home/cass/yay-bin
 sudo -u cass makepkg -sic --noconfirm
 sudo -u cass yay --gendb
