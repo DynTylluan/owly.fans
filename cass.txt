@@ -55,13 +55,13 @@ pacstrap /mnt --noconfirm \
   jre8-openjdk jre17-openjdk kernel-modules-hook linux linux-firmware linux-headers nano \
   nextcloud-client nm-connection-editor notepadqq noto-fonts-cjk \
   pacman-contrib papirus-icon-theme pavucontrol \
-  pinta pipewire pipewire-alsa pipewire-jack pipewire-pulse pipewire-v4l2 pipewire-audio pipewire-libcamera wireplumber \
+  pipewire pipewire-alsa pipewire-jack pipewire-pulse pipewire-v4l2 pipewire-audio pipewire-libcamera wireplumber \
   polkit-gnome prismlauncher qpwgraph ttf-ubuntu-font-family unrar unzip \
   vlc wayland xdg-desktop-portal-gtk xfce4 xfce4-goodies xorg-server \
   yt-dlp zip
 
 
-genstab -L /mnt > /mnt/etc/fstab
+genfstab -L /mnt > /mnt/etc/fstab
 
 # Localize your system
 echo "Wocawizing youw system... UwU"
@@ -136,7 +136,7 @@ EOF
 arch-chroot /mnt /bin/bash <<EOF
 sudo -u cass yay -S \
   gzdoom chocolate-doom \
-  activate-linux-git fastfetch gogh-git \
+  activate-linux-git fastfetch gogh-git pinta \
   catfish xfce4-docklike-plugin mugshot gallery-dl phinger-cursors \
   spotify-adblock
 EOF
